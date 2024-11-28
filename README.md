@@ -15,15 +15,12 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月25日更新 5 篇，共计 5 篇。
-* [NexusSplats: Efficient 3D Gaussian Splatting in the Wild](http://arxiv.org/abs/2411.14514v1)
-* [Entropy Bootstrapping for Weakly Supervised Nuclei Detection](http://arxiv.org/abs/2411.13528v1)
-* [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](http://arxiv.org/abs/2411.14133v1)
-* [M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction](http://arxiv.org/abs/2411.12635v1)
-* [Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning](https://arxiv.org/abs/2411.10616)
-
+## 11月28日更新 1 篇，共计 6 篇。
+* [Differentiable Inverse Rendering with Interpretable Basis BRDFs](https://arxiv.org/abs/2411.17994)
 
 ## Neural Radiance Fields
+* 渲染
+  * [Differentiable Inverse Rendering with Interpretable Basis BRDFs](https://arxiv.org/abs/2411.17994)
 
 ## Anomaly Detection(异常检测)
 
