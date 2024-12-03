@@ -15,8 +15,9 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 11月28日更新 1 篇，共计 6 篇。
-* [Differentiable Inverse Rendering with Interpretable Basis BRDFs](https://arxiv.org/abs/2411.17994)
+## 12月3日更新 2 篇，共计 8 篇。
+* [LoyalDiffusion: A Diffusion Model Guarding Against Data Replication](http://arxiv.org/abs/2412.01118v1)
+* [Good, Cheap, and Fast: Overfitted Image Compression with Wasserstein Distortion](http://arxiv.org/abs/2412.00505v1)
 
 ## Neural Radiance Fields
 * 渲染
@@ -74,7 +75,7 @@
 
 
 ## Image/video Compression(图像/视频压缩)
-
+* [Good, Cheap, and Fast: Overfitted Image Compression with Wasserstein Distortion](http://arxiv.org/abs/2412.00505v1)
 
 ## Image Classification(图像分类)
 
@@ -91,6 +92,7 @@
 ## Othere(其它)
 * [Entropy Bootstrapping for Weakly Supervised Nuclei Detection](http://arxiv.org/abs/2411.13528v1)
 * [Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning](https://arxiv.org/abs/2411.10616)
+* [LoyalDiffusion: A Diffusion Model Guarding Against Data Replication](http://arxiv.org/abs/2412.01118v1)
 
 <a name="0"/>
 
