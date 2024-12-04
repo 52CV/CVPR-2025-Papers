@@ -15,9 +15,8 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月3日更新 2 篇，共计 8 篇。
-* [LoyalDiffusion: A Diffusion Model Guarding Against Data Replication](http://arxiv.org/abs/2412.01118v1)
-* [Good, Cheap, and Fast: Overfitted Image Compression with Wasserstein Distortion](http://arxiv.org/abs/2412.00505v1)
+## 12月4日更新 1 篇，共计 9 篇。
+* [Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2412.02395v1)
 
 ## Neural Radiance Fields
 * 渲染
@@ -65,6 +64,9 @@
 ## Medical Image Progress(医学影响处理)
 
 ## Autonomous Driving(自动驾驶)
+* 轨迹预测
+  * [Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2412.02395v1)
+
 
 ## Object Tracking(目标跟踪)
 
