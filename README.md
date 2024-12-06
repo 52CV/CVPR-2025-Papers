@@ -15,8 +15,8 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 12月4日更新 1 篇，共计 9 篇。
-* [Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2412.02395v1)
+## 12月6日更新 1 篇，共计 10 篇。
+* [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](http://arxiv.org/abs/2412.04000v1)<br>:house:[project](https://bit.ly/ifmdm_supplementary)
 
 ## Neural Radiance Fields
 * 渲染
@@ -89,7 +89,7 @@
 
 
 ## Face
-
+* [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](http://arxiv.org/abs/2412.04000v1)<br>:house:[project](https://bit.ly/ifmdm_supplementary)
 
 ## Othere(其它)
 * [Entropy Bootstrapping for Weakly Supervised Nuclei Detection](http://arxiv.org/abs/2411.13528v1)
