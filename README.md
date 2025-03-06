@@ -16,29 +16,37 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月5日更新 12 篇，共计 84+12 篇。
-* [STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks](http://arxiv.org/abs/2503.02689v1)
-* [Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection](http://arxiv.org/abs/2503.02424v1)<br>:star:[code](https://github.com/luow23/INP-Former)
-* [BHViT: Binarized Hybrid Vision Transformer](http://arxiv.org/abs/2503.02394v1)
-* [PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers](http://arxiv.org/abs/2503.02388v1)
-* [Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content](http://arxiv.org/abs/2503.02357v1)<br>:star:[code](https://github.com/zzc-1998/Q-Eval)
-* [Words or Vision: Do Vision-Language Models Have Blind Faith in Text?](http://arxiv.org/abs/2503.02199v1)
-* [h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform](http://arxiv.org/abs/2503.02187v1)<br>:star:[code](https://github.com/nktoan/h-edit)
-* [Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection](http://arxiv.org/abs/2503.02101v1)<br>:star:[code](https://github.com/heboyong/Generalized-Diffusion-Detector)
-* [V$^2$Dial: Unification of Video and Visual Dialog via Multimodal Experts](http://arxiv.org/abs/2503.02063v1)
-* [ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points](http://arxiv.org/abs/2503.02745v1)<br>:house:[project](https://vcc.tech/research/2025/ArcPro)
-* [Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval](http://arxiv.org/abs/2503.01980v1)<br>:star:[code](https://github.com/aimagelab/ReT)
-* [Volume Tells: Dual Cycle-Consistent Diffusion for 3D Fluorescence Microscopy De-noising and Super-Resolution](http://arxiv.org/abs/2503.02261v1)
+## 3月6日更新 14 篇，共计 96+14 篇。
+* [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](http://arxiv.org/abs/2503.03751v1)<br>:house:[project](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
+* [LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant](http://arxiv.org/abs/2503.03663v1)
+* [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP](http://arxiv.org/abs/2503.03613v1)<br>:star:[code](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
+* [Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection](http://arxiv.org/abs/2503.03562v1)
+* [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
+* [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients](http://arxiv.org/abs/2503.03272v1)<br>:star:[code](https://github.com/ryime/PDSG-SDA)
+* [Optimizing for the Shortest Path in Denoising Diffusion Model](http://arxiv.org/abs/2503.03265v1)<br>:star:[code](https://github.com/UnicomAI/ShortDF)
+* [Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks](http://arxiv.org/abs/2503.03144v1)
+* [Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis](http://arxiv.org/abs/2503.03132v1)<br>:star:[code](https://4d-dsns.github.io/DSNS/)
+* [SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)<br>:house:[project](https://huggingface.co/SenseLLM/SpiritSight-Agent-8B)
+* [DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles](http://arxiv.org/abs/2503.03651v1)<br>:star:[code](https://github.com/showlab/DoraCycle)
+* [Do ImageNet-trained models learn shortcuts? The impact of frequency shortcuts on generalization](http://arxiv.org/abs/2503.03519v1)
+* [CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization](http://arxiv.org/abs/2503.03430v1)<br>:star:[code](https://github.com/Xu2729/CoSDH)
+* [Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers](http://arxiv.org/abs/2503.03307v1)<br>:star:[code](https://github.com/jizhaox/relpose-event)
 
+## Feature Matching(‌特征匹配)
+* [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
 
 ## Neural Radiance Fields
 * [RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings](http://arxiv.org/abs/2502.19781v1)
 * 渲染
   * [Differentiable Inverse Rendering with Interpretable Basis BRDFs](https://arxiv.org/abs/2411.17994)
+* 4D 
+  * [4Deform: Neural Surface Deformation for Robust Shape Interpolation](http://arxiv.org/abs/2502.20208v1)
+  * [Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis](http://arxiv.org/abs/2503.03132v1)<br>:star:[code](https://4d-dsns.github.io/DSNS/)
 
 ## Anomaly Detection(异常检测)
 * [One-for-More: Continual Diffusion Model for Anomaly Detection](http://arxiv.org/abs/2502.19848v1)<br>:star:[code](https://github.com/FuNz-0/One-for-More)
 * [Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection](http://arxiv.org/abs/2503.02424v1)<br>:star:[code](https://github.com/luow23/INP-Former)
+* [Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection](http://arxiv.org/abs/2503.03562v1)
 * [Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection](http://arxiv.org/abs/2502.20981v1)
 * OOD
   * [CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging](http://arxiv.org/abs/2503.00325v1)
@@ -59,11 +67,6 @@
 * 数据集
   * [HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization](http://arxiv.org/abs/2503.01725v1)<br>:star:[code](https://harmonyset.github.io/)
 
-## Machine learning(机器学习)
-* 类增量学习
-  * [Task-Agnostic Guided Feature Expansion for Class-Incremental Learning](http://arxiv.org/abs/2503.00823v1)<br>:star:[code](https://github.com/bwnzheng/TagFex_CVPR2025)
-* 对抗
-  * [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](http://arxiv.org/abs/2411.14133v1)
 
 ## 虚拟头像
 
@@ -76,8 +79,17 @@
 
 ## Self-Supervised(监督)
 
+## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
+* [Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks](http://arxiv.org/abs/2503.03144v1)
 
-# Machine Learning(机器学习)
+## Machine learning(机器学习)
+* 类增量学习
+  * [Task-Agnostic Guided Feature Expansion for Class-Incremental Learning](http://arxiv.org/abs/2503.00823v1)<br>:star:[code](https://github.com/bwnzheng/TagFex_CVPR2025)
+* 对抗
+  * [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](http://arxiv.org/abs/2411.14133v1)
+  * [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP](http://arxiv.org/abs/2503.03613v1)<br>:star:[code](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
+  * [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients](http://arxiv.org/abs/2503.03272v1)<br>:star:[code](https://github.com/ryime/PDSG-SDA)
+
 
 ## Scene Graph Generation(场景图生成)
 * [Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing](http://arxiv.org/abs/2503.00548v1)
@@ -85,10 +97,13 @@
 ## GAN/Image Synthesis(图像生成)
 * 图像生成  
   * [DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models](http://arxiv.org/abs/2503.01645v1)
+* 视频生成
+  * [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](http://arxiv.org/abs/2503.03751v1)<br>:house:[project](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
 * 图像-视频
   * [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](http://arxiv.org/abs/2503.00948v1)
 
 ## Video 
+* [LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant](http://arxiv.org/abs/2503.03663v1)
 * 视频监控
   * [Precise Event Spotting in Sports Videos: Solving Long-Range Dependency and Class Imbalance](http://arxiv.org/abs/2503.00147v1)
 * 视频理解
@@ -154,7 +169,7 @@
 * 3D目标检测
   * [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](http://arxiv.org/abs/2502.19630v1)<br>:star:[code](https://github.com/mickeykang16/Ev3DOD)
 
-## Video Retrieval
+## Image/Video Retrieval
 
 ## Image Fusion(图像融合)
 * [One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](http://arxiv.org/abs/2502.19854v1)<br>:star:[code](https://github.com/AWCXV/GIFNet)
@@ -179,6 +194,10 @@
   * [Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual](http://arxiv.org/abs/2503.01288v1)
 * 去水印
   * [Decoder Gradient Shield: Provable and High-Fidelity Prevention of Gradient-Based Box-Free Watermark Removal](http://arxiv.org/abs/2502.20924v1)
+* 去噪
+  * [BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance](http://arxiv.org/abs/2502.19694v1)
+  * [Denoising Functional Maps: Diffusion Models for Shape Correspondence](http://arxiv.org/abs/2503.01845v1)<br>:star:[code](https://alekseizhuravlev.github.io/denoising-functional-maps/)
+  * [Optimizing for the Shortest Path in Denoising Diffusion Model](http://arxiv.org/abs/2503.03265v1)<br>:star:[code](https://github.com/UnicomAI/ShortDF)
 
 ## Image Segmentation(图像分割)
 * 裂纹分割
@@ -208,14 +227,11 @@
 * [Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content](http://arxiv.org/abs/2503.02357v1)<br>:star:[code](https://github.com/zzc-1998/Q-Eval)
 * [PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers](http://arxiv.org/abs/2503.02388v1)
 * [Attention Distillation: A Unified Approach to Visual Characteristics Transfer](http://arxiv.org/abs/2502.20235v1)<br>:star:[code](https://github.com/xugao97/AttentionDistillation)
-* [4Deform: Neural Surface Deformation for Robust Shape Interpolation](http://arxiv.org/abs/2502.20208v1)
 * [OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels](http://arxiv.org/abs/2502.20087v1)<br>:star:[code](https://github.com/LMMMEng/OverLoCK)
 * [ReCon: Enhancing True Correspondence Discrimination through Relation Consistency for Robust Noisy Correspondence Learning](http://arxiv.org/abs/2502.19962v1)<br>:star:[code](https://github.com/qxzha/ReCon)
 * [CLIP Under the Microscope: A Fine-Grained Analysis of Multi-Object Representation](http://arxiv.org/abs/2502.19842v1)<br>:star:[code](https://clip-analysis.github.io)
 * [Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network](http://arxiv.org/abs/2502.19754v1)<br>:star:[code](https://github.com/Qiu-XY/LDSB)
 * [CacheQuant: Comprehensively Accelerated Diffusion Models](http://arxiv.org/abs/2503.01323v1)<br>:star:[code](https://github.com/BienLuky/CacheQuant)
-* [BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance](http://arxiv.org/abs/2502.19694v1)
-* [Denoising Functional Maps: Diffusion Models for Shape Correspondence](http://arxiv.org/abs/2503.01845v1)<br>:star:[code](https://alekseizhuravlev.github.io/denoising-functional-maps/)
 * [Rethinking Epistemic and Aleatoric Uncertainty for Active Open-Set Annotation: An Energy-Based Approach](http://arxiv.org/abs/2502.19691v1)<br>:star:[code](https://github.com/chenchenzong/EAOA)
 * [Knowledge Bridger: Towards Training-free Missing Multi-modality Completion](http://arxiv.org/abs/2502.19834v1)
 * [STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding](http://arxiv.org/abs/2502.20678v1)
@@ -226,6 +242,11 @@
 * [Distilled Prompt Learning for Incomplete Multimodal Survival Prediction](http://arxiv.org/abs/2503.01653v1)<br>:star:[code](https://github.com/Innse/DisPro)
 * [Rashomon Sets for Prototypical-Part Networks: Editing Interpretable Models in Real-Time](http://arxiv.org/abs/2503.01087v1)
 * [WeGen: A Unified Model for Interactive Multimodal Generation as We Chat](http://arxiv.org/abs/2503.01115v1)<br>:star:[code](https://github.com/hzphzp/WeGen)
+* [SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)<br>:house:[project](https://huggingface.co/SenseLLM/SpiritSight-Agent-8B)
+* [DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles](http://arxiv.org/abs/2503.03651v1)<br>:star:[code](https://github.com/showlab/DoraCycle)
+* [Do ImageNet-trained models learn shortcuts? The impact of frequency shortcuts on generalization](http://arxiv.org/abs/2503.03519v1)
+* [CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization](http://arxiv.org/abs/2503.03430v1)<br>:star:[code](https://github.com/Xu2729/CoSDH)
+* [Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers](http://arxiv.org/abs/2503.03307v1)<br>:star:[code](https://github.com/jizhaox/relpose-event)
 
 <a name="0"/>
 
