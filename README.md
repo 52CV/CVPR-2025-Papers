@@ -16,21 +16,20 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月6日更新 14 篇，共计 96+14 篇。
-* [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](http://arxiv.org/abs/2503.03751v1)<br>:house:[project](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
-* [LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant](http://arxiv.org/abs/2503.03663v1)
-* [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP](http://arxiv.org/abs/2503.03613v1)<br>:star:[code](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
-* [Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection](http://arxiv.org/abs/2503.03562v1)
-* [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
-* [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients](http://arxiv.org/abs/2503.03272v1)<br>:star:[code](https://github.com/ryime/PDSG-SDA)
-* [Optimizing for the Shortest Path in Denoising Diffusion Model](http://arxiv.org/abs/2503.03265v1)<br>:star:[code](https://github.com/UnicomAI/ShortDF)
-* [Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks](http://arxiv.org/abs/2503.03144v1)
-* [Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis](http://arxiv.org/abs/2503.03132v1)<br>:star:[code](https://4d-dsns.github.io/DSNS/)
-* [SpiritSight Agent: Advanced GUI Agent with One Look](http://arxiv.org/abs/2503.03196v1)<br>:house:[project](https://huggingface.co/SenseLLM/SpiritSight-Agent-8B)
-* [DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles](http://arxiv.org/abs/2503.03651v1)<br>:star:[code](https://github.com/showlab/DoraCycle)
-* [Do ImageNet-trained models learn shortcuts? The impact of frequency shortcuts on generalization](http://arxiv.org/abs/2503.03519v1)
-* [CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization](http://arxiv.org/abs/2503.03430v1)<br>:star:[code](https://github.com/Xu2729/CoSDH)
-* [Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers](http://arxiv.org/abs/2503.03307v1)<br>:star:[code](https://github.com/jizhaox/relpose-event)
+## 3月7日更新 13 篇，共计 110+13 篇。
+* [FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video](http://arxiv.org/abs/2503.04720v1)<br>:house:[project](https://yuegao.me/FluidNexus)
+* [Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation](http://arxiv.org/abs/2503.04718v1)
+* [Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2503.04639v1)
+* [Omnidirectional Multi-Object Tracking](http://arxiv.org/abs/2503.04565v1)<br>:star:[code](https://github.com/xifen523/OmniTrack)
+* [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](http://arxiv.org/abs/2503.04501v1)<br>:star:[code](https://xinxinzuo2353.github.io/imfine/)
+* [ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images](http://arxiv.org/abs/2503.04475v1)
+* [Question-Aware Gaussian Experts for Audio-Visual Question Answering](http://arxiv.org/abs/2503.04459v1)<br>:star:[code](https://github.com/AIM-SKKU/QA-TIGER)<br>:star:[code](https://aim-skku.github.io/QA-TIGER/)
+* [S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting](http://arxiv.org/abs/2503.04314v1)
+* [Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](http://arxiv.org/abs/2503.04229v1)
+* [SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer](http://arxiv.org/abs/2503.04119v1)
+* [Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration](http://arxiv.org/abs/2503.04030v1)
+* [EgoLife: Towards Egocentric Life Assistant](http://arxiv.org/abs/2503.03803v1)<br>:star:[code](https://egolife-ai.github.io/)<br>:star:[code](https://github.com/EvolvingLMMs-Lab/EgoLife)
+* [Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression](http://arxiv.org/abs/2503.04131v1)
 
 ## Feature Matching(‌特征匹配)
 * [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
@@ -71,6 +70,7 @@
 ## 虚拟头像
 
 ## Vision-Language
+* [Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](http://arxiv.org/abs/2503.04229v1)
 * [Words or Vision: Do Vision-Language Models Have Blind Faith in Text?](http://arxiv.org/abs/2503.02199v1)
 * [MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Discrete Visual Representations](http://arxiv.org/abs/2503.01019v1)
 * [Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval](http://arxiv.org/abs/2503.01980v1)<br>:star:[code](https://github.com/aimagelab/ReT)
@@ -90,9 +90,18 @@
   * [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP](http://arxiv.org/abs/2503.03613v1)<br>:star:[code](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
   * [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients](http://arxiv.org/abs/2503.03272v1)<br>:star:[code](https://github.com/ryime/PDSG-SDA)
 
+## 机器人导航/SLAM
+* 地点/位置识别
+  * [ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images](http://arxiv.org/abs/2503.04475v1)
+
+## Scene Flow Estimation(场景流估计)
+* [Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation](http://arxiv.org/abs/2503.04718v1)
 
 ## Scene Graph Generation(场景图生成)
 * [Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing](http://arxiv.org/abs/2503.00548v1)
+
+## Style Transfer(风格迁移)
+* [SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer](http://arxiv.org/abs/2503.04119v1)
 
 ## GAN/Image Synthesis(图像生成)
 * 图像生成  
@@ -114,23 +123,30 @@
 * 3DGS
   * [NexusSplats: Efficient 3D Gaussian Splatting in the Wild](http://arxiv.org/abs/2411.14514v1)
   * [DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](http://arxiv.org/abs/2503.00746v1)<br>:star:[code](https://dof-gaussian.github.io)
+* 3D修复
+  * [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](http://arxiv.org/abs/2503.04501v1)<br>:star:[code](https://xinxinzuo2353.github.io/imfine/)
 * 三维重建
   * [M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction](http://arxiv.org/abs/2411.12635v1)
   * [MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image](http://arxiv.org/abs/2502.20861v1)<br>:star:[code](https://github.com/QINGQINGLE/MESC-3D)
   * [MUSt3R: Multi-view Network for Stereo 3D Reconstruction](http://arxiv.org/abs/2503.01661v1)
   * [Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models](http://arxiv.org/abs/2503.01774v1)
+  * [FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video](http://arxiv.org/abs/2503.04720v1)<br>:house:[project](https://yuegao.me/FluidNexus)
 * 深度补全
   * [SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion](http://arxiv.org/abs/2503.01257v1)<br>:star:[code](https://github.com/Lan1eve/SVDC)
 * 场景理解
   * [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](http://arxiv.org/abs/2503.00513v1)<br>:star:[code](https://github.com/hanxunyu/Inst3D-LMM)
 
+
 ## Point Cloud(点云)
 * [STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds](http://arxiv.org/abs/2503.00801v1)
 * 点云补全
   * [GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors](http://arxiv.org/abs/2502.19896v1)
+  * [Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration](http://arxiv.org/abs/2503.04030v1)
 
 ## Visual Question Answering(视觉问答)
 * [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](http://arxiv.org/abs/2503.00413v1)
+* 视听问答
+  * [Question-Aware Gaussian Experts for Audio-Visual Question Answering](http://arxiv.org/abs/2503.04459v1)<br>:star:[code](https://github.com/AIM-SKKU/QA-TIGER)<br>:star:[code](https://aim-skku.github.io/QA-TIGER/)
 
 ## Person Re-id
 
@@ -155,6 +171,8 @@
   * [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)
 * 报告生成
   * [Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation](http://arxiv.org/abs/2502.20056v1)
+* 医学图像分割
+  * [Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2503.04639v1)
 
 ## Autonomous Driving(自动驾驶)
 * [CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving](http://arxiv.org/abs/2502.19908v1)
@@ -163,6 +181,8 @@
 
 
 ## Object Tracking(目标跟踪)
+* 多目标跟踪
+  * [Omnidirectional Multi-Object Tracking](http://arxiv.org/abs/2503.04565v1)<br>:star:[code](https://github.com/xifen523/OmniTrack)
 
 ## Object Detection(目标检测)
 * [MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism](http://arxiv.org/abs/2503.01463v1)
@@ -186,6 +206,7 @@
 * [Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning](http://arxiv.org/abs/2502.21130v1)
 
 ## Image Super-Resolution(超分辨率)
+* [S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting](http://arxiv.org/abs/2503.04314v1)
 * [DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution](http://arxiv.org/abs/2503.01187v1)<br>:star:[code](https://github.com/zirui0625/DifIISR)
 * [Volume Tells: Dual Cycle-Consistent Diffusion for 3D Fluorescence Microscopy De-noising and Super-Resolution](http://arxiv.org/abs/2503.02261v1)
 
@@ -217,6 +238,8 @@
 * [One-Step Event-Driven High-Speed Autofocus](http://arxiv.org/abs/2503.01214v1)
 * [Data-free Universal Adversarial Perturbation with Pseudo-semantic Prior](http://arxiv.org/abs/2502.21048v1)
 * [Entropy Bootstrapping for Weakly Supervised Nuclei Detection](http://arxiv.org/abs/2411.13528v1)
+* [EgoLife: Towards Egocentric Life Assistant](http://arxiv.org/abs/2503.03803v1)<br>:star:[code](https://egolife-ai.github.io/)<br>:star:[code](https://github.com/EvolvingLMMs-Lab/EgoLife)
+* [Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression](http://arxiv.org/abs/2503.04131v1)
 * [STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks](http://arxiv.org/abs/2503.02689v1)
 * [Voxel-Aggergated Feature Synthesis: Efficient Dense Mapping for Simulated 3D Reasoning](https://arxiv.org/abs/2411.10616)
 * [LoyalDiffusion: A Diffusion Model Guarding Against Data Replication](http://arxiv.org/abs/2412.01118v1)
