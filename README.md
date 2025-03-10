@@ -16,20 +16,14 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月7日更新 13 篇，共计 110+13 篇。
-* [FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video](http://arxiv.org/abs/2503.04720v1)<br>:house:[project](https://yuegao.me/FluidNexus)
-* [Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation](http://arxiv.org/abs/2503.04718v1)
-* [Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2503.04639v1)
-* [Omnidirectional Multi-Object Tracking](http://arxiv.org/abs/2503.04565v1)<br>:star:[code](https://github.com/xifen523/OmniTrack)
-* [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](http://arxiv.org/abs/2503.04501v1)<br>:star:[code](https://xinxinzuo2353.github.io/imfine/)
-* [ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images](http://arxiv.org/abs/2503.04475v1)
-* [Question-Aware Gaussian Experts for Audio-Visual Question Answering](http://arxiv.org/abs/2503.04459v1)<br>:star:[code](https://github.com/AIM-SKKU/QA-TIGER)<br>:star:[code](https://aim-skku.github.io/QA-TIGER/)
-* [S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting](http://arxiv.org/abs/2503.04314v1)
-* [Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](http://arxiv.org/abs/2503.04229v1)
-* [SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer](http://arxiv.org/abs/2503.04119v1)
-* [Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration](http://arxiv.org/abs/2503.04030v1)
-* [EgoLife: Towards Egocentric Life Assistant](http://arxiv.org/abs/2503.03803v1)<br>:star:[code](https://egolife-ai.github.io/)<br>:star:[code](https://github.com/EvolvingLMMs-Lab/EgoLife)
-* [Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression](http://arxiv.org/abs/2503.04131v1)
+## 3月10日更新 6 篇，共计 123+6 篇。
+* [AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](http://arxiv.org/abs/2503.05665v1)<br>:star:[code](https://github.com/zengqunzhao/AIM-Fair)<br>:star:[code](https://zengqunzhao.github.io/AIMFair)
+* [Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces](http://arxiv.org/abs/2503.05283v1)
+* [DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction](http://arxiv.org/abs/2503.05484v1)<br>:star:[code](https://wangmiaowei.github.io/DecoupledGaussian.github.io/)
+* [Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions](http://arxiv.org/abs/2503.05186v1)
+* [Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs](http://arxiv.org/abs/2503.05082v1)<br>:star:[code](https://zhongyingji.github.io/guidevd-3dgs/)
+* [StickMotion: Generating 3D Human Motions by Drawing a Stickman](http://arxiv.org/abs/2503.04829v1)
+
 
 ## Feature Matching(‌特征匹配)
 * [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
@@ -124,6 +118,7 @@
   * [NexusSplats: Efficient 3D Gaussian Splatting in the Wild](http://arxiv.org/abs/2411.14514v1)
   * [S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting](http://arxiv.org/abs/2503.04314v1)
   * [DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting](http://arxiv.org/abs/2503.00746v1)<br>:star:[code](https://dof-gaussian.github.io)
+  * [Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs](http://arxiv.org/abs/2503.05082v1)<br>:star:[code](https://zhongyingji.github.io/guidevd-3dgs/)
 * 三维重建
   * [M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction](http://arxiv.org/abs/2411.12635v1)
   * [MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image](http://arxiv.org/abs/2502.20861v1)<br>:star:[code](https://github.com/QINGQINGLE/MESC-3D)
@@ -154,6 +149,7 @@
 * [SGC-Net: Stratified Granular Comparison Network for Open-Vocabulary HOI Detection](http://arxiv.org/abs/2503.00414v1)<br>:star:[code](https://github.com/Phil0212/SGC-Net)
 
 ## Human Motion Generation(人体运动生成)
+* [StickMotion: Generating 3D Human Motions by Drawing a Stickman](http://arxiv.org/abs/2503.04829v1)
 * [SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance](http://arxiv.org/abs/2503.01291v1)<br>:star:[code](https://4dvlab.github.io/project_page/semgeomo/)
 
 ## Action Detection(动作检测)
@@ -189,6 +185,8 @@
   * [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](http://arxiv.org/abs/2502.19630v1)<br>:star:[code](https://github.com/mickeykang16/Ev3DOD)
 
 ## Image/Video Retrieval
+* 文本-视频检索
+  * [Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions](http://arxiv.org/abs/2503.05186v1)
 
 ## Image Fusion(图像融合)
 * [One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](http://arxiv.org/abs/2502.19854v1)<br>:star:[code](https://github.com/AWCXV/GIFNet)
@@ -270,6 +268,9 @@
 * [Do ImageNet-trained models learn shortcuts? The impact of frequency shortcuts on generalization](http://arxiv.org/abs/2503.03519v1)
 * [CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization](http://arxiv.org/abs/2503.03430v1)<br>:star:[code](https://github.com/Xu2729/CoSDH)
 * [Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers](http://arxiv.org/abs/2503.03307v1)<br>:star:[code](https://github.com/jizhaox/relpose-event)
+* [AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](http://arxiv.org/abs/2503.05665v1)<br>:star:[code](https://github.com/zengqunzhao/AIM-Fair)<br>:star:[code](https://zengqunzhao.github.io/AIMFair)
+* [Escaping Plato's Cave: Towards the Alignment of 3D and Text Latent Spaces](http://arxiv.org/abs/2503.05283v1)
+* [DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction](http://arxiv.org/abs/2503.05484v1)<br>:star:[code](https://wangmiaowei.github.io/DecoupledGaussian.github.io/)
 
 <a name="0"/>
 
