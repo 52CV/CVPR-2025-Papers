@@ -16,28 +16,20 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月12日更新 2 篇，共计 150+20 篇。
-* [MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention](http://arxiv.org/abs/2503.08664v1)<br>:house:[project](https://johann.wang/MEAT/)<br>:star:[code](https://github.com/johannwyh/MEAT)
-* [GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection](http://arxiv.org/abs/2503.08639v1)
-* [SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories](http://arxiv.org/abs/2503.08625v1)<br>:star:[code](https://github.com/aim-uofa/SegAgent)
-* [LiSu: A Dataset and Method for LiDAR Surface Normal Estimation](http://arxiv.org/abs/2503.08601v1)
-* [HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding](http://arxiv.org/abs/2503.08585v1)
-* [Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing](http://arxiv.org/abs/2503.08429v1)<br>:star:[code](https://github.com/FengodChen/DMP-DUN-CVPR2025)
-* [Recognition-Synergistic Scene Text Editing](http://arxiv.org/abs/2503.08387v1)<br>:star:[code](https://github.com/ZhengyaoFang/RS-STE)
-* [Parametric Point Cloud Completion for Polygonal Surface Reconstruction](http://arxiv.org/abs/2503.08363v1)<br>:star:[code](https://parametric-completion.github.io)
-* [Mitigating Ambiguities in 3D Classification with Gaussian Splatting](http://arxiv.org/abs/2503.08352v1)
-* [Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks](http://arxiv.org/abs/2503.08269v1)
-* [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](http://arxiv.org/abs/2503.08257v1)
-* [HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views](http://arxiv.org/abs/2503.08140v1)<br>:star:[code](https://csiro-robotics.github.io/HOTFormerLoc)
-* [Towards All-in-One Medical Image Re-Identification](http://arxiv.org/abs/2503.08173v1)<br>:star:[code](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch)
-* [AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification](http://arxiv.org/abs/2503.08121v1)<br>:star:[code](https://github.com/agvpreid25/AG-VPReID-Net)
-* [MMRL: Multi-Modal Representation Learning for Vision-Language Models](http://arxiv.org/abs/2503.08497v1)<br>:star:[code](https://github.com/yunncheng/MMRL)
-* [AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models](http://arxiv.org/abs/2503.08417v1)
-* [Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](http://arxiv.org/abs/2503.08306v1)
-* [ObjectMover: Generative Object Movement with Video Prior](http://arxiv.org/abs/2503.08037v1)<br>:star:[code](https://xinyu-andy.github.io/ObjMover)
-* [RayFlow: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories](http://arxiv.org/abs/2503.07699v1)
-* [Cross-modal Causal Relation Alignment for Video Question Grounding](http://arxiv.org/abs/2503.07635v1)<br>:star:[code](https://github.com/WissingChen/CRA-GQA)
+## 3月13日更新 8 篇，共计 170+8 篇。
+* [BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v1)<br>:house:[project](https://sites.google.com/view/bimba-mllm)
+* [Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis](http://arxiv.org/abs/2503.09556v1)
+* [Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder](http://arxiv.org/abs/2503.09496v1)
+* [DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction](http://arxiv.org/abs/2503.09491v1)
+* [Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness](http://arxiv.org/abs/2503.09487v1)
+* [VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary](http://arxiv.org/abs/2503.09402v1)<br>:star:[code](https://github.com/showlab/VLog)
+* [Training Data Provenance Verification: Did Your Model Use Synthetic Data from My Generative Model for Training?](http://arxiv.org/abs/2503.09122v1)<br>:star:[code](https://github.com/xieyc99/TrainProVe)
+* [Unified Dense Prediction of Video Diffusion](http://arxiv.org/abs/2503.09344v1)
 
+
+
+## Dense Prediction(密集预测)
+* [Unified Dense Prediction of Video Diffusion](http://arxiv.org/abs/2503.09344v1)
 
 ## Feature Matching(‌特征匹配)
 * [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
@@ -180,7 +172,9 @@
 
 ## Visual Question Answering(视觉问答)
 * [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](http://arxiv.org/abs/2503.00413v1)
-* [Cross-modal Causal Relation Alignment for Video Question Grounding](http://arxiv.org/abs/2503.07635v1)<br>:star:[code](https://github.com/WissingChen/CRA-GQA)
+* Video-QA 
+  * [Cross-modal Causal Relation Alignment for Video Question Grounding](http://arxiv.org/abs/2503.07635v1)<br>:star:[code](https://github.com/WissingChen/CRA-GQA)
+  * [BIMBA: Selective-Scan Compression for Long-Range Video Question Answering](http://arxiv.org/abs/2503.09590v1)<br>:house:[project](https://sites.google.com/view/bimba-mllm)
 * 视听问答
   * [Question-Aware Gaussian Experts for Audio-Visual Question Answering](http://arxiv.org/abs/2503.04459v1)<br>:star:[code](https://github.com/AIM-SKKU/QA-TIGER)<br>:star:[code](https://aim-skku.github.io/QA-TIGER/)
 
@@ -283,6 +277,8 @@
 * [Zero-Shot Head Swapping in Real-World Scenarios](http://arxiv.org/abs/2503.00861v1)
 * [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](http://arxiv.org/abs/2412.04000v1)<br>:house:[project](https://bit.ly/ifmdm_supplementary)
 * [Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks](http://arxiv.org/abs/2503.08269v1)
+* 人脸表情识别
+  * [Electromyography-Informed Facial Expression Reconstruction for Physiological-Based Synthesis and Analysis](http://arxiv.org/abs/2503.09556v1)
 * 假脸识别/检测
   * [Towards General Visual-Linguistic Face Forgery Detection(V2)](http://arxiv.org/abs/2502.20698v1)<br>:star:[code](https://github.com/skJack/VLFFD.git)
 * 人脸动画
@@ -339,6 +335,11 @@
 * [Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach](http://arxiv.org/abs/2503.08306v1)
 * [ObjectMover: Generative Object Movement with Video Prior](http://arxiv.org/abs/2503.08037v1)<br>:star:[code](https://xinyu-andy.github.io/ObjMover)
 * [RayFlow: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories](http://arxiv.org/abs/2503.07699v1)
+* [Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder](http://arxiv.org/abs/2503.09496v1)
+* [DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction](http://arxiv.org/abs/2503.09491v1)
+* [Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness](http://arxiv.org/abs/2503.09487v1)
+* [VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary](http://arxiv.org/abs/2503.09402v1)<br>:star:[code](https://github.com/showlab/VLog)
+* [Training Data Provenance Verification: Did Your Model Use Synthetic Data from My Generative Model for Training?](http://arxiv.org/abs/2503.09122v1)<br>:star:[code](https://github.com/xieyc99/TrainProVe)
 
 <a name="0"/>
 
