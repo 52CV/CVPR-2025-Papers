@@ -16,22 +16,22 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月14日更新 13 篇，共计 178+13 篇。
-* [Transformers without Normalization](http://arxiv.org/abs/2503.10622v1)<br>:star:[code](https://jiachenzhu.github.io/DyT/)
-* [GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping](http://arxiv.org/abs/2503.10143v1)<br>:star:[code](https://liujf1226.github.io/GaussHDR)
-* [UniGoal: Towards Universal Zero-shot Goal-oriented Navigation](http://arxiv.org/abs/2503.10630v1)
-* [MetricGrids: Arbitrary Nonlinear Approximation with Elementary Metric Grids based Implicit Neural Representation](http://arxiv.org/abs/2503.10000v1)<br>:star:[code](https://github.com/wangshu31/MetricGrids)
-* [NeighborRetr: Balancing Hub Centrality in Cross-Modal Retrieval](http://arxiv.org/abs/2503.10526v1)<br>:star:[code](https://github.com/zzezze/NeighborRetr)
-* [4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models](http://arxiv.org/abs/2503.10437v1)<br>:star:[code](https://4d-langsplat.github.io)
-* [IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification](http://arxiv.org/abs/2503.10324v1)
-* [Unlocking Generalization Power in LiDAR Point Cloud Registration](http://arxiv.org/abs/2503.10149v1)<br>:star:[code](https://github.com/peakpang/UGP)
-* [Channel-wise Noise Scheduled Diffusion for Inverse Rendering in Indoor Scenes](http://arxiv.org/abs/2503.09993v1)
-* [Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification](http://arxiv.org/abs/2503.09962v1)<br>:star:[code](https://github.com/sssaury/HAM)
-* [MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)<br>:star:[code](https://moflow-imle.github.io)
-* [Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.09669v1)<br>:star:[code](https://silent-branding.github.io/)
-* [ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation](http://arxiv.org/abs/2503.10358v1)
+## 3月17日更新 11 篇，共计 191+11 篇。
+* [VGGT: Visual Geometry Grounded Transformer](http://arxiv.org/abs/2503.11651v1)<br>:star:[code](https://vgg-t.github.io/)<br>:star:[code](https://github.com/facebookresearch/vggt)
+* [Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](http://arxiv.org/abs/2503.11240v1)
+* [Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption](http://arxiv.org/abs/2503.11221v1)<br>:star:[code](https://tianhewu.github.io/A-FINE-page.github.io/)
+* [GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior](http://arxiv.org/abs/2503.11143v1)<br>:star:[code](https://github.com/silence-tang/GaussianIP)
+* [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](http://arxiv.org/abs/2503.11140v1)
+* [DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation](http://arxiv.org/abs/2503.11122v1)<br>:star:[code](https://github.com/Hongbin98/DriveGEN)
+* [Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models](http://arxiv.org/abs/2503.11071v1)
+* [Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data](http://arxiv.org/abs/2503.11032v1)
+* [Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)
+* [Subnet-Aware Dynamic Supernet Training for Neural Architecture Search](http://arxiv.org/abs/2503.10740v1)
+* [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](http://arxiv.org/abs/2503.11629v1)<br>:star:[code](https://github.com/sail-sg/TreeMeshGPT)
 
 
+## Protecting copyright(保护版权)
+* [Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models](http://arxiv.org/abs/2503.11071v1)
 
 ## Dense Prediction(密集预测)
 * [Unified Dense Prediction of Video Diffusion](http://arxiv.org/abs/2503.09344v1)
@@ -72,6 +72,7 @@
 ## Vision Transformers
 * [Split Adaptation for Pre-trained Vision Transformers](http://arxiv.org/abs/2503.00441v1)<br>:star:[code](https://github.com/conditionWang/Split_Adaptation)
 * [BHViT: Binarized Hybrid Vision Transformer](http://arxiv.org/abs/2503.02394v1)
+* [VGGT: Visual Geometry Grounded Transformer](http://arxiv.org/abs/2503.11651v1)<br>:star:[code](https://vgg-t.github.io/)<br>:star:[code](https://github.com/facebookresearch/vggt)
 * [Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer](http://arxiv.org/abs/2503.00226v1)
 
 ## Dataset/Benchmark(数据集/基准)
@@ -96,10 +97,16 @@
 
 ## Self-Supervised(监督)
 
+## Neural Architecture Search(神经架构搜索)
+* [Subnet-Aware Dynamic Supernet Training for Neural Architecture Search](http://arxiv.org/abs/2503.10740v1)
+
+
 ## MC/KD/Pruning(模型压缩/知识蒸馏/剪枝)
 * [Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks](http://arxiv.org/abs/2503.03144v1)
 
 ## Machine learning(机器学习)
+* 强化学习
+  * [Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](http://arxiv.org/abs/2503.11240v1)
 * 联邦学习
   * [Geometric Knowledge-Guided Localized Global Distribution Alignment for Federated Learning](http://arxiv.org/abs/2503.06457v1)<br>:star:[code](https://github.com/WeiDai-David/2025CVPR_GGEUR)
 * 主动学习
@@ -110,6 +117,7 @@
   * [GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs](http://arxiv.org/abs/2411.14133v1)
   * [CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP](http://arxiv.org/abs/2503.03613v1)<br>:star:[code](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)
   * [Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients](http://arxiv.org/abs/2503.03272v1)<br>:star:[code](https://github.com/ryime/PDSG-SDA)
+  * [Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data](http://arxiv.org/abs/2503.11032v1)
 
 ## 机器人导航/SLAM
 * 机器人
@@ -129,6 +137,7 @@
 * [SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer](http://arxiv.org/abs/2503.04119v1)
 
 ## GAN/Image Synthesis(图像生成)
+* [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](http://arxiv.org/abs/2503.11629v1)<br>:star:[code](https://github.com/sail-sg/TreeMeshGPT)
 * 三维生成
   * [DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation](http://arxiv.org/abs/2503.06900v1)
 * 图像生成  
@@ -141,6 +150,7 @@
 * 文本-图像
   * [Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.09669v1)<br>:star:[code](https://silent-branding.github.io/)
   * [ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation](http://arxiv.org/abs/2503.10358v1)
+  * [DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation](http://arxiv.org/abs/2503.11122v1)<br>:star:[code](https://github.com/Hongbin98/DriveGEN)
 
 ## Video 
 * [LION-FS: Fast & Slow Video-Language Thinker as Online Video Assistant](http://arxiv.org/abs/2503.03663v1)
@@ -204,6 +214,7 @@
 * [StickMotion: Generating 3D Human Motions by Drawing a Stickman](http://arxiv.org/abs/2503.04829v1)
 * [SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance](http://arxiv.org/abs/2503.01291v1)<br>:star:[code](https://4dvlab.github.io/project_page/semgeomo/)
 * [MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention](http://arxiv.org/abs/2503.08664v1)<br>:house:[project](https://johann.wang/MEAT/)<br>:star:[code](https://github.com/johannwyh/MEAT)
+* [GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior](http://arxiv.org/abs/2503.11143v1)<br>:star:[code](https://github.com/silence-tang/GaussianIP)
 * 人体运动恢复
   * [HumanMM: Global Human Motion Recovery from Multi-shot Videos](http://arxiv.org/abs/2503.07597v1)<br>:star:[code](https://zhangyuhong01.github.io/HumanMM/)
 
@@ -217,6 +228,7 @@
 
 ## Medical Image Progress(医学影响处理)
 * [LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging](http://arxiv.org/abs/2502.20985v1)
+* [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](http://arxiv.org/abs/2503.11140v1)
 * CT 去噪
   * [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)
 * 报告生成
@@ -235,6 +247,7 @@
 * 轨迹预测
   * [Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2412.02395v1)
   * [MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)<br>:star:[code](https://moflow-imle.github.io)
+  * [Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)
 
 ## Object Tracking(目标跟踪)
 * 多目标跟踪
@@ -285,6 +298,8 @@
   * [BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance](http://arxiv.org/abs/2502.19694v1)
   * [Denoising Functional Maps: Diffusion Models for Shape Correspondence](http://arxiv.org/abs/2503.01845v1)<br>:star:[code](https://alekseizhuravlev.github.io/denoising-functional-maps/)
   * [Optimizing for the Shortest Path in Denoising Diffusion Model](http://arxiv.org/abs/2503.03265v1)<br>:star:[code](https://github.com/UnicomAI/ShortDF)
+* 图像质量
+  * [Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption](http://arxiv.org/abs/2503.11221v1)<br>:star:[code](https://tianhewu.github.io/A-FINE-page.github.io/)
 
 ## Image Segmentation(图像分割)
 * 裂纹分割
