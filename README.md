@@ -97,6 +97,7 @@
 
 ## Industrial Anomaly Detection(工业缺陷检测)
 * [DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection](http://arxiv.org/abs/2503.13985v1)
+* [Towards Training-free Anomaly Detection with Vision and Language Foundation Models](http://arxiv.org/abs/2503.18325v1)<br>:star:[code](https://github.com/zhang0jhon/LogSAD)
 
 ## Neural Radiance Fields
 * [LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene](http://arxiv.org/abs/2503.18513v1)
@@ -119,7 +120,6 @@
 * [Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection](http://arxiv.org/abs/2503.02424v1)<br>:star:[code](https://github.com/luow23/INP-Former)
 * [Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection](http://arxiv.org/abs/2503.03562v1)
 * [Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection](http://arxiv.org/abs/2502.20981v1)
-* [Towards Training-free Anomaly Detection with Vision and Language Foundation Models](http://arxiv.org/abs/2503.18325v1)<br>:star:[code](https://github.com/zhang0jhon/LogSAD)
 * OOD
   * [CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging](http://arxiv.org/abs/2503.00325v1)
   * [Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations](http://arxiv.org/abs/2503.18817v1)
