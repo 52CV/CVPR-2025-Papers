@@ -16,32 +16,23 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月28日更新 25 篇，共计 433+25 篇。
-* [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.21781v1)<br>:star:[code](https://jasper0314-huang.github.io/videomage-customization)
-* [Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)<br>:star:[code](https://github.com/rezaqorbani/SemLA)<br>:house:[project](https://thegoodailab.org/semla)
-* [A Unified Image-Dense Annotation Generation Model for Underwater Scenes](http://arxiv.org/abs/2503.21771v1)dense prediction
-* [Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence](http://arxiv.org/abs/2503.21766v1)<br>:star:[code](https://haolinliu97.github.io/Stable-Score/)
-* [Reconstructing Humans with a Biomechanically Accurate Skeleton](http://arxiv.org/abs/2503.21751v1)<br>:star:[code](https://isshikihugh.github.io/HSMR/)
-* [The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection](http://arxiv.org/abs/2503.21622v1)<br>:house:[project](https://benchmark.mvtec.com/)<br>:house:[project](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)<br>:house:[project](https://sites.google.com/view/vand30cvpr2025/challenge)
-* [BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding](http://arxiv.org/abs/2503.21483v1)<br>:star:[code](https://github.com/sming256/BOLT)
-* [RoadSocial: A Diverse VideoQA Dataset and Benchmark for Road Event Understanding from Social Video Narratives](http://arxiv.org/abs/2503.21459v1)<br>:star:[code](https://roadsocial.github.io/)
-* [FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs](http://arxiv.org/abs/2503.21457v1)<br>:star:[code](https://github.com/CVI-SZU/FaceBench)
-* [ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate](http://arxiv.org/abs/2503.21268v1)<br>:house:[project](http://www.lidarhumanmotion.net/climbingcap/)
-* [The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2503.21150v1)
-* [Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation](http://arxiv.org/abs/2503.21140v1)<br>:star:[code](https://github.com/chenbys/FMMP)
-* [Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection](http://arxiv.org/abs/2503.21099v1)<br>:star:[code](https://github.com/zyrant/CPDet3D)
-* [KAC: Kolmogorov-Arnold Classifier for Continual Learning](http://arxiv.org/abs/2503.21076v1)<br>:star:[code](https://github.com/Ethanhuhuhu/KAC)
-* [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](http://arxiv.org/abs/2503.21003v1)
-* [LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos](http://arxiv.org/abs/2503.20936v1)
-* [VinaBench: Benchmark for Faithful and Consistent Visual Narratives](http://arxiv.org/abs/2503.20871v1)
-* [Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data](http://arxiv.org/abs/2503.21694v1)<br>:house:[project](https://huggingface.co/spaces/ZhiyuanthePony/TriplaneTurbo)<br>:star:[code](https://github.com/theEricMa/TriplaneTurbo)
-* [ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks](http://arxiv.org/abs/2503.21397v1)<br>:star:[code](https://github.com/walline/prohoc)
-* [CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis](http://arxiv.org/abs/2503.20998v1)
-* [SyncSDE: A Probabilistic Framework for Diffusion Synchronization](http://arxiv.org/abs/2503.21555v1)
-* [Test-Time Visual In-Context Tuning](http://arxiv.org/abs/2503.21777v1)<br>:star:[code](https://github.com/Jiahao000/VICT)
-* [LOCORE: Image Re-ranking with Long-Context Sequence Modeling](http://arxiv.org/abs/2503.21772v1)<br>:star:[code](https://github.com/MrZilinXiao/LongContextReranker)
-* [CTRL-O: Language-Controllable Object-Centric Visual Representation Learning](http://arxiv.org/abs/2503.21747v1)<br>:house:[project](https://ctrl-o-paper.github.io/)
-* [BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v1)<br>:star:[code](https://github.com/AmayaGS/BioX-CPath)
+## 3月31日更新 16 篇，共计 458+16 篇。
+* [SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations](http://arxiv.org/abs/2503.22462v1)<br>:house:[project](https://cvpr.thecvf.com/virtual/2025/poster/32799)<br>:house:[project](https://dub.sh/semalign3d)
+* [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](http://arxiv.org/abs/2503.22420v1)<br>:star:[code](https://beacon-3d.github.io)
+* [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)<br>:star:[code](https://cot-vla.github.io/)
+* [VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow](http://arxiv.org/abs/2503.22328v1)<br>:star:[code](https://github.com/tudelft-iv/VoteFlow)
+* [A Dataset for Semantic Segmentation in the Presence of Unknowns](http://arxiv.org/abs/2503.22309v1)
+* [Segment Any Motion in Videos](http://arxiv.org/abs/2503.22268v1)<br>:star:[code](https://motion-seg.github.io/)
+* [Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion](http://arxiv.org/abs/2503.22262v1)<br>:star:[code](https://mono2stereo-bench.github.io/)
+* [Multi-modal Knowledge Distillation-based Human Trajectory Forecasting](http://arxiv.org/abs/2503.22201v1)<br>:star:[code](https://github.com/Jaewoo97/KDTF)
+* [Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis](http://arxiv.org/abs/2503.22168v1)
+* [BOOTPLACE: Bootstrapped Object Placement with Detection Transformers](http://arxiv.org/abs/2503.21991v1)<br>:star:[code](https://github.com/RyanHangZhou/BOOTPLACE)<br>:star:[code](https://ryanhangzhou.github.io/bootplace/)
+* [HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2503.21841v1)<br>:house:[project](https://rsidea.whu.edu.cn/hyperfree.htm)
+* [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](http://arxiv.org/abs/2503.22496v1)
+* [Locally Orderless Images for Optimization in Differentiable Rendering](http://arxiv.org/abs/2503.21931v1)<br>:star:[code](https://ishit.github.io/loir/)
+* [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](http://arxiv.org/abs/2503.21860v1)
+* [MVSAnywhere: Zero-Shot Multi-View Stereo](http://arxiv.org/abs/2503.22430v1)
+* [Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations](http://arxiv.org/abs/2503.21824v1)<br>:star:[code](https://github.com/ttthhl/Protecting_Your_Video_Content)
 
 ## 计算成像
 * 相机重定位
@@ -143,6 +134,7 @@
 * 基准
   * [MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research](http://arxiv.org/abs/2503.13399v1)
   * [Omnia de EgoTempo: Benchmarking Temporal Understanding of Multi-Modal LLMs in Egocentric Videos](http://arxiv.org/abs/2503.13646v1)<br>:star:[code](https://github.com/google-research-datasets/egotempo.git)
+  * [Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion](http://arxiv.org/abs/2503.22262v1)<br>:star:[code](https://mono2stereo-bench.github.io/)
   * [Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks](http://arxiv.org/abs/2503.18637v1)<br>:star:[code](https://utd-project.github.io/)
   * [VinaBench: Benchmark for Faithful and Consistent Visual Narratives](http://arxiv.org/abs/2503.20871v1)
 * 数据集
@@ -174,6 +166,8 @@
 * [EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models](http://arxiv.org/abs/2503.15369v1)
 * [Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models](http://arxiv.org/abs/2503.17142v1)<br>:star:[code](https://github.com/BerasiDavide/vlm_image_compositionality)
 * [Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks](http://arxiv.org/abs/2503.16930v1)
+* [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](http://arxiv.org/abs/2503.22420v1)<br>:star:[code](https://beacon-3d.github.io)
+* [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)<br>:star:[code](https://cot-vla.github.io/)
 * LLM 
   * [A Simple yet Effective Layout Token in Large Language Models for Document Understanding](http://arxiv.org/abs/2503.18434v1)
   * [PAVE: Patching and Adapting Video Large Language Models](http://arxiv.org/abs/2503.19794v1)<br>:star:[code](https://github.com/dragonlzm/PAVE)
@@ -243,6 +237,7 @@
 
 ## Scene Flow Estimation(场景流估计)
 * [Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation](http://arxiv.org/abs/2503.04718v1)
+* [VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow](http://arxiv.org/abs/2503.22328v1)<br>:star:[code](https://github.com/tudelft-iv/VoteFlow)
 
 ## Optical Flow Estimation(光流估计)
 * [DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework](http://arxiv.org/abs/2503.14880v1)<br>:star:[code](https://github.com/hmorimitsu/ptlflow/tree/main/ptlflow/models/dpflow)
@@ -289,6 +284,7 @@
   * [Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization](http://arxiv.org/abs/2503.15197v1)
   * [Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models](http://arxiv.org/abs/2503.19783v1)
   * [Scaling Down Text Encoders of Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.19897v1)
+  * [Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis](http://arxiv.org/abs/2503.22168v1)
 * 文本-视频
   * [Can Text-to-Video Generation help Video-Language Alignment?](http://arxiv.org/abs/2503.18507v1)<br>:star:[code](https://lucazanella.github.io/synvita/)
   * [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.21781v1)<br>:star:[code](https://jasper0314-huang.github.io/videomage-customization)
@@ -331,6 +327,7 @@
 * [HoGS: Unified Near and Far Object Reconstruction via Homogeneous Gaussian Splatting](http://arxiv.org/abs/2503.19232v1)<br>:star:[code](https://kh129.github.io/hogs/)
 * [PhysGen3D: Crafting a Miniature Interactive World from a Single Image](http://arxiv.org/abs/2503.20746v1)<br>:star:[code](https://by-luckk.github.io/PhysGen3D)
 * [Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence](http://arxiv.org/abs/2503.21766v1)<br>:star:[code](https://haolinliu97.github.io/Stable-Score/)
+* [SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations](http://arxiv.org/abs/2503.22462v1)<br>:house:[project](https://cvpr.thecvf.com/virtual/2025/poster/32799)<br>:house:[project](https://dub.sh/semalign3d)
 * 3DGS
   * [SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting](http://arxiv.org/abs/2503.07476v1)
   * [NexusSplats: Efficient 3D Gaussian Splatting in the Wild](http://arxiv.org/abs/2411.14514v1)
@@ -391,6 +388,7 @@
 ## UAV/RS/Satellite Image(无人机/遥感/卫星图像)
 * [ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object](http://arxiv.org/abs/2503.12006v1)<br>:star:[code](https://github.com/ShanZard/ROS-SAM)
 * [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](http://arxiv.org/abs/2503.13214v1)<br>:star:[code](https://github.com/Jie-1203/ADWM)
+* [HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2503.21841v1)<br>:house:[project](https://rsidea.whu.edu.cn/hyperfree.htm)
 * 变化检测
   * [Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective](http://arxiv.org/abs/2503.18803v1)
 * 目标检测  
@@ -476,6 +474,7 @@
 * 轨迹预测
   * [Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2412.02395v1)
   * [MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation](http://arxiv.org/abs/2503.09950v1)<br>:star:[code](https://moflow-imle.github.io)
+  * [Multi-modal Knowledge Distillation-based Human Trajectory Forecasting](http://arxiv.org/abs/2503.22201v1)<br>:star:[code](https://github.com/Jaewoo97/KDTF)
   * [Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment](http://arxiv.org/abs/2503.17267v1)<br>:star:[code](https://iminthemiddle.github.io/EmLoco-Page/)<br>:star:[code](https://github.com/ImIntheMiddle/EmLoco)
   * [Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM](http://arxiv.org/abs/2503.10898v1)
   * [TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception](http://arxiv.org/abs/2503.19391v1)
@@ -493,6 +492,7 @@
 * [SparseAlign: A Fully Sparse Framework for Cooperative Object Detection](http://arxiv.org/abs/2503.12982v1)
 * [MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism](http://arxiv.org/abs/2503.01463v1)
 * [Test-Time Backdoor Detection for Object Detection Models](http://arxiv.org/abs/2503.15293v1)
+* [BOOTPLACE: Bootstrapped Object Placement with Detection Transformers](http://arxiv.org/abs/2503.21991v1)<br>:star:[code](https://github.com/RyanHangZhou/BOOTPLACE)<br>:star:[code](https://ryanhangzhou.github.io/bootplace/)
 * [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](http://arxiv.org/abs/2503.21003v1)
 * 3D目标检测
   * [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](http://arxiv.org/abs/2502.19630v1)<br>:star:[code](https://github.com/mickeykang16/Ev3DOD)
@@ -582,6 +582,7 @@
 * 小样本分割
   * [The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2503.21150v1)
 * 语义分割
+  * [A Dataset for Semantic Segmentation in the Presence of Unknowns](http://arxiv.org/abs/2503.22309v1)
   * [No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2503.15910v1)
   * 开放词汇语义分割
     * [Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)<br>:star:[code](https://github.com/rezaqorbani/SemLA)<br>:house:[project](https://thegoodailab.org/semla)
@@ -591,6 +592,7 @@
   * [SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures](http://arxiv.org/abs/2503.01113v1)<br>:star:[code](https://github.com/Karl1109/SCSegamba)
 * 动作分割
   * [Condensing Action Segmentation Datasets via Generative Network Inversion](http://arxiv.org/abs/2503.14112v1)
+  * [Segment Any Motion in Videos](http://arxiv.org/abs/2503.22268v1)<br>:star:[code](https://motion-seg.github.io/)
 
 ## Face
 * [Zero-Shot Head Swapping in Real-World Scenarios](http://arxiv.org/abs/2503.00861v1)
@@ -708,6 +710,11 @@
 * [LOCORE: Image Re-ranking with Long-Context Sequence Modeling](http://arxiv.org/abs/2503.21772v1)<br>:star:[code](https://github.com/MrZilinXiao/LongContextReranker)
 * [CTRL-O: Language-Controllable Object-Centric Visual Representation Learning](http://arxiv.org/abs/2503.21747v1)<br>:house:[project](https://ctrl-o-paper.github.io/)
 * [BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v1)<br>:star:[code](https://github.com/AmayaGS/BioX-CPath)
+* [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](http://arxiv.org/abs/2503.22496v1)
+* [Locally Orderless Images for Optimization in Differentiable Rendering](http://arxiv.org/abs/2503.21931v1)<br>:star:[code](https://ishit.github.io/loir/)
+* [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](http://arxiv.org/abs/2503.21860v1)
+* [MVSAnywhere: Zero-Shot Multi-View Stereo](http://arxiv.org/abs/2503.22430v1)
+* [Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations](http://arxiv.org/abs/2503.21824v1)<br>:star:[code](https://github.com/ttthhl/Protecting_Your_Video_Content)
 
 <a name="0"/>
 
