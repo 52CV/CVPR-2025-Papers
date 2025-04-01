@@ -16,25 +16,37 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 3月31日更新 16 篇，共计 458+16 篇。
-* [SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations](http://arxiv.org/abs/2503.22462v1)<br>:house:[project](https://cvpr.thecvf.com/virtual/2025/poster/32799)<br>:house:[project](https://dub.sh/semalign3d)
-* [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](http://arxiv.org/abs/2503.22420v1)<br>:star:[code](https://beacon-3d.github.io)
-* [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)<br>:star:[code](https://cot-vla.github.io/)
-* [VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow](http://arxiv.org/abs/2503.22328v1)<br>:star:[code](https://github.com/tudelft-iv/VoteFlow)
-* [A Dataset for Semantic Segmentation in the Presence of Unknowns](http://arxiv.org/abs/2503.22309v1)
-* [Segment Any Motion in Videos](http://arxiv.org/abs/2503.22268v1)<br>:star:[code](https://motion-seg.github.io/)
-* [Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion](http://arxiv.org/abs/2503.22262v1)<br>:star:[code](https://mono2stereo-bench.github.io/)
-* [Multi-modal Knowledge Distillation-based Human Trajectory Forecasting](http://arxiv.org/abs/2503.22201v1)<br>:star:[code](https://github.com/Jaewoo97/KDTF)
-* [Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis](http://arxiv.org/abs/2503.22168v1)
-* [BOOTPLACE: Bootstrapped Object Placement with Detection Transformers](http://arxiv.org/abs/2503.21991v1)<br>:star:[code](https://github.com/RyanHangZhou/BOOTPLACE)<br>:star:[code](https://ryanhangzhou.github.io/bootplace/)
-* [HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2503.21841v1)<br>:house:[project](https://rsidea.whu.edu.cn/hyperfree.htm)
-* [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](http://arxiv.org/abs/2503.22496v1)
-* [Locally Orderless Images for Optimization in Differentiable Rendering](http://arxiv.org/abs/2503.21931v1)<br>:star:[code](https://ishit.github.io/loir/)
-* [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](http://arxiv.org/abs/2503.21860v1)
-* [MVSAnywhere: Zero-Shot Multi-View Stereo](http://arxiv.org/abs/2503.22430v1)
-* [Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations](http://arxiv.org/abs/2503.21824v1)<br>:star:[code](https://github.com/ttthhl/Protecting_Your_Video_Content)
+## 4月1日更新 27 篇，共计 474+27 篇。
+* [Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views](http://arxiv.org/abs/2503.24382v1)<br>:star:[code](https://zju3dv.github.io/free360/)
+* [ERUPT: Efficient Rendering with Unposed Patch Transformer](http://arxiv.org/abs/2503.24374v1)
+* [DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting](http://arxiv.org/abs/2503.24210v1)<br>:star:[code](https://diet-gs.github.io)
+* [It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data](http://arxiv.org/abs/2503.24129v1)<br>:star:[code](https://dominik-schnaus.github.io/itsamatch/)
+* [GLane3D : Detecting Lanes with Graph of 3D Keypoints](http://arxiv.org/abs/2503.23882v1)
+* [XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?](http://arxiv.org/abs/2503.23771v1)
+* [Consistency-aware Self-Training for Iterative-based Stereo Matching](http://arxiv.org/abs/2503.23747v1)
+* [HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation](http://arxiv.org/abs/2503.23715v1)<br>:star:[code](https://liuqi-creat.github.io/HOIGen.github.io)
+* [Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation](http://arxiv.org/abs/2503.23670v1)<br>:star:[code](https://takeshie.github.io/Bijective-SDF)
+* [Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries](http://arxiv.org/abs/2503.23606v1)<br>:house:[project](https://blurry-edges.qiguo.org/)
+* [Embedding Shift Dissection on CLIP: Effects of Augmentations on VLM's Representation Learning](http://arxiv.org/abs/2503.23495v1)
+* [HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation](http://arxiv.org/abs/2503.23331v1)
+* [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](http://arxiv.org/abs/2503.23283v1)<br>:star:[code](https://github.com/FisherCats/CLG-CBM)
+* [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
+* [Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection](http://arxiv.org/abs/2503.23220v1)<br>:star:[code](https://github.com/TRAILab/DINO_Teacher)
+* [FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video](http://arxiv.org/abs/2503.23094v1)<br>:house:[project](https://vcai.mpi-inf.mpg.de/projects/FRAME/)
+* [Visual and Semantic Prompt Collaboration for Generalized Zero-Shot Learning](http://arxiv.org/abs/2503.23030v1)
+* [Empowering Large Language Models with 3D Situation Awareness](http://arxiv.org/abs/2503.23024v1)
+* [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](http://arxiv.org/abs/2503.23733v1)
+* [OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts](http://arxiv.org/abs/2503.22952v1)
+* [DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID](http://arxiv.org/abs/2503.22912v1)
+* [SketchVideo: Sketch-based Video Generation and Editing](http://arxiv.org/abs/2503.23284v1)
+* [Geometry in Style: 3D Stylization via Surface Normal Deformation](http://arxiv.org/abs/2503.23241v1)<br>:star:[code](https://threedle.github.io/geometry-in-style)
+* [LSNet: See Large, Focus Small](http://arxiv.org/abs/2503.23135v1)<br>:star:[code](https://github.com/jameslahm/lsnet)
+* [Enhancing Creative Generation on Stable Diffusion-based Models](http://arxiv.org/abs/2503.23538v1)
+* [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](http://arxiv.org/abs/2503.23751v1)
+* [COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation](http://arxiv.org/abs/2503.23388v1)
 
 ## 计算成像
+* [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
 * 相机重定位
   * [From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting](http://arxiv.org/abs/2503.19358v1)
 
@@ -78,6 +90,7 @@
   * [NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting](http://arxiv.org/abs/2503.18794v1)<br>:star:[code](https://usmizuki.github.io/NexusGS/)
   * [SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs](http://arxiv.org/abs/2503.12535v1)<br>:star:[code](https://gbliao.github.io/SPC-GS.github.io/)
   * [CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis](http://arxiv.org/abs/2503.20998v1)
+  * [Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views](http://arxiv.org/abs/2503.24382v1)<br>:star:[code](https://zju3dv.github.io/free360/)
 * 渲染
   * [Differentiable Inverse Rendering with Interpretable Basis BRDFs](https://arxiv.org/abs/2411.17994)
   * [Channel-wise Noise Scheduled Diffusion for Inverse Rendering in Indoor Scenes](http://arxiv.org/abs/2503.09993v1)
@@ -118,6 +131,8 @@
   * [IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification](http://arxiv.org/abs/2503.10324v1)
 
 ## Few/Zero-Shot Learning/DG/A(小/零样本/域泛化/域适应)
+* ZSL
+  * [Visual and Semantic Prompt Collaboration for Generalized Zero-Shot Learning](http://arxiv.org/abs/2503.23030v1)
 * DG 
   * [Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection](http://arxiv.org/abs/2503.02101v1)<br>:star:[code](https://github.com/heboyong/Generalized-Diffusion-Detector)
   * [Unlocking the Potential of Unlabeled Data in Semi-Supervised Domain Generalization](http://arxiv.org/abs/2503.13915v1)<br>:star:[code](https://github.com/dongkwani/UPCSC)
@@ -127,6 +142,7 @@
 * [Split Adaptation for Pre-trained Vision Transformers](http://arxiv.org/abs/2503.00441v1)<br>:star:[code](https://github.com/conditionWang/Split_Adaptation)
 * [BHViT: Binarized Hybrid Vision Transformer](http://arxiv.org/abs/2503.02394v1)
 * [VGGT: Visual Geometry Grounded Transformer](http://arxiv.org/abs/2503.11651v1)<br>:star:[code](https://vgg-t.github.io/)<br>:star:[code](https://github.com/facebookresearch/vggt)
+* [ERUPT: Efficient Rendering with Unposed Patch Transformer](http://arxiv.org/abs/2503.24374v1)
 * [Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer](http://arxiv.org/abs/2503.00226v1)
 * [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement](http://arxiv.org/abs/2503.15404v1)<br>:star:[code](https://github.com/RYC-98/FPR)
 
@@ -137,6 +153,7 @@
   * [Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion](http://arxiv.org/abs/2503.22262v1)<br>:star:[code](https://mono2stereo-bench.github.io/)
   * [Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks](http://arxiv.org/abs/2503.18637v1)<br>:star:[code](https://utd-project.github.io/)
   * [VinaBench: Benchmark for Faithful and Consistent Visual Narratives](http://arxiv.org/abs/2503.20871v1)
+  * [OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts](http://arxiv.org/abs/2503.22952v1)
 * 数据集
   * [LiSu: A Dataset and Method for LiDAR Surface Normal Estimation](http://arxiv.org/abs/2503.08601v1)
   * [HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization](http://arxiv.org/abs/2503.01725v1)<br>:star:[code](https://harmonyset.github.io/)
@@ -168,9 +185,11 @@
 * [Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks](http://arxiv.org/abs/2503.16930v1)
 * [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](http://arxiv.org/abs/2503.22420v1)<br>:star:[code](https://beacon-3d.github.io)
 * [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)<br>:star:[code](https://cot-vla.github.io/)
+* [It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data](http://arxiv.org/abs/2503.24129v1)<br>:star:[code](https://dominik-schnaus.github.io/itsamatch/)
 * LLM 
   * [A Simple yet Effective Layout Token in Large Language Models for Document Understanding](http://arxiv.org/abs/2503.18434v1)
   * [PAVE: Patching and Adapting Video Large Language Models](http://arxiv.org/abs/2503.19794v1)<br>:star:[code](https://github.com/dragonlzm/PAVE)
+  * [Empowering Large Language Models with 3D Situation Awareness](http://arxiv.org/abs/2503.23024v1)
 * MLLM 
   * [Efficient Motion-Aware Video MLLM](http://arxiv.org/abs/2503.13016v1)
   * [AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models](http://arxiv.org/abs/2503.00591v1)
@@ -181,7 +200,7 @@
   * [LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models](http://arxiv.org/abs/2503.16843v1)
   * [Scaling Vision Pre-Training to 4K Resolution](http://arxiv.org/abs/2503.19903v1)<br>:star:[code](https://nvlabs.github.io/PS3)
   * [Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization](http://arxiv.org/abs/2503.17928v1)
-
+  * [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](http://arxiv.org/abs/2503.23733v1)
 
 ## Self-Supervised(监督)
 * 自监督
@@ -205,6 +224,7 @@
 * 持续学习
   * [Do Your Best and Get Enough Rest for Continual Learning](http://arxiv.org/abs/2503.18371v1)<br>:star:[code](https://github.com/hankyul2/ViewBatchModel)
   * [KAC: Kolmogorov-Arnold Classifier for Continual Learning](http://arxiv.org/abs/2503.21076v1)<br>:star:[code](https://github.com/Ethanhuhuhu/KAC)
+  * [Language Guided Concept Bottleneck Models for Interpretable Continual Learning](http://arxiv.org/abs/2503.23283v1)<br>:star:[code](https://github.com/FisherCats/CLG-CBM)
 * 强化学习
   * [Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards](http://arxiv.org/abs/2503.11240v1)
 * 联邦学习
@@ -252,6 +272,7 @@
 
 ## Style Transfer(风格迁移)
 * [SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer](http://arxiv.org/abs/2503.04119v1)
+* [Geometry in Style: 3D Stylization via Surface Normal Deformation](http://arxiv.org/abs/2503.23241v1)<br>:star:[code](https://threedle.github.io/geometry-in-style)
 
 ## GAN/Image Synthesis(图像生成)
 * [Z-Magic: Zero-shot Multiple Attributes Guided Image Creator](http://arxiv.org/abs/2503.12124v1)
@@ -290,6 +311,7 @@
   * [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.21781v1)<br>:star:[code](https://jasper0314-huang.github.io/videomage-customization)
 * 视频合成
   * [Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881v1)<br>:star:[code](https://tianhao-qi.github.io/Mask2DiTProject)
+  * [SketchVideo: Sketch-based Video Generation and Editing](http://arxiv.org/abs/2503.23284v1)
   * 音频驱动的人体视频合成
     * [AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers](http://arxiv.org/abs/2503.19824v1)<br>:star:[code](https://guanjz20.github.io/projects/AudCast)
 * 视频风格化
@@ -338,6 +360,8 @@
   * [Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs](http://arxiv.org/abs/2503.05082v1)<br>:star:[code](https://zhongyingji.github.io/guidevd-3dgs/)
   * [BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting](https://export.arxiv.org/abs/2503.15835)<br>:star:[code](https://vulab-ai.github.io/BARD-GS/)
   * [GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping](http://arxiv.org/abs/2503.10143v1)<br>:star:[code](https://liujf1226.github.io/GaussHDR)
+* Stereo Matching
+  * [Consistency-aware Self-Training for Iterative-based Stereo Matching](http://arxiv.org/abs/2503.23747v1)
 * 三维重建
   * [M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction](http://arxiv.org/abs/2411.12635v1)
   * [MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image](http://arxiv.org/abs/2502.20861v1)<br>:star:[code](https://github.com/QINGQINGLE/MESC-3D)
@@ -352,6 +376,7 @@
 * 深度估计
   * [Multi-view Reconstruction via SfM-guided Monocular Depth Estimation](http://arxiv.org/abs/2503.14483v1)<br>:star:[code](https://zju3dv.github.io/murre/)
   * [QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge](http://arxiv.org/abs/2503.16709v1)<br>:star:[code](https://github.com/shawnricecake/quart-depth)
+  * [Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries](http://arxiv.org/abs/2503.23606v1)<br>:house:[project](https://blurry-edges.qiguo.org/)
 * 场景理解
   * [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](http://arxiv.org/abs/2503.00513v1)<br>:star:[code](https://github.com/hanxunyu/Inst3D-LMM)
   * [Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2503.16707v1)<br>:star:[code](https://github.com/TyroneLi/CUA_O3D)
@@ -366,6 +391,7 @@
 ## Point Cloud(点云)
 * [STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds](http://arxiv.org/abs/2503.00801v1)
 * [Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis](http://arxiv.org/abs/2503.12150v1)<br>:star:[code](https://github.com/auniquesun/Point-Cache)
+* [Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation](http://arxiv.org/abs/2503.23670v1)<br>:star:[code](https://takeshie.github.io/Bijective-SDF)
 * 点云分割
   * [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](http://arxiv.org/abs/2503.16282v1)<br>:star:[code](https://github.com/ZhaochongAn/GFS-VL)
 * 点云配准
@@ -389,6 +415,7 @@
 * [ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object](http://arxiv.org/abs/2503.12006v1)<br>:star:[code](https://github.com/ShanZard/ROS-SAM)
 * [A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening](http://arxiv.org/abs/2503.13214v1)<br>:star:[code](https://github.com/Jie-1203/ADWM)
 * [HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery](http://arxiv.org/abs/2503.21841v1)<br>:house:[project](https://rsidea.whu.edu.cn/hyperfree.htm)
+* [XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?](http://arxiv.org/abs/2503.23771v1)
 * 变化检测
   * [Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective](http://arxiv.org/abs/2503.18803v1)
 * 目标检测  
@@ -398,6 +425,7 @@
 * [AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification](http://arxiv.org/abs/2503.08121v1)<br>:star:[code](https://github.com/agvpreid25/AG-VPReID-Net)
 * [Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification](http://arxiv.org/abs/2503.09962v1)<br>:star:[code](https://github.com/sssaury/HAM)
 * [From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification](http://arxiv.org/abs/2503.12232v1)
+* [DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID](http://arxiv.org/abs/2503.22912v1)
 * 计数
   * [Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting](http://arxiv.org/abs/2503.17984v1)<br>:star:[code](https://github.com/syhien/taste_more_taste_better)
 
@@ -408,6 +436,7 @@
 * [Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions](http://arxiv.org/abs/2503.15898v1)<br>:star:[code](https://wenboran2002.github.io/3dhoi)
 * [An Image-like Diffusion Method for Human-Object Interaction Detection](http://arxiv.org/abs/2503.18134v1)
 * [Guiding Human-Object Interactions with Rich Geometry and Relations](http://arxiv.org/abs/2503.20172v1)<br>:star:[code](https://lalalfhdh.github.io/rog_page/)
+* [HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation](http://arxiv.org/abs/2503.23715v1)<br>:star:[code](https://liuqi-creat.github.io/HOIGen.github.io)
 * 人-场景交互
   * [TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization](http://arxiv.org/abs/2503.19901v1)<br>:star:[code](https://liangpan99.github.io/TokenHSI/)
 
@@ -432,6 +461,8 @@
 ## Human Pose Estimation(姿态估计)
 * [Visual Persona: Foundation Model for Full-Body Human Customization](http://arxiv.org/abs/2503.15406v1)<br>:star:[code](https://cvlab-kaist.github.io/Visual-Persona)
 * [TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](http://arxiv.org/abs/2503.17032v1)<br>:star:[code](https://PixelAI-Team.github.io/TaoAvatar)
+* 3DHPE
+  * [HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation](http://arxiv.org/abs/2503.23331v1)
 * 人体重建
   * [DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image](http://arxiv.org/abs/2503.19373v1)<br>:star:[code](https://hygenie1228.github.io/DeClotH/)
   * [Reconstructing Humans with a Biomechanically Accurate Skeleton](http://arxiv.org/abs/2503.21751v1)<br>:star:[code](https://isshikihugh.github.io/HSMR/)
@@ -501,12 +532,15 @@
   * [GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector](http://arxiv.org/abs/2503.15211v1)<br>:star:[code](https://github.com/ZechuanLi/GO-N3RDet)
   * [Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection](http://arxiv.org/abs/2503.16125v1)
   * [Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection](http://arxiv.org/abs/2503.21099v1)<br>:star:[code](https://github.com/zyrant/CPDet3D)
+* 域适应目标检测
+  * [Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection](http://arxiv.org/abs/2503.23220v1)<br>:star:[code](https://github.com/TRAILab/DINO_Teacher)
 * 目标发现
   * [xMOD: Cross-Modal Distillation for 2D/3D Multi-Object Discovery from 2D motion](http://arxiv.org/abs/2503.15022v1)<br>:star:[code](https://github.com/CEA-LIST/xMOD)
 * 属性识别
   * [Compositional Caching for Training-free Open-vocabulary Attribute Detection](http://arxiv.org/abs/2503.19145v1)<br>:star:[code](https://comca-attributes.github.io/)
 * 目标关键点
   * [Incremental Object Keypoint Learning](http://arxiv.org/abs/2503.20248v1)
+  * [GLane3D : Detecting Lanes with Graph of 3D Keypoints](http://arxiv.org/abs/2503.23882v1)
 
 ## Image/Video Retrieval
 * 跨模态检索
@@ -574,6 +608,8 @@
   * [Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining](http://arxiv.org/abs/2503.18703v1)
 * 去马赛克
   * [Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing](http://arxiv.org/abs/2503.16134v1)<br>:star:[code](https://github.com/Clausy9/BMTNet)
+* 运动去模糊
+  * [DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting](http://arxiv.org/abs/2503.24210v1)<br>:star:[code](https://diet-gs.github.io)
 * 图像质量
   * [Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption](http://arxiv.org/abs/2503.11221v1)<br>:star:[code](https://tianhewu.github.io/A-FINE-page.github.io/)
 
@@ -628,6 +664,7 @@
 * [Interpretable Generative Models through Post-hoc Concept Bottlenecks](http://arxiv.org/abs/2503.19377v1)<br>:star:[code](https://lilywenglab.github.io/posthoc-generative-cbm/)
 * [Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent](http://arxiv.org/abs/2503.19347v1)
 * [FRESA:Feedforward Reconstruction of Personalized Skinned Avatars from Few Images](http://arxiv.org/abs/2503.19207v1)<br>:star:[code](https://github.com/rongakowang/FRESA)
+* [FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video](http://arxiv.org/abs/2503.23094v1)<br>:house:[project](https://vcai.mpi-inf.mpg.de/projects/FRAME/)
 * [Color Conditional Generation with Sliced Wasserstein Guidance](http://arxiv.org/abs/2503.19034v1)<br>:star:[code](https://github.com/alobashev/sw-guidance/)
 * [POSTA: A Go-to Framework for Customized Artistic Poster Generation](http://arxiv.org/abs/2503.14908v1)
 * [Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing](http://arxiv.org/abs/2503.12042v1)<br>:star:[code](https://zzdoog.github.io/ProDubber/)
@@ -698,6 +735,7 @@
 * [VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness](http://arxiv.org/abs/2503.16406v1)<br>:star:[code](https://github.com/SeungJuCha/VerbDiff.git)
 * [BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers](http://arxiv.org/abs/2503.15927v1)
 * [MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations](http://arxiv.org/abs/2503.15871v1)
+* [Embedding Shift Dissection on CLIP: Effects of Augmentations on VLM's Representation Learning](http://arxiv.org/abs/2503.23495v1)
 * [Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection](http://arxiv.org/abs/2503.17080v1)
 * [Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising](http://arxiv.org/abs/2503.17198v1)<br>:star:[code](https://github.com/tmllab/2025_CVPR_JailNTL)
 * [A New Statistical Model of Star Speckles for Learning to Detect and Characterize Exoplanets in Direct Imaging Observations](http://arxiv.org/abs/2503.17117v1)
@@ -715,6 +753,10 @@
 * [ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning](http://arxiv.org/abs/2503.21860v1)
 * [MVSAnywhere: Zero-Shot Multi-View Stereo](http://arxiv.org/abs/2503.22430v1)
 * [Protecting Your Video Content: Disrupting Automated Video-based LLM Annotations](http://arxiv.org/abs/2503.21824v1)<br>:star:[code](https://github.com/ttthhl/Protecting_Your_Video_Content)
+* [LSNet: See Large, Focus Small](http://arxiv.org/abs/2503.23135v1)<br>:star:[code](https://github.com/jameslahm/lsnet)
+* [Enhancing Creative Generation on Stable Diffusion-based Models](http://arxiv.org/abs/2503.23538v1)
+* [Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks](http://arxiv.org/abs/2503.23751v1)
+* [COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation](http://arxiv.org/abs/2503.23388v1)
 
 <a name="0"/>
 
