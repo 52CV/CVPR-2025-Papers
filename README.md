@@ -16,23 +16,20 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 4月2日更新 16 篇，共计 501+16 篇。
-* [MixerMDM: Learnable Composition of Human Motion Diffusion Models](http://arxiv.org/abs/2504.01019v1)<br>:house:[project](https://pabloruizponce.com/papers/MixerMDM)
-* [MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization](http://arxiv.org/abs/2504.00999v1)<br>:star:[code](https://apexgen-x.github.io/MergeVQ)
-* [DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting](http://arxiv.org/abs/2504.00773v1)<br>:star:[code](https://github.com/DCVL-3D/DropGaussian)
-* [Monocular and Generalizable Gaussian Talking Head Animation](http://arxiv.org/abs/2504.00665v1)
-* [SMILE: Infusing Spatial and Motion Semantics in Masked Video Learning](http://arxiv.org/abs/2504.00527v1)<br>:star:[code](https://github.com/fmthoker/SMILE)
-* [Learned Image Compression with Dictionary-based Entropy Model](http://arxiv.org/abs/2504.00496v1)
-* [Data Synthesis with Diverse Styles for Face Recognition via 3DMM-Guided Diffusion](http://arxiv.org/abs/2504.00430v1)
-* [Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration](http://arxiv.org/abs/2504.00387v1)<br>:star:[code](https://github.com/LongHZ140516/Scene4U)
-* [Hierarchical Flow Diffusion for Efficient Frame Interpolation](http://arxiv.org/abs/2504.00380v1)<br>:star:[code](https://hfd-interpolation.github.io)
-* [MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving](http://arxiv.org/abs/2504.00379v1)
-* [Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation](http://arxiv.org/abs/2504.00356v1)<br>:star:[code](https://github.com/fhgyuanshen/HybridGL)
-* [LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors](http://arxiv.org/abs/2504.00219v1)<br>:star:[code](https://github.com/LowLevelAI/LITA-GS)
-* [Chapter-Llama: Efficient Chaptering in Hour-Long Videos with LLMs](http://arxiv.org/abs/2504.00072v1)<br>:house:[project](https://imagine.enpc.fr/~lucas.ventura/chapter-llama/)
-* [Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation](http://arxiv.org/abs/2504.00420v1)
-* [MultiMorph: On-demand Atlas Construction](http://arxiv.org/abs/2504.00247v1)
-* [POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation](http://arxiv.org/abs/2504.00640v1)<br>:house:[project](https://lanyunzhu.site/POPEN/)
+## 4月3日更新 9 篇，共计 517+9 篇。
+* [Learning from Streaming Video with Orthogonal Gradients](http://arxiv.org/abs/2504.01961v1)
+* [Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes](http://arxiv.org/abs/2504.01466v1)
+* [GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting](http://arxiv.org/abs/2504.01957v1)
+* [Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment](http://arxiv.org/abs/2504.01503v1)<br>:star:[code](https://cuiziteng.github.io/Luminance_GS_web/)
+* [Scene-Centric Unsupervised Panoptic Segmentation](http://arxiv.org/abs/2504.01955v1)<br>:star:[code](https://github.com/visinf/cups)<br>:star:[code](https://visinf.github.io/cups/)
+* [v-CLR: View-Consistent Learning for Open-World Instance Segmentation](http://arxiv.org/abs/2504.01383v1)<br>:star:[code](https://visual-ai.github.io/vclr)<br>:star:[code](https://github.com/Visual-AI/vCLR)
+* [CoMatcher: Multi-View Collaborative Feature Matching](http://arxiv.org/abs/2504.01872v1)
+* [Implicit Bias Injection Attacks against Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.01819v1)<br>:star:[code](https://github.com/Hannah1102/IBI-attacks)
+* [A$^\text{T}$A: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting](http://arxiv.org/abs/2504.01603v1)
+
+
+
+
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
@@ -63,6 +60,7 @@
 * [DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion](http://arxiv.org/abs/2503.17673v1)<br>:star:[code](https://github.com/Beate-Suy-Zhang/DCEvo)
 
 ## Feature Matching(‌特征匹配)
+* [CoMatcher: Multi-View Collaborative Feature Matching](http://arxiv.org/abs/2504.01872v1)
 * [JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](http://arxiv.org/abs/2503.03437v1)<br>:star:[code](https://leoluxxx.github.io/JamMa-page/)
 
 ## Industrial Anomaly Detection(工业缺陷检测)
@@ -299,6 +297,7 @@
   * [Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models](http://arxiv.org/abs/2503.19783v1)
   * [Scaling Down Text Encoders of Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.19897v1)
   * [Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis](http://arxiv.org/abs/2503.22168v1)
+  * [Implicit Bias Injection Attacks against Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.01819v1)<br>:star:[code](https://github.com/Hannah1102/IBI-attacks)
 * 文本-视频
   * [Can Text-to-Video Generation help Video-Language Alignment?](http://arxiv.org/abs/2503.18507v1)<br>:star:[code](https://lucazanella.github.io/synvita/)
   * [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.21781v1)<br>:star:[code](https://jasper0314-huang.github.io/videomage-customization)
@@ -355,6 +354,8 @@
   * [Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs](http://arxiv.org/abs/2503.05082v1)<br>:star:[code](https://zhongyingji.github.io/guidevd-3dgs/)
   * [BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting](https://export.arxiv.org/abs/2503.15835)<br>:star:[code](https://vulab-ai.github.io/BARD-GS/)
   * [GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping](http://arxiv.org/abs/2503.10143v1)<br>:star:[code](https://liujf1226.github.io/GaussHDR)
+  * [GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting](http://arxiv.org/abs/2504.01957v1)
+  * [Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment](http://arxiv.org/abs/2504.01503v1)<br>:star:[code](https://cuiziteng.github.io/Luminance_GS_web/)
 * Stereo Matching
   * [Consistency-aware Self-Training for Iterative-based Stereo Matching](http://arxiv.org/abs/2503.23747v1)
 * 三维重建
@@ -587,6 +588,7 @@
 
 ## Image Progress(图像/视频处理)
 * [Segment Any-Quality Images with Generative Latent Space Enhancement](http://arxiv.org/abs/2503.12507v1)
+* [A$^\text{T}$A: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting](http://arxiv.org/abs/2504.01603v1)
 * 3D修复
   * [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](http://arxiv.org/abs/2503.04501v1)<br>:star:[code](https://xinxinzuo2353.github.io/imfine/)
 * 图像恢复
@@ -623,6 +625,10 @@
   * [No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2503.15910v1)
   * 开放词汇语义分割
     * [Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)<br>:star:[code](https://github.com/rezaqorbani/SemLA)<br>:house:[project](https://thegoodailab.org/semla)
+* 全景分割
+  * [Scene-Centric Unsupervised Panoptic Segmentation](http://arxiv.org/abs/2504.01955v1)<br>:star:[code](https://github.com/visinf/cups)<br>:star:[code](https://visinf.github.io/cups/)
+* 实例分割  
+  * [v-CLR: View-Consistent Learning for Open-World Instance Segmentation](http://arxiv.org/abs/2504.01383v1)<br>:star:[code](https://visual-ai.github.io/vclr)<br>:star:[code](https://github.com/Visual-AI/vCLR)
 * 场景分割
   * [Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting](http://arxiv.org/abs/2503.14029v1)<br>:star:[code](https://github.com/Runsong123/Unified-Lift)
 * 裂纹分割
@@ -674,6 +680,8 @@
 * [Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing](http://arxiv.org/abs/2503.12042v1)<br>:star:[code](https://zzdoog.github.io/ProDubber/)
 * [Exploring Contextual Attribute Density in Referring Expression Counting](http://arxiv.org/abs/2503.12460v1)
 * [Scale Efficient Training for Large Datasets](http://arxiv.org/abs/2503.13385v1)<br>:star:[code](https://github.com/mrazhou/SeTa)
+* [Learning from Streaming Video with Orthogonal Gradients](http://arxiv.org/abs/2504.01961v1)
+* [Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes](http://arxiv.org/abs/2504.01466v1)
 * [SCAP: Transductive Test-Time Adaptation via Supportive Clique-based Attribute Prompting](http://arxiv.org/abs/2503.12866v1)<br>:star:[code](https://github.com/zhoujiahuan1991/CVPR2025-SCAP)
 * [RePerformer: Immersive Human-centric Volumetric Videos from Playback to Photoreal Reperformance](http://arxiv.org/abs/2503.12242v1)<br>:star:[code](https://moqiyinlun.github.io/Reperformer/)
 * [Learning Extremely High Density Crowds as Active Matters](http://arxiv.org/abs/2503.12168v1)
