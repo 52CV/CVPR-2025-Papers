@@ -16,20 +16,23 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 4月3日更新 9 篇，共计 517+9 篇。
-* [Learning from Streaming Video with Orthogonal Gradients](http://arxiv.org/abs/2504.01961v1)
-* [Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes](http://arxiv.org/abs/2504.01466v1)
-* [GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting](http://arxiv.org/abs/2504.01957v1)
-* [Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment](http://arxiv.org/abs/2504.01503v1)<br>:star:[code](https://cuiziteng.github.io/Luminance_GS_web/)
-* [Scene-Centric Unsupervised Panoptic Segmentation](http://arxiv.org/abs/2504.01955v1)<br>:star:[code](https://github.com/visinf/cups)<br>:star:[code](https://visinf.github.io/cups/)
-* [v-CLR: View-Consistent Learning for Open-World Instance Segmentation](http://arxiv.org/abs/2504.01383v1)<br>:star:[code](https://visual-ai.github.io/vclr)<br>:star:[code](https://github.com/Visual-AI/vCLR)
-* [CoMatcher: Multi-View Collaborative Feature Matching](http://arxiv.org/abs/2504.01872v1)
-* [Implicit Bias Injection Attacks against Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.01819v1)<br>:star:[code](https://github.com/Hannah1102/IBI-attacks)
-* [A$^\text{T}$A: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting](http://arxiv.org/abs/2504.01603v1)
-
-
-
-
+## 4月8日更新 16 篇，共计 526+16 篇。
+* [InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](http://arxiv.org/abs/2504.05303v1)<br>:house:[project](https://interactvlm.is.tue.mpg.de)
+* [One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)<br>:star:[code](https://test-time-training.github.io/video-dit)
+* [Video-Bench: Human-Aligned Video Generation Benchmark](http://arxiv.org/abs/2504.04907v1)
+* [From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models](http://arxiv.org/abs/2504.05265v1)<br>:star:[code](https://barquerogerman.github.io/RPM/)
+* [Continuous Locomotive Crowd Behavior Generation](http://arxiv.org/abs/2504.04756v1)<br>:star:[code](https://github.com/InhwanBae/CrowdES)<br>:house:[project](https://ihbae.com/publication/crowdes/)
+* [Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions](http://arxiv.org/abs/2504.04744v1)<br>:house:[project](https://sites.google.com/view/lmaffordance3d)
+* [SapiensID: Foundation for Human Recognition](http://arxiv.org/abs/2504.04708v1)
+* [DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation](http://arxiv.org/abs/2504.04701v1)<br>:star:[code](https://github.com/VCIP-RGBD/DFormer)
+* [CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation](http://arxiv.org/abs/2504.04156v1)<br>:star:[code](https://guangyu-ryan.github.io/CoMBO)
+* [DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning](https://arxiv.org/abs/2504.04085)<br>:star:[code](https://github.com/xhli-git/DocSAM)
+* [DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2504.04566v1)
+* [Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAVTarget Detection](http://arxiv.org/abs/2504.04012v1)<br>:star:[code](https://github.com/IVPLaboratory/UniCD)
+* [REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning](http://arxiv.org/abs/2504.04956v1)<br>:star:[code](https://jyunlee.github.io/projects/rewind/)
+* [CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images](http://arxiv.org/abs/2504.04753v1)
+* [Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models](http://arxiv.org/abs/2504.04747v1)
+* [VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models](http://arxiv.org/abs/2504.03970v1)<br>:star:[code](https://github.com/google-deepmind/video_comp)
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
@@ -268,6 +271,7 @@
 ## GAN/Image Synthesis(图像生成)
 * [Z-Magic: Zero-shot Multiple Attributes Guided Image Creator](http://arxiv.org/abs/2503.12124v1)
 * [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](http://arxiv.org/abs/2503.11629v1)<br>:star:[code](https://github.com/sail-sg/TreeMeshGPT)
+* [Continuous Locomotive Crowd Behavior Generation](http://arxiv.org/abs/2504.04756v1)<br>:star:[code](https://github.com/InhwanBae/CrowdES)<br>:house:[project](https://ihbae.com/publication/crowdes/)
 * 扩散模型
   * [ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models](http://arxiv.org/abs/2503.19902v1)<br>:star:[code](https://visual-ai.github.io/ice)
   * [PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models](http://arxiv.org/abs/2503.19731v1)
@@ -304,6 +308,8 @@
 * 视频合成
   * [Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881v1)<br>:star:[code](https://tianhao-qi.github.io/Mask2DiTProject)
   * [SketchVideo: Sketch-based Video Generation and Editing](http://arxiv.org/abs/2503.23284v1)
+  * [One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)<br>:star:[code](https://test-time-training.github.io/video-dit)
+* [Video-Bench: Human-Aligned Video Generation Benchmark](http://arxiv.org/abs/2504.04907v1)
   * 音频驱动的人体视频合成
     * [AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers](http://arxiv.org/abs/2503.19824v1)<br>:star:[code](https://guanjz20.github.io/projects/AudCast)
 * 视频风格化
@@ -344,6 +350,7 @@
 * [PhysGen3D: Crafting a Miniature Interactive World from a Single Image](http://arxiv.org/abs/2503.20746v1)<br>:star:[code](https://by-luckk.github.io/PhysGen3D)
 * [Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence](http://arxiv.org/abs/2503.21766v1)<br>:star:[code](https://haolinliu97.github.io/Stable-Score/)
 * [SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations](http://arxiv.org/abs/2503.22462v1)<br>:house:[project](https://cvpr.thecvf.com/virtual/2025/poster/32799)<br>:house:[project](https://dub.sh/semalign3d)
+* [Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions](http://arxiv.org/abs/2504.04744v1)<br>:house:[project](https://sites.google.com/view/lmaffordance3d)
 * 3DGS
   * [SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting](http://arxiv.org/abs/2503.07476v1)
   * [NexusSplats: Efficient 3D Gaussian Splatting in the Wild](http://arxiv.org/abs/2411.14514v1)
@@ -417,8 +424,10 @@
   * [Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective](http://arxiv.org/abs/2503.18803v1)
 * 目标检测  
   * [Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery](http://arxiv.org/abs/2503.19202v1)<br>:star:[code](https://github.com/RWGAI/RWDS)
+  * [Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAVTarget Detection](http://arxiv.org/abs/2504.04012v1)<br>:star:[code](https://github.com/IVPLaboratory/UniCD)
 
 ## Person Re-id(人员重识别)
+* [SapiensID: Foundation for Human Recognition](http://arxiv.org/abs/2504.04708v1)
 * [AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification](http://arxiv.org/abs/2503.08121v1)<br>:star:[code](https://github.com/agvpreid25/AG-VPReID-Net)
 * [Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification](http://arxiv.org/abs/2503.09962v1)<br>:star:[code](https://github.com/sssaury/HAM)
 * [From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification](http://arxiv.org/abs/2503.12232v1)
@@ -428,6 +437,7 @@
 
 ## Human-Object Interactions(人机交互)
 * [InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions](http://arxiv.org/abs/2502.20390v1)<br>:star:[code](https://sirui-xu.github.io/InterMimic/)
+* [REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning](http://arxiv.org/abs/2504.04956v1)<br>:star:[code](https://jyunlee.github.io/projects/rewind/)
 * [SGC-Net: Stratified Granular Comparison Network for Open-Vocabulary HOI Detection](http://arxiv.org/abs/2503.00414v1)<br>:star:[code](https://github.com/Phil0212/SGC-Net)
 * [ChainHOI: Joint-based Kinematic Chain Modeling for Human-Object Interaction Generation](http://arxiv.org/abs/2503.13130v1)<br>:star:[code](https://github.com/qinghuannn/ChainHOI)
 * [Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions](http://arxiv.org/abs/2503.15898v1)<br>:star:[code](https://wenboran2002.github.io/3dhoi)
@@ -443,6 +453,7 @@
 * [MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention](http://arxiv.org/abs/2503.08664v1)<br>:house:[project](https://johann.wang/MEAT/)<br>:star:[code](https://github.com/johannwyh/MEAT)
 * [GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior](http://arxiv.org/abs/2503.11143v1)<br>:star:[code](https://github.com/silence-tang/GaussianIP)
 * [MixerMDM: Learnable Composition of Human Motion Diffusion Models](http://arxiv.org/abs/2504.01019v1)<br>:house:[project](https://pabloruizponce.com/papers/MixerMDM)
+* [From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models](http://arxiv.org/abs/2504.05265v1)<br>:star:[code](https://barquerogerman.github.io/RPM/)
 * 文本驱动的运动生成
   * [SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing](http://arxiv.org/abs/2503.13836v1)<br>:star:[code](https://seokhyeonhong.github.io/projects/salad/)
 * 人体运动恢复
@@ -464,6 +475,7 @@
 * 人体重建
   * [DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image](http://arxiv.org/abs/2503.19373v1)<br>:star:[code](https://hygenie1228.github.io/DeClotH/)
   * [Reconstructing Humans with a Biomechanically Accurate Skeleton](http://arxiv.org/abs/2503.21751v1)<br>:star:[code](https://isshikihugh.github.io/HSMR/)
+  * [InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](http://arxiv.org/abs/2504.05303v1)<br>:house:[project](https://interactvlm.is.tue.mpg.de)
   * 人体形状重建
     * [PI-HMR: Towards Robust In-bed Temporal Human Shape Reconstruction with Contact Pressure Sensing](http://arxiv.org/abs/2503.00068v1)
 * 手势合成
@@ -488,6 +500,7 @@
   * [Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2503.04639v1)
   * [Show and Segment: Universal Medical Image Segmentation via In-Context Learning](http://arxiv.org/abs/2503.19359v1)
   * [Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation](http://arxiv.org/abs/2503.16997v1)<br>:star:[code](https://github.com/MQinghe/SynFoC)
+  * [DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2504.04566v1)
 * 医学图像分析
   * [Interactive Medical Image Analysis with Concept-based Similarity Reasoning](http://arxiv.org/abs/2503.06873v1)<br>:star:[code](https://github.com/tadeephuy/InteractCSR)
 * 医学图像重识别
@@ -616,12 +629,15 @@
 
 ## Image Segmentation(图像分割)
 * [Your ViT is Secretly an Image Segmentation Model](http://arxiv.org/abs/2503.19108v1)<br>:house:[project](https://www.tue-mps.org/eomt/)
+* [CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation](http://arxiv.org/abs/2504.04156v1)<br>:star:[code](https://guangyu-ryan.github.io/CoMBO)
+* [DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning](https://arxiv.org/abs/2504.04085)<br>:star:[code](https://github.com/xhli-git/DocSAM)
 * 指代图像分割
   * [Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation](http://arxiv.org/abs/2504.00356v1)<br>:star:[code](https://github.com/fhgyuanshen/HybridGL)
 * 小样本分割
   * [The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2503.21150v1)
 * 语义分割
   * [A Dataset for Semantic Segmentation in the Presence of Unknowns](http://arxiv.org/abs/2503.22309v1)
+  * [DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation](http://arxiv.org/abs/2504.04701v1)<br>:star:[code](https://github.com/VCIP-RGBD/DFormer)
   * [No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2503.15910v1)
   * 开放词汇语义分割
     * [Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)<br>:star:[code](https://github.com/rezaqorbani/SemLA)<br>:house:[project](https://thegoodailab.org/semla)
@@ -772,6 +788,9 @@
 * [COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation](http://arxiv.org/abs/2503.23388v1)
 * [MultiMorph: On-demand Atlas Construction](http://arxiv.org/abs/2504.00247v1)
 * [POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation](http://arxiv.org/abs/2504.00640v1)<br>:house:[project](https://lanyunzhu.site/POPEN/)
+* [CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images](http://arxiv.org/abs/2504.04753v1)
+* [Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models](http://arxiv.org/abs/2504.04747v1)
+* [VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models](http://arxiv.org/abs/2504.03970v1)<br>:star:[code](https://github.com/google-deepmind/video_comp)
 
 <a name="0"/>
 
