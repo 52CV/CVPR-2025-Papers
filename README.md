@@ -16,23 +16,16 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 4月8日更新 16 篇，共计 526+16 篇。
-* [InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](http://arxiv.org/abs/2504.05303v1)<br>:house:[project](https://interactvlm.is.tue.mpg.de)
-* [One-Minute Video Generation with Test-Time Training](http://arxiv.org/abs/2504.05298v1)<br>:star:[code](https://test-time-training.github.io/video-dit)
-* [Video-Bench: Human-Aligned Video Generation Benchmark](http://arxiv.org/abs/2504.04907v1)
-* [From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models](http://arxiv.org/abs/2504.05265v1)<br>:star:[code](https://barquerogerman.github.io/RPM/)
-* [Continuous Locomotive Crowd Behavior Generation](http://arxiv.org/abs/2504.04756v1)<br>:star:[code](https://github.com/InhwanBae/CrowdES)<br>:house:[project](https://ihbae.com/publication/crowdes/)
-* [Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions](http://arxiv.org/abs/2504.04744v1)<br>:house:[project](https://sites.google.com/view/lmaffordance3d)
-* [SapiensID: Foundation for Human Recognition](http://arxiv.org/abs/2504.04708v1)
-* [DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation](http://arxiv.org/abs/2504.04701v1)<br>:star:[code](https://github.com/VCIP-RGBD/DFormer)
-* [CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation](http://arxiv.org/abs/2504.04156v1)<br>:star:[code](https://guangyu-ryan.github.io/CoMBO)
-* [DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning](https://arxiv.org/abs/2504.04085)<br>:star:[code](https://github.com/xhli-git/DocSAM)
-* [DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2504.04566v1)
-* [Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAVTarget Detection](http://arxiv.org/abs/2504.04012v1)<br>:star:[code](https://github.com/IVPLaboratory/UniCD)
-* [REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning](http://arxiv.org/abs/2504.04956v1)<br>:star:[code](https://jyunlee.github.io/projects/rewind/)
-* [CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images](http://arxiv.org/abs/2504.04753v1)
-* [Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models](http://arxiv.org/abs/2504.04747v1)
-* [VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models](http://arxiv.org/abs/2504.03970v1)<br>:star:[code](https://github.com/google-deepmind/video_comp)
+## 4月9日更新 9 篇，共计 542+9 篇。
+* [HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation](http://arxiv.org/abs/2504.06210v1)<br>:star:[code](https://pfnet-research.github.io/himor)
+* [SoundVista: Novel-View Ambient Sound Synthesis via Visual-Acoustic Binding](http://arxiv.org/abs/2504.05576v1)
+* [Temporal Alignment-Free Video Matching for Few-shot Action Recognition](http://arxiv.org/abs/2504.05956v1)
+* [Taxonomy-Aware Evaluation of Vision-Language Models](http://arxiv.org/abs/2504.05457v1)
+* [SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situation](http://arxiv.org/abs/2504.05925v1)
+* [DefMamba: Deformable Visual State Space Model](http://arxiv.org/abs/2504.05794v1)
+* [Few-shot Personalized Scanpath Prediction](http://arxiv.org/abs/2504.05499v1)<br>:star:[code](https://github.com/cvlab-stonybrook/few-shot-scanpath)
+* [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
+* [Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](http://arxiv.org/abs/2504.05838v1)<br>:star:[code](https://github.com/fhdnskfbeuv/attackIPA)
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
@@ -157,6 +150,7 @@
 ## Sound 
 * [Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment](http://arxiv.org/abs/2503.12847v1)
 * [Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics](http://arxiv.org/abs/2503.12840v1)
+* [SoundVista: Novel-View Ambient Sound Synthesis via Visual-Acoustic Binding](http://arxiv.org/abs/2504.05576v1)
 
 ## Vision-Language
 * [Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](http://arxiv.org/abs/2503.04229v1)
@@ -177,6 +171,8 @@
 * [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](http://arxiv.org/abs/2503.22420v1)<br>:star:[code](https://beacon-3d.github.io)
 * [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](http://arxiv.org/abs/2503.22020v1)<br>:star:[code](https://cot-vla.github.io/)
 * [It's a (Blind) Match! Towards Vision-Language Correspondence without Parallel Data](http://arxiv.org/abs/2503.24129v1)<br>:star:[code](https://dominik-schnaus.github.io/itsamatch/)
+* [Taxonomy-Aware Evaluation of Vision-Language Models](http://arxiv.org/abs/2504.05457v1)
+* [SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situation](http://arxiv.org/abs/2504.05925v1)
 * LLM 
   * [A Simple yet Effective Layout Token in Large Language Models for Document Understanding](http://arxiv.org/abs/2503.18434v1)
   * [PAVE: Patching and Adapting Video Large Language Models](http://arxiv.org/abs/2503.19794v1)<br>:star:[code](https://github.com/dragonlzm/PAVE)
@@ -351,6 +347,7 @@
 * [Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence](http://arxiv.org/abs/2503.21766v1)<br>:star:[code](https://haolinliu97.github.io/Stable-Score/)
 * [SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations](http://arxiv.org/abs/2503.22462v1)<br>:house:[project](https://cvpr.thecvf.com/virtual/2025/poster/32799)<br>:house:[project](https://dub.sh/semalign3d)
 * [Grounding 3D Object Affordance with Language Instructions, Visual Observations and Interactions](http://arxiv.org/abs/2504.04744v1)<br>:house:[project](https://sites.google.com/view/lmaffordance3d)
+* [HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation](http://arxiv.org/abs/2504.06210v1)<br>:star:[code](https://pfnet-research.github.io/himor)
 * 3DGS
   * [SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting](http://arxiv.org/abs/2503.07476v1)
   * [NexusSplats: Efficient 3D Gaussian Splatting in the Wild](http://arxiv.org/abs/2411.14514v1)
@@ -460,6 +457,8 @@
   * [HumanMM: Global Human Motion Recovery from Multi-shot Videos](http://arxiv.org/abs/2503.07597v1)<br>:star:[code](https://zhangyuhong01.github.io/HumanMM/)
 
 ## Action Detection(动作检测)
+* 小样本动作识别
+  * [Temporal Alignment-Free Video Matching for Few-shot Action Recognition](http://arxiv.org/abs/2504.05956v1)
 * 动作计数
   * [CountLLM: Towards Generalizable Repetitive Action Counting via Large Language Model](http://arxiv.org/abs/2503.17690v1)
 * 动作检测
@@ -791,6 +790,10 @@
 * [CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images](http://arxiv.org/abs/2504.04753v1)
 * [Two is Better than One: Efficient Ensemble Defense for Robust and Compact Models](http://arxiv.org/abs/2504.04747v1)
 * [VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models](http://arxiv.org/abs/2504.03970v1)<br>:star:[code](https://github.com/google-deepmind/video_comp)
+* [DefMamba: Deformable Visual State Space Model](http://arxiv.org/abs/2504.05794v1)
+* [Few-shot Personalized Scanpath Prediction](http://arxiv.org/abs/2504.05499v1)<br>:star:[code](https://github.com/cvlab-stonybrook/few-shot-scanpath)
+* [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
+* [Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](http://arxiv.org/abs/2504.05838v1)<br>:star:[code](https://github.com/fhdnskfbeuv/attackIPA)
 
 <a name="0"/>
 
