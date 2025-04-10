@@ -16,16 +16,17 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 4月9日更新 9 篇，共计 542+9 篇。
-* [HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation](http://arxiv.org/abs/2504.06210v1)<br>:star:[code](https://pfnet-research.github.io/himor)
-* [SoundVista: Novel-View Ambient Sound Synthesis via Visual-Acoustic Binding](http://arxiv.org/abs/2504.05576v1)
-* [Temporal Alignment-Free Video Matching for Few-shot Action Recognition](http://arxiv.org/abs/2504.05956v1)
-* [Taxonomy-Aware Evaluation of Vision-Language Models](http://arxiv.org/abs/2504.05457v1)
-* [SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situation](http://arxiv.org/abs/2504.05925v1)
-* [DefMamba: Deformable Visual State Space Model](http://arxiv.org/abs/2504.05794v1)
-* [Few-shot Personalized Scanpath Prediction](http://arxiv.org/abs/2504.05499v1)<br>:star:[code](https://github.com/cvlab-stonybrook/few-shot-scanpath)
-* [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
-* [Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](http://arxiv.org/abs/2504.05838v1)<br>:star:[code](https://github.com/fhdnskfbeuv/attackIPA)
+## 4月10日更新 9 篇，共计 551+9 篇。
+* [Glossy Object Reconstruction with Cost-effective Polarized Acquisition](http://arxiv.org/abs/2504.07025v1)
+* [EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation](http://arxiv.org/abs/2504.06861v1)
+* [MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection](http://arxiv.org/abs/2504.06801v1)<br>:star:[code](https://rishubhpar.github.io/monoplace3D)
+* [Compass Control: Multi Object Orientation Control for Text-to-Image Generation](http://arxiv.org/abs/2504.06752v1)<br>:star:[code](https://rishubhpar.github.io/compasscontrol)
+* [Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding](http://arxiv.org/abs/2504.06719v1)<br>:star:[code](https://github.com/phermosilla/msm)
+* [Probability Density Geodesics in Image Diffusion Latent Space](http://arxiv.org/abs/2504.06675v1)
+* [PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering](http://arxiv.org/abs/2504.06632v1)<br>:star:[code](https://poster-maker.github.io)
+* [SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation](http://arxiv.org/abs/2504.06389v1)<br>:star:[code](https://github.com/hritam-98/SemiDAViL)
+* [Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation](http://arxiv.org/abs/2504.06961v1)
+
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
@@ -81,6 +82,7 @@
   * [TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering](http://arxiv.org/abs/2503.18328v1)<br>:star:[code](https://github.com/fudan-zvg/tensoflow)
   * [MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction](http://arxiv.org/abs/2503.18363v1)<br>:star:[code](https://wen-yuan-zhang.github.io/MonoInstance/)
   * [BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation](http://arxiv.org/abs/2503.20672v1)<br>:star:[code](https://bizgen-msra.github.io)
+  * [PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering](http://arxiv.org/abs/2504.06632v1)<br>:star:[code](https://poster-maker.github.io)
 * 4D 
   * [4Deform: Neural Surface Deformation for Robust Shape Interpolation](http://arxiv.org/abs/2502.20208v1)
   * [Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis](http://arxiv.org/abs/2503.03132v1)<br>:star:[code](https://4d-dsns.github.io/DSNS/)
@@ -237,6 +239,7 @@
   * [ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](http://arxiv.org/abs/2503.20418v1)<br>:star:[code](https://jiwoohong93.github.io/ita-mdt/)
 * 机器人
   * [VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation](http://arxiv.org/abs/2503.07135v1)
+  * [Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation](http://arxiv.org/abs/2504.06961v1)
   * [Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation](http://arxiv.org/abs/2504.00420v1)
   * [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](http://arxiv.org/abs/2503.08257v1)
 * 视觉定位
@@ -270,6 +273,7 @@
 * [Continuous Locomotive Crowd Behavior Generation](http://arxiv.org/abs/2504.04756v1)<br>:star:[code](https://github.com/InhwanBae/CrowdES)<br>:house:[project](https://ihbae.com/publication/crowdes/)
 * 扩散模型
   * [ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models](http://arxiv.org/abs/2503.19902v1)<br>:star:[code](https://visual-ai.github.io/ice)
+  * [Probability Density Geodesics in Image Diffusion Latent Space](http://arxiv.org/abs/2504.06675v1)
   * [PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models](http://arxiv.org/abs/2503.19731v1)
   * [Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability](http://arxiv.org/abs/2503.20483v1)<br>:star:[code](https://foundation-model-research.github.io/difflens)
 * 图像编辑
@@ -290,6 +294,7 @@
   * [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](http://arxiv.org/abs/2503.00948v1)
 * 文本-图像
   * [Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.09669v1)<br>:star:[code](https://silent-branding.github.io/)
+  * [Compass Control: Multi Object Orientation Control for Text-to-Image Generation](http://arxiv.org/abs/2504.06752v1)<br>:star:[code](https://rishubhpar.github.io/compasscontrol)
   * [ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation](http://arxiv.org/abs/2503.10358v1)
   * [DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation](http://arxiv.org/abs/2503.11122v1)<br>:star:[code](https://github.com/Hongbin98/DriveGEN)
   * [Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation](http://arxiv.org/abs/2503.12356v1)
@@ -301,6 +306,7 @@
 * 文本-视频
   * [Can Text-to-Video Generation help Video-Language Alignment?](http://arxiv.org/abs/2503.18507v1)<br>:star:[code](https://lucazanella.github.io/synvita/)
   * [VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models](http://arxiv.org/abs/2503.21781v1)<br>:star:[code](https://jasper0314-huang.github.io/videomage-customization)
+  * [EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation](http://arxiv.org/abs/2504.06861v1)
 * 视频合成
   * [Mask$^2$DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881v1)<br>:star:[code](https://tianhao-qi.github.io/Mask2DiTProject)
   * [SketchVideo: Sketch-based Video Generation and Editing](http://arxiv.org/abs/2503.23284v1)
@@ -370,6 +376,7 @@
   * [FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video](http://arxiv.org/abs/2503.04720v1)<br>:house:[project](https://yuegao.me/FluidNexus)
   * [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](http://arxiv.org/abs/2503.17316v1)<br>:house:[project](https://europe.naverlabs.com/pow3r)
   * [Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields](http://arxiv.org/abs/2503.19976v1)<br>:house:[project](https://4dqv.mpiinf.mpg.de/ThinShellSfT)
+  * [Glossy Object Reconstruction with Cost-effective Polarized Acquisition](http://arxiv.org/abs/2504.07025v1)
 * 深度补全
   * [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](http://arxiv.org/abs/2503.12745v1)
   * [SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion](http://arxiv.org/abs/2503.01257v1)<br>:star:[code](https://github.com/Lan1eve/SVDC)
@@ -381,6 +388,7 @@
   * [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](http://arxiv.org/abs/2503.00513v1)<br>:star:[code](https://github.com/hanxunyu/Inst3D-LMM)
   * [Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2503.16707v1)<br>:star:[code](https://github.com/TyroneLi/CUA_O3D)
   * [PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding](http://arxiv.org/abs/2503.18107v1)<br>:star:[code](https://zju3dv.github.io/panogs)
+  * [Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding](http://arxiv.org/abs/2504.06719v1)<br>:star:[code](https://github.com/phermosilla/msm)
 * 场景重建
   * [Decompositional Neural Scene Reconstruction with Generative Diffusion Prior](http://arxiv.org/abs/2503.14830v1)<br>:star:[code](https://dp-recon.github.io/)
   * [Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration](http://arxiv.org/abs/2504.00387v1)<br>:star:[code](https://github.com/LongHZ140516/Scene4U)
@@ -543,6 +551,7 @@
   * [GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector](http://arxiv.org/abs/2503.15211v1)<br>:star:[code](https://github.com/ZechuanLi/GO-N3RDet)
   * [Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection](http://arxiv.org/abs/2503.16125v1)
   * [Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection](http://arxiv.org/abs/2503.21099v1)<br>:star:[code](https://github.com/zyrant/CPDet3D)
+  * [MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection](http://arxiv.org/abs/2504.06801v1)<br>:star:[code](https://rishubhpar.github.io/monoplace3D)
 * 域适应目标检测
   * [Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection](http://arxiv.org/abs/2503.23220v1)<br>:star:[code](https://github.com/TRAILab/DINO_Teacher)
 * 目标发现
@@ -638,6 +647,7 @@
   * [A Dataset for Semantic Segmentation in the Presence of Unknowns](http://arxiv.org/abs/2503.22309v1)
   * [DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation](http://arxiv.org/abs/2504.04701v1)<br>:star:[code](https://github.com/VCIP-RGBD/DFormer)
   * [No Thing, Nothing: Highlighting Safety-Critical Classes for Robust LiDAR Semantic Segmentation in Adverse Weather](http://arxiv.org/abs/2503.15910v1)
+  * [SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation](http://arxiv.org/abs/2504.06389v1)<br>:star:[code](https://github.com/hritam-98/SemiDAViL)
   * 开放词汇语义分割
     * [Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2503.21780v1)<br>:star:[code](https://github.com/rezaqorbani/SemLA)<br>:house:[project](https://thegoodailab.org/semla)
 * 全景分割
