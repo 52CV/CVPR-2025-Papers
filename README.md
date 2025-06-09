@@ -17,33 +17,51 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 ## 5月23日更新 21 篇，共计 578+21 篇。
-* [Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction](http://arxiv.org/abs/2505.16980v1)
-* [Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining](http://arxiv.org/abs/2505.16811v1)
-* [SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving](http://arxiv.org/abs/2505.16805v1)
-* [Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](http://arxiv.org/abs/2505.16778v1)
-* [Sketchy Bounding-box Supervision for 3D Instance Segmentation](http://arxiv.org/abs/2505.16399v1)<br>:star:[code](https://github.com/dengq7/Sketchy-3DIS)
-* [OmniStyle: Filtering High Quality Style Transfer Data at Scale](http://arxiv.org/abs/2505.14028v1)
-* [Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels](http://arxiv.org/abs/2505.13788v1)
-* [Neural Video Compression with Context Modulation](http://arxiv.org/abs/2505.14541v1)<br>:star:[code](https://github.com/Austin4USTC/DCMVC)
-* [FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance](http://arxiv.org/abs/2505.13437v1)
-* [Degradation-Aware Feature Perturbation for All-in-One Image Restoration](http://arxiv.org/abs/2505.12630v1)<br>:star:[code](https://github.com/TxpHome/DFPIR)
-* [Learning to Highlight Audio by Watching Movies](http://arxiv.org/abs/2505.12154v1)<br>:star:[code](https://wikichao.github.io/VisAH/)
-* [DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation](http://arxiv.org/abs/2505.11676v1)
-* [RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects](http://arxiv.org/abs/2505.10841v1)
-* [GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding](http://arxiv.org/abs/2505.10671v1)<br>:star:[code](https://woven-visionai.github.io/ga3ce-project/)
-* [Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging](http://arxiv.org/abs/2505.10649v1)
-* [GeoMM: On Geodesic Perspective for Multi-modal Learning](http://arxiv.org/abs/2505.11216v1)
-* [iSegMan: Interactive Segment-and-Manipulate 3D Gaussians](http://arxiv.org/abs/2505.11934v1)<br>:star:[code](https://zhao-yian.github.io/iSegMan)
-* [Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](http://arxiv.org/abs/2505.12632v1)
-* [DeCafNet: Delegate and Conquer for Efficient Temporal Grounding in Long Videos](http://arxiv.org/abs/2505.16376v1)<br>:star:[code](https://github.com/ZijiaLewisLu/CVPR2025-DeCafNet)
-* [Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding](http://arxiv.org/abs/2505.16652v1)
-* [UniPhy: Learning a Unified Constitutive Model for Inverse Physics Simulation](http://arxiv.org/abs/2505.16971v1)
+* [Deterministic Image-to-Image Translation via Denoising Brownian Bridge Models with Dual Approximators](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Deterministic_Image-to-Image_Translation_via_Denoising_Brownian_Bridge_Models_with_Dual_CVPR_2025_paper.html)
+* [Towards Source-Free Machine Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/Ahmed_Towards_Source-Free_Machine_Unlearning_CVPR_2025_paper.html)
+* [Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video](https://openaccess.thecvf.com/content/CVPR2025/html/Yao_Uni4D_Unifying_Visual_Foundation_Models_for_4D_Modeling_from_a_CVPR_2025_paper.html)
+* [DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.html)
+* [DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Rosu_DiffLocks_Generating_3D_Hair_from_a_Single_Image_using_Diffusion_CVPR_2025_paper.html)
+* [The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_The_Language_of_Motion_Unifying_Verbal_and_Non-verbal_Language_of_CVPR_2025_paper.html)
+* [CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)
+* [Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)
+* [Diffusion Renderer: Neural Inverse and Forward Rendering with Video Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Diffusion_Renderer_Neural_Inverse_and_Forward_Rendering_with_Video_Diffusion_CVPR_2025_paper.html)
+* [Learning to Detect Objects from  Multi-Agent LiDAR Scans without Manual Labels](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Learning_to_Detect_Objects_from__Multi-Agent_LiDAR_Scans_without_CVPR_2025_paper.html)
+* [DeepLA-Net: Very Deep Local Aggregation Networks for Point Cloud Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_DeepLA-Net_Very_Deep_Local_Aggregation_Networks_for_Point_Cloud_Analysis_CVPR_2025_paper.html)
+* [APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_APHQ-ViT_Post-Training_Quantization_with_Average_Perturbation_Hessian_Based_Reconstruction_for_CVPR_2025_paper.html)
+* [AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html)
+* [Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Omni-Scene_Omni-Gaussian_Representation_for_Ego-Centric_Sparse-View_Scene_Reconstruction_CVPR_2025_paper.html)
+* [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_3DTopia-XL_Scaling_High-quality_3D_Asset_Generation_via_Primitive_Diffusion_CVPR_2025_paper.html)
+
+-----------------------------------------------------
+* [BWFormer: Building Wireframe Reconstruction from Airborne LiDAR Point Cloud with Transformer](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BWFormer_Building_Wireframe_Reconstruction_from_Airborne_LiDAR_Point_Cloud_with_CVPR_2025_paper.html)
+* [High-Fidelity Lightweight Mesh Reconstruction from Point Clouds](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_High-Fidelity_Lightweight_Mesh_Reconstruction_from_Point_Clouds_CVPR_2025_paper.html)
+* [WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.html)
+* [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.html)
+* [TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TopNet_Transformer-Efficient_Occupancy_Prediction_Network_for_Octree-Structured_Point_Cloud_Geometry_CVPR_2025_paper.html)
+* [Spectral Informed Mamba for Robust Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2025/html/Bahri_Spectral_Informed_Mamba_for_Robust_Point_Cloud_Processing_CVPR_2025_paper.html)
+
+--------------------------------------------
+* [An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_An_End-to-End_Robust_Point_Cloud_Semantic_Segmentation_Network_with_Single-Step_CVPR_2025_paper.html)
+* [GraphI2P: Image-to-Point Cloud Registration with Exploring Pattern of Correspondence via Graph Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Bie_GraphI2P_Image-to-Point_Cloud_Registration_with_Exploring_Pattern_of_Correspondence_via_CVPR_2025_paper.html)
+* [LidarGait++: Learning Local Features and Size Awareness from LiDAR Point Clouds for 3D Gait Recognition](https://openaccess.thecvf.com/content/CVPR2025/html/Shen_LidarGait_Learning_Local_Features_and_Size_Awareness_from_LiDAR_Point_CVPR_2025_paper.html)
+* [Cross-Modal 3D Representation with Multi-View Images and Point Clouds](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Cross-Modal_3D_Representation_with_Multi-View_Images_and_Point_Clouds_CVPR_2025_paper.html)
+* [High-quality Point Cloud Oriented Normal Estimation via Hybrid Angular and Euclidean Distance Encoding](https://openaccess.thecvf.com/content/CVPR2025/html/Li_High-quality_Point_Cloud_Oriented_Normal_Estimation_via_Hybrid_Angular_and_CVPR_2025_paper.html)
+* [Consistent Normal Orientation for 3D Point Clouds via Least Squares on Delaunay Graph](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Consistent_Normal_Orientation_for_3D_Point_Clouds_via_Least_Squares_CVPR_2025_paper.html)
+* [PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter](https://openaccess.thecvf.com/content/CVPR2025/html/Zha_PMA_Towards_Parameter-Efficient_Point_Cloud_Understanding_via_Point_Mamba_Adapter_CVPR_2025_paper.html)
+* [Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.html)
+
+* [MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2025/html/Shao_MICAS_Multi-grained_In-Context_Adaptive_Sampling_for_3D_Point_Cloud_Processing_CVPR_2025_paper.html)
+
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
 * [Dynamic Camera Poses and Where to Find Them](http://arxiv.org/abs/2504.17788v1)<br>:house:[project](https://research.nvidia.com/labs/dir/dynpose-100k)
 * 相机重定位
   * [From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting](http://arxiv.org/abs/2503.19358v1)
+
+## Multi-view Clustering
+* [AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html)
 
 ## Retrieval-Augmented Generation(检索增强生成)
 * 生成式检索
@@ -95,9 +113,11 @@
   * [MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction](http://arxiv.org/abs/2503.18363v1)<br>:star:[code](https://wen-yuan-zhang.github.io/MonoInstance/)
   * [BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation](http://arxiv.org/abs/2503.20672v1)<br>:star:[code](https://bizgen-msra.github.io)
   * [PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering](http://arxiv.org/abs/2504.06632v1)<br>:star:[code](https://poster-maker.github.io)
+  * [Diffusion Renderer: Neural Inverse and Forward Rendering with Video Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Diffusion_Renderer_Neural_Inverse_and_Forward_Rendering_with_Video_Diffusion_CVPR_2025_paper.html)
 * 4D 
   * [4Deform: Neural Surface Deformation for Robust Shape Interpolation](http://arxiv.org/abs/2502.20208v1)
   * [Dynamic Neural Surfaces for Elastic 4D Shape Representation and Analysis](http://arxiv.org/abs/2503.03132v1)<br>:star:[code](https://4d-dsns.github.io/DSNS/)
+  * [Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video](https://openaccess.thecvf.com/content/CVPR2025/html/Yao_Uni4D_Unifying_Visual_Foundation_Models_for_4D_Modeling_from_a_CVPR_2025_paper.html)
 
 ## Anomaly Detection(异常检测)
 * [One-for-More: Continual Diffusion Model for Anomaly Detection](http://arxiv.org/abs/2502.19848v1)<br>:star:[code](https://github.com/FuNz-0/One-for-More)
@@ -207,6 +227,7 @@
   * [Scaling Vision Pre-Training to 4K Resolution](http://arxiv.org/abs/2503.19903v1)<br>:star:[code](https://nvlabs.github.io/PS3)
   * [Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization](http://arxiv.org/abs/2503.17928v1)
   * [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](http://arxiv.org/abs/2503.23733v1)
+  * [Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)
 
 ## Self-Supervised(监督)
 * 自监督
@@ -227,8 +248,11 @@
   * [TopV: Compatible Token Pruning with Inference Time Optimization for Fast and Low-Memory Multimodal Vision Language Model](http://arxiv.org/abs/2503.18278v1)
 * 量化
   * [MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization](http://arxiv.org/abs/2504.00999v1)<br>:star:[code](https://apexgen-x.github.io/MergeVQ)
+  * [APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_APHQ-ViT_Post-Training_Quantization_with_Average_Perturbation_Hessian_Based_Reconstruction_for_CVPR_2025_paper.html)
 
 ## Machine learning(机器学习)
+* 机器遗忘
+  * [Towards Source-Free Machine Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/Ahmed_Towards_Source-Free_Machine_Unlearning_CVPR_2025_paper.html)
 * 持续学习
   * [Do Your Best and Get Enough Rest for Continual Learning](http://arxiv.org/abs/2503.18371v1)<br>:star:[code](https://github.com/hankyul2/ViewBatchModel)
   * [KAC: Kolmogorov-Arnold Classifier for Continual Learning](http://arxiv.org/abs/2503.21076v1)<br>:star:[code](https://github.com/Ethanhuhuhu/KAC)
@@ -262,6 +286,7 @@
   * [Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation](http://arxiv.org/abs/2504.06961v1)
   * [Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation](http://arxiv.org/abs/2504.00420v1)
   * [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](http://arxiv.org/abs/2503.08257v1)
+  * [DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.html)
 * 视觉定位
   * [Scene-agnostic Pose Regression for Visual Localization](http://arxiv.org/abs/2503.19543v1)<br>:star:[code](https://junweizheng93.github.io/publications/SPR/SPR.html)
 * 地点/位置识别
@@ -308,6 +333,7 @@
 * 三维生成
   * [DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation](http://arxiv.org/abs/2503.06900v1)
   * [MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation](http://arxiv.org/abs/2503.20519v1)
+  * [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_3DTopia-XL_Scaling_High-quality_3D_Asset_Generation_via_Primitive_Diffusion_CVPR_2025_paper.html)
 * 图像生成  
   * [DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models](http://arxiv.org/abs/2503.01645v1)
   * [Zero-Shot Styled Text Image Generation, but Make It Autoregressive](http://arxiv.org/abs/2503.17074v1)
@@ -344,6 +370,9 @@
   * [Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data](http://arxiv.org/abs/2503.21694v1)<br>:house:[project](https://huggingface.co/spaces/ZhiyuanthePony/TriplaneTurbo)<br>:star:[code](https://github.com/theEricMa/TriplaneTurbo)
 * 视频编辑
   * [Visual Prompting for One-shot Controllable Video Editing without Inversion](http://arxiv.org/abs/2504.14335v1)
+* Image-to-Image Translation
+  * [Deterministic Image-to-Image Translation via Denoising Brownian Bridge Models with Dual Approximators](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_Deterministic_Image-to-Image_Translation_via_Denoising_Brownian_Bridge_Models_with_Dual_CVPR_2025_paper.html)
+
 
 ## Video 
 * [VITED: Video Temporal Evidence Distillation](http://arxiv.org/abs/2503.12855v1)
@@ -418,25 +447,56 @@
 * 场景重建
   * [Decompositional Neural Scene Reconstruction with Generative Diffusion Prior](http://arxiv.org/abs/2503.14830v1)<br>:star:[code](https://dp-recon.github.io/)
   * [Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration](http://arxiv.org/abs/2504.00387v1)<br>:star:[code](https://github.com/LongHZ140516/Scene4U)
+  * [Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Omni-Scene_Omni-Gaussian_Representation_for_Ego-Centric_Sparse-View_Scene_Reconstruction_CVPR_2025_paper.html)
 * 表面重建
   * [OffsetOPT: Explicit Surface Reconstruction without Normals](http://arxiv.org/abs/2503.15763v1)
 * 三维场景合成
   * [Global-Local Tree Search for Language Guided 3D Scene Generation](http://arxiv.org/abs/2503.18476v1)<br>:star:[code](https://github.com/dw-dengwei/TreeSearchGen)
+* 3D头发
+  * [DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Rosu_DiffLocks_Generating_3D_Hair_from_a_Single_Image_using_Diffusion_CVPR_2025_paper.html)
 
 ## Point Cloud(点云)
 * [STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds](http://arxiv.org/abs/2503.00801v1)
 * [Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis](http://arxiv.org/abs/2503.12150v1)<br>:star:[code](https://github.com/auniquesun/Point-Cache)
 * [Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation](http://arxiv.org/abs/2503.23670v1)<br>:star:[code](https://takeshie.github.io/Bijective-SDF)
 * [PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning](http://arxiv.org/abs/2504.16023v1)<br>:star:[code](https://github.com/songw-zju/PointLoRA)
+* [Cross-Modal 3D Representation with Multi-View Images and Point Clouds](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Cross-Modal_3D_Representation_with_Multi-View_Images_and_Point_Clouds_CVPR_2025_paper.html)
+* [High-quality Point Cloud Oriented Normal Estimation via Hybrid Angular and Euclidean Distance Encoding](https://openaccess.thecvf.com/content/CVPR2025/html/Li_High-quality_Point_Cloud_Oriented_Normal_Estimation_via_Hybrid_Angular_and_CVPR_2025_paper.html)
+* [DeepLA-Net: Very Deep Local Aggregation Networks for Point Cloud Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_DeepLA-Net_Very_Deep_Local_Aggregation_Networks_for_Point_Cloud_Analysis_CVPR_2025_paper.html)
+* [BWFormer: Building Wireframe Reconstruction from Airborne LiDAR Point Cloud with Transformer](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_BWFormer_Building_Wireframe_Reconstruction_from_Airborne_LiDAR_Point_Cloud_with_CVPR_2025_paper.html)
+* [High-Fidelity Lightweight Mesh Reconstruction from Point Clouds](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_High-Fidelity_Lightweight_Mesh_Reconstruction_from_Point_Clouds_CVPR_2025_paper.html)
+* [WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_WeatherGen_A_Unified_Diverse_Weather_Generator_for_LiDAR_Point_Clouds_CVPR_2025_paper.html)
+* [TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TopNet_Transformer-Efficient_Occupancy_Prediction_Network_for_Octree-Structured_Point_Cloud_Geometry_CVPR_2025_paper.html)
+* [Spectral Informed Mamba for Robust Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2025/html/Bahri_Spectral_Informed_Mamba_for_Robust_Point_Cloud_Processing_CVPR_2025_paper.html)
+* [LidarGait++: Learning Local Features and Size Awareness from LiDAR Point Clouds for 3D Gait Recognition](https://openaccess.thecvf.com/content/CVPR2025/html/Shen_LidarGait_Learning_Local_Features_and_Size_Awareness_from_LiDAR_Point_CVPR_2025_paper.html)用于步态识别
+* [Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mamba4D_Efficient_4D_Point_Cloud_Video_Understanding_with_Disentangled_Spatial-Temporal_CVPR_2025_paper.html)视频理解
 * 点云分割
   * [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](http://arxiv.org/abs/2503.16282v1)<br>:star:[code](https://github.com/ZhaochongAn/GFS-VL)
+  * [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.html)
+  * 点云语义分割
+    * [An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_An_End-to-End_Robust_Point_Cloud_Semantic_Segmentation_Network_with_Single-Step_CVPR_2025_paper.html)
 * 点云配准
   * [Unlocking Generalization Power in LiDAR Point Cloud Registration](http://arxiv.org/abs/2503.10149v1)<br>:star:[code](https://github.com/peakpang/UGP)
   * [ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration](http://arxiv.org/abs/2503.17093v1)<br>:star:[code](https://github.com/EricssonResearch/ColabSfM)
+  * [GraphI2P: Image-to-Point Cloud Registration with Exploring Pattern of Correspondence via Graph Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Bie_GraphI2P_Image-to-Point_Cloud_Registration_with_Exploring_Pattern_of_Correspondence_via_CVPR_2025_paper.html)
 * 点云补全
   * [GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors](http://arxiv.org/abs/2502.19896v1)
   * [Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration](http://arxiv.org/abs/2503.04030v1)
   * [Parametric Point Cloud Completion for Polygonal Surface Reconstruction](http://arxiv.org/abs/2503.08363v1)<br>:star:[code](https://parametric-completion.github.io)
+* 3D点云
+  * [MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing](https://openaccess.thecvf.com/content/CVPR2025/html/Shao_MICAS_Multi-grained_In-Context_Adaptive_Sampling_for_3D_Point_Cloud_Processing_CVPR_2025_paper.html)
+  * [Consistent Normal Orientation for 3D Point Clouds via Least Squares on Delaunay Graph](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Consistent_Normal_Orientation_for_3D_Point_Clouds_via_Least_Squares_CVPR_2025_paper.html)
+* 点云理解
+  * [PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter](https://openaccess.thecvf.com/content/CVPR2025/html/Zha_PMA_Towards_Parameter-Efficient_Point_Cloud_Understanding_via_Point_Mamba_Adapter_CVPR_2025_paper.html)
+
+
+
+
+
+
+
+
+
 
 ## Visual Question Answering(视觉问答)
 * [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](http://arxiv.org/abs/2503.00413v1)
@@ -487,6 +547,7 @@
 * [MixerMDM: Learnable Composition of Human Motion Diffusion Models](http://arxiv.org/abs/2504.01019v1)<br>:house:[project](https://pabloruizponce.com/papers/MixerMDM)
 * [From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models](http://arxiv.org/abs/2504.05265v1)<br>:star:[code](https://barquerogerman.github.io/RPM/)
 * [FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance](http://arxiv.org/abs/2505.13437v1)
+* [The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_The_Language_of_Motion_Unifying_Verbal_and_Non-verbal_Language_of_CVPR_2025_paper.html)
 * 文本驱动的运动生成
   * [SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing](http://arxiv.org/abs/2503.13836v1)<br>:star:[code](https://seokhyeonhong.github.io/projects/salad/)
 * 人体运动恢复
@@ -577,6 +638,7 @@
 * [Test-Time Backdoor Detection for Object Detection Models](http://arxiv.org/abs/2503.15293v1)
 * [BOOTPLACE: Bootstrapped Object Placement with Detection Transformers](http://arxiv.org/abs/2503.21991v1)<br>:star:[code](https://github.com/RyanHangZhou/BOOTPLACE)<br>:star:[code](https://ryanhangzhou.github.io/bootplace/)
 * [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](http://arxiv.org/abs/2503.21003v1)
+* [Learning to Detect Objects from  Multi-Agent LiDAR Scans without Manual Labels](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Learning_to_Detect_Objects_from__Multi-Agent_LiDAR_Scans_without_CVPR_2025_paper.html)
 * [Visual Consensus Prompting for Co-Salient Object Detection](http://arxiv.org/abs/2504.14254v1)<br>:star:[code](https://github.com/WJ-CV/VCP)
 * 3D目标检测
   * [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](http://arxiv.org/abs/2502.19630v1)<br>:star:[code](https://github.com/mickeykang16/Ev3DOD)
@@ -684,6 +746,8 @@
   * [Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation](http://arxiv.org/abs/2504.00356v1)<br>:star:[code](https://github.com/fhgyuanshen/HybridGL)
 * 小样本分割
   * [The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation](http://arxiv.org/abs/2503.21150v1)
+* 语义协同分割
+  * [CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_CALICO_Part-Focused_Semantic_Co-Segmentation_with_Large_Vision-Language_Models_CVPR_2025_paper.html)
 * 语义分割
   * [A Dataset for Semantic Segmentation in the Presence of Unknowns](http://arxiv.org/abs/2503.22309v1)
   * [DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation](http://arxiv.org/abs/2504.04701v1)<br>:star:[code](https://github.com/VCIP-RGBD/DFormer)
@@ -729,6 +793,7 @@
   * [Monocular and Generalizable Gaussian Talking Head Animation](http://arxiv.org/abs/2504.00665v1)
 
 ## Othere(其它)
+* [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
 * [PRaDA: Projective Radial Distortion Averaging](http://arxiv.org/abs/2504.16499v1)
 * [One-Step Event-Driven High-Speed Autofocus](http://arxiv.org/abs/2503.01214v1)
 * [Color Alignment in Diffusion](http://arxiv.org/abs/2503.06746v1)
@@ -848,7 +913,6 @@
 * [VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models](http://arxiv.org/abs/2504.03970v1)<br>:star:[code](https://github.com/google-deepmind/video_comp)
 * [DefMamba: Deformable Visual State Space Model](http://arxiv.org/abs/2504.05794v1)
 * [Few-shot Personalized Scanpath Prediction](http://arxiv.org/abs/2504.05499v1)<br>:star:[code](https://github.com/cvlab-stonybrook/few-shot-scanpath)
-* [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
 * [Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](http://arxiv.org/abs/2504.05838v1)<br>:star:[code](https://github.com/fhdnskfbeuv/attackIPA)
 * [Seurat: From Moving Points to Depth](http://arxiv.org/abs/2504.14687v1)<br>:star:[code](https://seurat-cvpr.github.io)
 * [DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding](http://arxiv.org/abs/2504.14920v1)<br>:star:[code](https://github.com/PKU-ICST-MIPL/DyFo_CVPR2025)
