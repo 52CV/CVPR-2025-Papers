@@ -96,6 +96,32 @@
 * [DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture](https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_DKDM_Data-Free_Knowledge_Distillation_for_Diffusion_Models_with_Any_Architecture_CVPR_2025_paper.html)
 * [What Makes a Good Dataset for Knowledge Distillation?](https://openaccess.thecvf.com/content/CVPR2025/html/Frank_What_Makes_a_Good_Dataset_for_Knowledge_Distillation_CVPR_2025_paper.html)
 
+-----------------------------------------------------------------------------------------------------------
+* [Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html)
+* [UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References](https://openaccess.thecvf.com/content/CVPR2025/html/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.html)
+* [GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.html)
+* [UNOPose: Unseen Object Pose Estimation with an Unposed RGB-D Reference Image](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UNOPose_Unseen_Object_Pose_Estimation_with_an_Unposed_RGB-D_Reference_CVPR_2025_paper.html)
+* [Rethinking Correspondence-based Category-Level Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_Rethinking_Correspondence-based_Category-Level_Object_Pose_Estimation_CVPR_2025_paper.html)
+* [ONDA-Pose: Occlusion-Aware Neural Domain Adaptation for Self-Supervised 6D Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Tan_ONDA-Pose_Occlusion-Aware_Neural_Domain_Adaptation_for_Self-Supervised_6D_Object_Pose_CVPR_2025_paper.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
@@ -155,6 +181,8 @@
 * [DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection](http://arxiv.org/abs/2503.13985v1)
 * [Towards Training-free Anomaly Detection with Vision and Language Foundation Models](http://arxiv.org/abs/2503.18325v1)<br>:star:[code](https://github.com/zhang0jhon/LogSAD)
 * [The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection](http://arxiv.org/abs/2503.21622v1)<br>:house:[project](https://benchmark.mvtec.com/)<br>:house:[project](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)<br>:house:[project](https://sites.google.com/view/vand30cvpr2025/challenge)
+* [Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html)
+
 
 ## Neural Radiance Fields
 * [LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene](http://arxiv.org/abs/2503.18513v1)
@@ -201,9 +229,21 @@
 * [GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation](http://arxiv.org/abs/2503.15110v1)<br>:star:[code](https://github.com/ziqin-h/GIVEPose)
 * [Structure-Aware Correspondence Learning for Relative Pose Estimation](http://arxiv.org/abs/2503.18671v1)
 * [Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation](http://arxiv.org/abs/2503.21140v1)<br>:star:[code](https://github.com/chenbys/FMMP)
+* [GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.html)
+* [UNOPose: Unseen Object Pose Estimation with an Unposed RGB-D Reference Image](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_UNOPose_Unseen_Object_Pose_Estimation_with_an_Unposed_RGB-D_Reference_CVPR_2025_paper.html)
+* [Rethinking Correspondence-based Category-Level Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_Rethinking_Correspondence-based_Category-Level_Object_Pose_Estimation_CVPR_2025_paper.html)
 * 6D
   * [Any6D: Model-free 6D Pose Estimation of Novel Objects](http://arxiv.org/abs/2503.18673v1)<br>:house:[project](https://taeyeop.com/any6d)
   * [RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects](http://arxiv.org/abs/2505.10841v1)
+  * [UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References](https://openaccess.thecvf.com/content/CVPR2025/html/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.html)
+  * [ONDA-Pose: Occlusion-Aware Neural Domain Adaptation for Self-Supervised 6D Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Tan_ONDA-Pose_Occlusion-Aware_Neural_Domain_Adaptation_for_Self-Supervised_6D_Object_Pose_CVPR_2025_paper.html)
+  * [iG-6DoF: Model-free 6DoF Pose Estimation for Unseen Object via Iterative 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2025/html/Cao_iG-6DoF_Model-free_6DoF_Pose_Estimation_for_Unseen_Object_via_Iterative_CVPR_2025_paper.html)
+  * [Leveraging Global Stereo Consistency for Category-Level Shape and 6D Pose Estimation from Stereo Images](https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_Leveraging_Global_Stereo_Consistency_for_Category-Level_Shape_and_6D_Pose_CVPR_2025_paper.html)
+  * [One2Any: One-Reference 6D Pose Estimation for Any Object](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_One2Any_One-Reference_6D_Pose_Estimation_for_Any_Object_CVPR_2025_paper.html)
+  * [Generating 6DoF Object Manipulation Trajectories from Action Description in Egocentric Vision](https://openaccess.thecvf.com/content/CVPR2025/html/Yoshida_Generating_6DoF_Object_Manipulation_Trajectories_from_Action_Description_in_Egocentric_CVPR_2025_paper.html)
+  * [Pos3R: 6D Pose Estimation for Unseen Objects Made Easy](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Pos3R_6D_Pose_Estimation_for_Unseen_Objects_Made_Easy_CVPR_2025_paper.html)
+  * [CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_CAP-Net_A_Unified_Network_for_6D_Pose_and_Size_Estimation_CVPR_2025_paper.html)
+
 
 ## Object Re-Id/Counting(计数)
 * [T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting](http://arxiv.org/abs/2502.20625v1)<br>:star:[code](https://github.com/cha15yq/T2ICount)
