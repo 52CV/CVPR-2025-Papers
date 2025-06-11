@@ -16,7 +16,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 6月10日更新 78 篇，共计 599+78 篇。
+## 6月10日更新 84 篇，共计 710+84 篇。
 * [MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_MANTA_A_Large-Scale_Multi-View_and_Visual-Text_Anomaly_Detection_Dataset_for_CVPR_2025_paper.html)
 * [CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_CORE4D_A_4D_Human-Object-Human_Interaction_Dataset_for_Collaborative_Object_REarrangement_CVPR_2025_paper.html)
 * [OpticalNet: An Optical Imaging Dataset and Benchmark Beyond the Diffraction Limit](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OpticalNet_An_Optical_Imaging_Dataset_and_Benchmark_Beyond_the_Diffraction_CVPR_2025_paper.html)
@@ -95,8 +95,6 @@
 * [VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_VL2Lite_Task-Specific_Knowledge_Distillation_from_Large_Vision-Language_Models_to_Lightweight_CVPR_2025_paper.html)
 * [DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture](https://openaccess.thecvf.com/content/CVPR2025/html/Xiang_DKDM_Data-Free_Knowledge_Distillation_for_Diffusion_Models_with_Any_Architecture_CVPR_2025_paper.html)
 * [What Makes a Good Dataset for Knowledge Distillation?](https://openaccess.thecvf.com/content/CVPR2025/html/Frank_What_Makes_a_Good_Dataset_for_Knowledge_Distillation_CVPR_2025_paper.html)
-
------------------------------------------------------------------------------------------------------------
 * [Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html)
 * [UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References](https://openaccess.thecvf.com/content/CVPR2025/html/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.html)
 * [GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.html)
