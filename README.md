@@ -16,7 +16,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 6月12日更新 118 篇，共计 836+118 篇。
+## 6月12日更新 118+63 篇，共计 836+118+63 篇。
 * [LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_LOGICZSL_Exploring_Logic-induced_Representation_for_Compositional_Zero-shot_Learning_CVPR_2025_paper.html)
 * [LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty](https://openaccess.thecvf.com/content/CVPR2025/html/Spartalis_LoTUS_Large-Scale_Machine_Unlearning_with_a_Taste_of_Uncertainty_CVPR_2025_paper.html)
 * [Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.html)
@@ -135,7 +135,71 @@
 * [Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Towards_Natural_Language-Based_Document_Image_Retrieval_New_Dataset_and_Benchmark_CVPR_2025_paper.html)
 * [ILIAS: Instance-Level Image retrieval At Scale](https://openaccess.thecvf.com/content/CVPR2025/html/Kordopatis-Zilos_ILIAS_Instance-Level_Image_retrieval_At_Scale_CVPR_2025_paper.html)
 * [Rethinking Noisy Video-Text Retrieval via Relation-aware Alignment](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_Rethinking_Noisy_Video-Text_Retrieval_via_Relation-aware_Alignment_CVPR_2025_paper.html)
+-----------------------------------------------------------------------------------------------------
 
+* [Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Lift3D_Policy_Lifting_2D_Foundation_Models_for_Robust_3D_Robotic_CVPR_2025_paper.html)
+* [RoboGround: Robotic Manipulation with Grounded Vision-Language Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html)
+* [PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_PhysVLM_Enabling_Visual_Language_Models_to_Understand_Robotic_Physical_Reachability_CVPR_2025_paper.html)
+* [RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html)
+* [Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Tartan_IMU_A_Light_Foundation_Model_for_Inertial_Positioning_in_CVPR_2025_paper.html)
+* [Robotic Visual Instruction](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Robotic_Visual_Instruction_CVPR_2025_paper.html)
+* [OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](https://openaccess.thecvf.com/content/CVPR2025/html/Pan_OmniManip_Towards_General_Robotic_Manipulation_via_Object-Centric_Interaction_Primitives_as_CVPR_2025_paper.html)
+* [Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_CVPR_2025_paper.html)
+* [Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Spatial-Temporal_Graph_Diffusion_Policy_with_Kinematic_Modeling_for_Bimanual_Robotic_CVPR_2025_paper.html)
+* [RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)
+* [UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_UniGraspTransformer_Simplified_Policy_Distillation_for_Scalable_Dexterous_Robotic_Grasping_CVPR_2025_paper.html)
+* [Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html)
+* [FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.html)
+* [ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping](https://openaccess.thecvf.com/content/CVPR2025/html/Iwase_ZeroGrasp_Zero-Shot_Shape_Reconstruction_Enabled_Robotic_Grasping_CVPR_2025_paper.html)
+* [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.html)
+* [Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Object-Centric_Prompt-Driven_Vision-Language-Action_Model_for_Robotic_Manipulation_CVPR_2025_paper.html)
+* [PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.html)
+* [A Semantic Knowledge Complementarity based Decoupling Framework for Semi-supervised Class-imbalanced Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.html)
+* [EffiDec3D: An Optimized Decoder for High-Performance and Efficient 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Rahman_EffiDec3D_An_Optimized_Decoder_for_High-Performance_and_Efficient_3D_Medical_CVPR_2025_paper.html)
+* [beta-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Hu_beta-FFT_Nonlinear_Interpolation_and_Differentiated_Training_Strategies_for_Semi-Supervised_Medical_CVPR_2025_paper.html)
+* [Revisiting MAE Pre-training for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Wald_Revisiting_MAE_Pre-training_for_3D_Medical_Image_Segmentation_CVPR_2025_paper.html)
+* [nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html)
+* [Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_Interactive_Medical_Image_Segmentation_A_Benchmark_Dataset_and_Baseline_CVPR_2025_paper.html)
+* [Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Kumari_Annotation_Ambiguity_Aware_Semi-Supervised_Medical_Image_Segmentation_CVPR_2025_paper.html)
+* [Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)
+* [CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections](https://openaccess.thecvf.com/content/CVPR2025/html/Walker_CrossSDF_3D_Reconstruction_of_Thin_Structures_From_Cross-Sections_CVPR_2025_paper.html)
+* [MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_MAC-Ego3D_Multi-Agent_Gaussian_Consensus_for_Real-Time_Collaborative_Ego-Motion_and_Photorealistic_CVPR_2025_paper.html)
+* [Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Nam_Generative_Densification_Learning_to_Densify_Gaussians_for_High-Fidelity_Generalizable_3D_CVPR_2025_paper.html)
+* [ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ODHSR_Online_Dense_3D_Reconstruction_of_Humans_and_Scenes_from_CVPR_2025_paper.html)
+* [Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html)
+* [DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_DroneSplat_3D_Gaussian_Splatting_for_Robust_3D_Reconstruction_from_In-the-Wild_CVPR_2025_paper.html)
+* [SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_SPARS3R_Semantic_Prior_Alignment_and_Regularization_for_Sparse_3D_Reconstruction_CVPR_2025_paper.html)
+* [Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation](https://openaccess.thecvf.com/content/CVPR2025/html/Alzayer_Generative_Multiview_Relighting_for_3D_Reconstruction_under_Extreme_Illumination_Variation_CVPR_2025_paper.html)
+* [V2V3D: View-to-View Denoised 3D Reconstruction for Light Field Microscopy](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_V2V3D_View-to-View_Denoised_3D_Reconstruction_for_Light_Field_Microscopy_CVPR_2025_paper.html)
+* [MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Murai_MASt3R-SLAM_Real-Time_Dense_SLAM_with_3D_Reconstruction_Priors_CVPR_2025_paper.html)
+* [GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_GaPT-DAR_Category-level_Garments_Pose_Tracking_via_Integrated_2D_Deformation_and_CVPR_2025_paper.html)
+* [A Lightweight UDF Learning Framework for 3D Reconstruction Based on Local Shape Functions](https://openaccess.thecvf.com/content/CVPR2025/html/Hu_A_Lightweight_UDF_Learning_Framework_for_3D_Reconstruction_Based_on_CVPR_2025_paper.html)
+* [MVBoost: Boost 3D Reconstruction with Multi-View Refinement](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MVBoost_Boost_3D_Reconstruction_with_Multi-View_Refinement_CVPR_2025_paper.html)
+* [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.html)
+* [Shading Meets Motion: Self-supervised Indoor 3D Reconstruction Via Simultaneous Shape-from-Shading and Structure-from-Motion](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Shading_Meets_Motion_Self-supervised_Indoor_3D_Reconstruction_Via_Simultaneous_Shape-from-Shading_CVPR_2025_paper.html)
+* [Learning Partonomic 3D Reconstruction from Image Collections](https://openaccess.thecvf.com/content/CVPR2025/html/Ruan_Learning_Partonomic_3D_Reconstruction_from_Image_Collections_CVPR_2025_paper.html)
+* [AniGrad: Anisotropic Gradient-Adaptive Sampling for 3D Reconstruction From Monocular Video](https://openaccess.thecvf.com/content/CVPR2025/html/Stier_AniGrad_Anisotropic_Gradient-Adaptive_Sampling_for_3D_Reconstruction_From_Monocular_Video_CVPR_2025_paper.html)
+* [Scalable Autoregressive Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Scalable_Autoregressive_Monocular_Depth_Estimation_CVPR_2025_paper.html)
+* [Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Depth_Any_Camera_Zero-Shot_Metric_Depth_Estimation_from_Any_Camera_CVPR_2025_paper.html)
+* [Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Synthetic-to-Real_Self-supervised_Robust_Depth_Estimation_via_Learning_with_Motion_and_CVPR_2025_paper.html)
+* [OmniStereo: Real-time Omnidireactional Depth Estimation with Multiview Fisheye Cameras](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_OmniStereo_Real-time_Omnidireactional_Depth_Estimation_with_Multiview_Fisheye_Cameras_CVPR_2025_paper.html)
+* [Align3R: Aligned Monocular Depth Estimation for Dynamic Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Align3R_Aligned_Monocular_Depth_Estimation_for_Dynamic_Videos_CVPR_2025_paper.html)
+* [Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Efficient_Depth_Estimation_for_Unstable_Stereo_Camera_Systems_on_AR_CVPR_2025_paper.html)
+* [Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Prompting_Depth_Anything_for_4K_Resolution_Accurate_Metric_Depth_Estimation_CVPR_2025_paper.html)
+* [GeoDepth: From Point-to-Depth to Plane-to-Depth Modeling for Self-Supervised Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_GeoDepth_From_Point-to-Depth_to_Plane-to-Depth_Modeling_for_Self-Supervised_Monocular_Depth_CVPR_2025_paper.html)
+* [BLADE: Single-view Body Mesh Estimation through Accurate Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_BLADE_Single-view_Body_Mesh_Estimation_through_Accurate_Depth_Estimation_CVPR_2025_paper.html)
+* [Vision-Language Embodiment for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Vision-Language_Embodiment_for_Monocular_Depth_Estimation_CVPR_2025_paper.html)
+* [TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TacoDepth_Towards_Efficient_Radar-Camera_Depth_Estimation_with_One-stage_Fusion_CVPR_2025_paper.html)
+* [Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Video_Depth_Anything_Consistent_Depth_Estimation_for_Super-Long_Videos_CVPR_2025_paper.html)
+* [HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.html)
+* [Completion as Enhancement: A Degradation-Aware Selective Image Guided Network for Depth Completion](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Completion_as_Enhancement_A_Degradation-Aware_Selective_Image_Guided_Network_for_CVPR_2025_paper.html)
+* [Distilling Monocular Foundation Model for Fine-grained Depth Completion](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Distilling_Monocular_Foundation_Model_for_Fine-grained_Depth_Completion_CVPR_2025_paper.html)
+* [ViiNeuS: Volumetric Initialization for Implicit Neural Surface Reconstruction of Urban Scenes with Limited Image Overlap](https://openaccess.thecvf.com/content/CVPR2025/html/Djeghim_ViiNeuS_Volumetric_Initialization_for_Implicit_Neural_Surface_Reconstruction_of_Urban_CVPR_2025_paper.html)
+* [PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes](https://openaccess.thecvf.com/content/CVPR2025/html/Tan_PlanarSplatting_Accurate_Planar_Surface_Reconstruction_in_3_Minutes_CVPR_2025_paper.html)
+* [ProbeSDF: Light Field Probes For Neural Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Toussaint_ProbeSDF_Light_Field_Probes_For_Neural_Surface_Reconstruction_CVPR_2025_paper.html)
+* [DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Peng_DeSiRe-GS_4D_Street_Gaussians_for_Static-Dynamic_Decomposition_and_Surface_Reconstruction_CVPR_2025_paper.html)
+* [PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Pei_PMNI_Pose-free_Multi-view_Normal_Integration_for_Reflective_and_Textureless_Surface_CVPR_2025_paper.html)
+* [Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Sparse2DGS_Geometry-Prioritized_Gaussian_Splatting_for_Surface_Reconstruction_from_Sparse_Views_CVPR_2025_paper.html)
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
@@ -261,6 +325,8 @@
 * [Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](http://arxiv.org/abs/2505.16778v1)
 * 物体重识别
   * [IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification](http://arxiv.org/abs/2503.10324v1)
+
+
 
 
 
@@ -448,6 +514,7 @@
   * [Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data](http://arxiv.org/abs/2503.11032v1)
 
 
+
 ## 机器人导航/SLAM
 * VR
   * [ImViD: Immersive Volumetric Videos for Enhanced VR Engagement](http://arxiv.org/abs/2503.14359v1)
@@ -467,6 +534,23 @@
   * [Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation](http://arxiv.org/abs/2504.00420v1)
   * [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](http://arxiv.org/abs/2503.08257v1)
   * [DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.html)
+  * [Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Lift3D_Policy_Lifting_2D_Foundation_Models_for_Robust_3D_Robotic_CVPR_2025_paper.html)
+  * [RoboGround: Robotic Manipulation with Grounded Vision-Language Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html)
+  * [PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_PhysVLM_Enabling_Visual_Language_Models_to_Understand_Robotic_Physical_Reachability_CVPR_2025_paper.html)
+  * [RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete](https://openaccess.thecvf.com/content/CVPR2025/html/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.html)
+  * [Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Tartan_IMU_A_Light_Foundation_Model_for_Inertial_Positioning_in_CVPR_2025_paper.html)
+  * [Robotic Visual Instruction](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Robotic_Visual_Instruction_CVPR_2025_paper.html)
+  * [OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](https://openaccess.thecvf.com/content/CVPR2025/html/Pan_OmniManip_Towards_General_Robotic_Manipulation_via_Object-Centric_Interaction_Primitives_as_CVPR_2025_paper.html)
+  * [Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_CVPR_2025_paper.html)
+  * [Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Spatial-Temporal_Graph_Diffusion_Policy_with_Kinematic_Modeling_for_Bimanual_Robotic_CVPR_2025_paper.html)
+  * [RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html)
+  * [UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_UniGraspTransformer_Simplified_Policy_Distillation_for_Scalable_Dexterous_Robotic_Grasping_CVPR_2025_paper.html)
+  * [Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.html)
+  * [FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.html)
+  * [ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping](https://openaccess.thecvf.com/content/CVPR2025/html/Iwase_ZeroGrasp_Zero-Shot_Shape_Reconstruction_Enabled_Robotic_Grasping_CVPR_2025_paper.html)
+  * [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_TASTE-Rob_Advancing_Video_Generation_of_Task-Oriented_Hand-Object_Interaction_for_Generalizable_CVPR_2025_paper.html)
+  * [Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Object-Centric_Prompt-Driven_Vision-Language-Action_Model_for_Robotic_Manipulation_CVPR_2025_paper.html)
+  * [PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.html)
 * 视觉定位
   * [Scene-agnostic Pose Regression for Visual Localization](http://arxiv.org/abs/2503.19543v1)<br>:star:[code](https://junweizheng93.github.io/publications/SPR/SPR.html)
   * [Gaussian Splatting Feature Fields for (Privacy-Preserving) Visual Localization](https://openaccess.thecvf.com/content/CVPR2025/html/Pietrantoni_Gaussian_Splatting_Feature_Fields_for_Privacy-Preserving_Visual_Localization_CVPR_2025_paper.html)
@@ -671,13 +755,45 @@
   * [Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors](http://arxiv.org/abs/2503.17316v1)<br>:house:[project](https://europe.naverlabs.com/pow3r)
   * [Thin-Shell-SfT: Fine-Grained Monocular Non-rigid 3D Surface Tracking with Neural Deformation Fields](http://arxiv.org/abs/2503.19976v1)<br>:house:[project](https://4dqv.mpiinf.mpg.de/ThinShellSfT)
   * [Glossy Object Reconstruction with Cost-effective Polarized Acquisition](http://arxiv.org/abs/2504.07025v1)
+  * [CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections](https://openaccess.thecvf.com/content/CVPR2025/html/Walker_CrossSDF_3D_Reconstruction_of_Thin_Structures_From_Cross-Sections_CVPR_2025_paper.html)
+  * [MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_MAC-Ego3D_Multi-Agent_Gaussian_Consensus_for_Real-Time_Collaborative_Ego-Motion_and_Photorealistic_CVPR_2025_paper.html)
+  * [Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Nam_Generative_Densification_Learning_to_Densify_Gaussians_for_High-Fidelity_Generalizable_3D_CVPR_2025_paper.html)
+  * [ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ODHSR_Online_Dense_3D_Reconstruction_of_Humans_and_Scenes_from_CVPR_2025_paper.html)
+  * [Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html)
+  * [DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_DroneSplat_3D_Gaussian_Splatting_for_Robust_3D_Reconstruction_from_In-the-Wild_CVPR_2025_paper.html)
+  * [SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_SPARS3R_Semantic_Prior_Alignment_and_Regularization_for_Sparse_3D_Reconstruction_CVPR_2025_paper.html)
+  * [Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation](https://openaccess.thecvf.com/content/CVPR2025/html/Alzayer_Generative_Multiview_Relighting_for_3D_Reconstruction_under_Extreme_Illumination_Variation_CVPR_2025_paper.html)
+  * [V2V3D: View-to-View Denoised 3D Reconstruction for Light Field Microscopy](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_V2V3D_View-to-View_Denoised_3D_Reconstruction_for_Light_Field_Microscopy_CVPR_2025_paper.html)
+  * [MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Murai_MASt3R-SLAM_Real-Time_Dense_SLAM_with_3D_Reconstruction_Priors_CVPR_2025_paper.html)
+  * [GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_GaPT-DAR_Category-level_Garments_Pose_Tracking_via_Integrated_2D_Deformation_and_CVPR_2025_paper.html)
+  * [A Lightweight UDF Learning Framework for 3D Reconstruction Based on Local Shape Functions](https://openaccess.thecvf.com/content/CVPR2025/html/Hu_A_Lightweight_UDF_Learning_Framework_for_3D_Reconstruction_Based_on_CVPR_2025_paper.html)
+  * [MVBoost: Boost 3D Reconstruction with Multi-View Refinement](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_MVBoost_Boost_3D_Reconstruction_with_Multi-View_Refinement_CVPR_2025_paper.html)
+  * [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_SpectroMotion_Dynamic_3D_Reconstruction_of_Specular_Scenes_CVPR_2025_paper.html)
+  * [Shading Meets Motion: Self-supervised Indoor 3D Reconstruction Via Simultaneous Shape-from-Shading and Structure-from-Motion](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Shading_Meets_Motion_Self-supervised_Indoor_3D_Reconstruction_Via_Simultaneous_Shape-from-Shading_CVPR_2025_paper.html)
+  * [Learning Partonomic 3D Reconstruction from Image Collections](https://openaccess.thecvf.com/content/CVPR2025/html/Ruan_Learning_Partonomic_3D_Reconstruction_from_Image_Collections_CVPR_2025_paper.html)
+  * [AniGrad: Anisotropic Gradient-Adaptive Sampling for 3D Reconstruction From Monocular Video](https://openaccess.thecvf.com/content/CVPR2025/html/Stier_AniGrad_Anisotropic_Gradient-Adaptive_Sampling_for_3D_Reconstruction_From_Monocular_Video_CVPR_2025_paper.html)
 * 深度补全
   * [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](http://arxiv.org/abs/2503.12745v1)
   * [SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion](http://arxiv.org/abs/2503.01257v1)<br>:star:[code](https://github.com/Lan1eve/SVDC)
+  * [Completion as Enhancement: A Degradation-Aware Selective Image Guided Network for Depth Completion](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Completion_as_Enhancement_A_Degradation-Aware_Selective_Image_Guided_Network_for_CVPR_2025_paper.html)
+  * [Distilling Monocular Foundation Model for Fine-grained Depth Completion](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_Distilling_Monocular_Foundation_Model_for_Fine-grained_Depth_Completion_CVPR_2025_paper.html)
 * 深度估计
   * [Multi-view Reconstruction via SfM-guided Monocular Depth Estimation](http://arxiv.org/abs/2503.14483v1)<br>:star:[code](https://zju3dv.github.io/murre/)
   * [QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge](http://arxiv.org/abs/2503.16709v1)<br>:star:[code](https://github.com/shawnricecake/quart-depth)
   * [Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries](http://arxiv.org/abs/2503.23606v1)<br>:house:[project](https://blurry-edges.qiguo.org/)
+  * [Scalable Autoregressive Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Scalable_Autoregressive_Monocular_Depth_Estimation_CVPR_2025_paper.html)
+  * [Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Depth_Any_Camera_Zero-Shot_Metric_Depth_Estimation_from_Any_Camera_CVPR_2025_paper.html)
+  * [Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Synthetic-to-Real_Self-supervised_Robust_Depth_Estimation_via_Learning_with_Motion_and_CVPR_2025_paper.html)
+  * [OmniStereo: Real-time Omnidireactional Depth Estimation with Multiview Fisheye Cameras](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_OmniStereo_Real-time_Omnidireactional_Depth_Estimation_with_Multiview_Fisheye_Cameras_CVPR_2025_paper.html)
+  * [Align3R: Aligned Monocular Depth Estimation for Dynamic Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_Align3R_Aligned_Monocular_Depth_Estimation_for_Dynamic_Videos_CVPR_2025_paper.html)
+  * [Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Efficient_Depth_Estimation_for_Unstable_Stereo_Camera_Systems_on_AR_CVPR_2025_paper.html)
+  * [Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Lin_Prompting_Depth_Anything_for_4K_Resolution_Accurate_Metric_Depth_Estimation_CVPR_2025_paper.html)
+  * [GeoDepth: From Point-to-Depth to Plane-to-Depth Modeling for Self-Supervised Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_GeoDepth_From_Point-to-Depth_to_Plane-to-Depth_Modeling_for_Self-Supervised_Monocular_Depth_CVPR_2025_paper.html)
+  * [BLADE: Single-view Body Mesh Estimation through Accurate Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_BLADE_Single-view_Body_Mesh_Estimation_through_Accurate_Depth_Estimation_CVPR_2025_paper.html)
+  * [Vision-Language Embodiment for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Vision-Language_Embodiment_for_Monocular_Depth_Estimation_CVPR_2025_paper.html)
+  * [TacoDepth: Towards Efficient Radar-Camera Depth Estimation with One-stage Fusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_TacoDepth_Towards_Efficient_Radar-Camera_Depth_Estimation_with_One-stage_Fusion_CVPR_2025_paper.html)
+  * [Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Video_Depth_Anything_Consistent_Depth_Estimation_for_Super-Long_Videos_CVPR_2025_paper.html)
+  * [HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.html)
 * 场景理解
   * [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](http://arxiv.org/abs/2503.00513v1)<br>:star:[code](https://github.com/hanxunyu/Inst3D-LMM)
   * [Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding](http://arxiv.org/abs/2503.16707v1)<br>:star:[code](https://github.com/TyroneLi/CUA_O3D)
@@ -688,10 +804,19 @@
   * [Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Omni-Scene_Omni-Gaussian_Representation_for_Ego-Centric_Sparse-View_Scene_Reconstruction_CVPR_2025_paper.html)
 * 表面重建
   * [OffsetOPT: Explicit Surface Reconstruction without Normals](http://arxiv.org/abs/2503.15763v1)
+  * [ViiNeuS: Volumetric Initialization for Implicit Neural Surface Reconstruction of Urban Scenes with Limited Image Overlap](https://openaccess.thecvf.com/content/CVPR2025/html/Djeghim_ViiNeuS_Volumetric_Initialization_for_Implicit_Neural_Surface_Reconstruction_of_Urban_CVPR_2025_paper.html)
+  * [PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes](https://openaccess.thecvf.com/content/CVPR2025/html/Tan_PlanarSplatting_Accurate_Planar_Surface_Reconstruction_in_3_Minutes_CVPR_2025_paper.html)
+  * [ProbeSDF: Light Field Probes For Neural Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Toussaint_ProbeSDF_Light_Field_Probes_For_Neural_Surface_Reconstruction_CVPR_2025_paper.html)
+  * [DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Peng_DeSiRe-GS_4D_Street_Gaussians_for_Static-Dynamic_Decomposition_and_Surface_Reconstruction_CVPR_2025_paper.html)
+  * [PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2025/html/Pei_PMNI_Pose-free_Multi-view_Normal_Integration_for_Reflective_and_Textureless_Surface_CVPR_2025_paper.html)
+  * [Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_Sparse2DGS_Geometry-Prioritized_Gaussian_Splatting_for_Surface_Reconstruction_from_Sparse_Views_CVPR_2025_paper.html)
 * 三维场景合成
   * [Global-Local Tree Search for Language Guided 3D Scene Generation](http://arxiv.org/abs/2503.18476v1)<br>:star:[code](https://github.com/dw-dengwei/TreeSearchGen)
 * 3D头发
   * [DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Rosu_DiffLocks_Generating_3D_Hair_from_a_Single_Image_using_Diffusion_CVPR_2025_paper.html)
+
+
+
 
 ## Point Cloud(点云)
 * [STAR-Edge: Structure-aware Local Spherical Curve Representation for Thin-walled Edge Extraction from Unstructured Point Clouds](http://arxiv.org/abs/2503.00801v1)
@@ -899,6 +1024,8 @@
 * 手部姿态估计
   * [Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation](http://arxiv.org/abs/2503.19307v1)<br>:star:[code](https://github.com/delaprada/HandSynthesis.git)
 
+
+
 ## Medical Image Progress(医学影响处理)
 * [Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation](http://arxiv.org/abs/2503.11140v1)
 * CT 去噪
@@ -917,6 +1044,14 @@
   * [Show and Segment: Universal Medical Image Segmentation via In-Context Learning](http://arxiv.org/abs/2503.19359v1)
   * [Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation](http://arxiv.org/abs/2503.16997v1)<br>:star:[code](https://github.com/MQinghe/SynFoC)
   * [DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2504.04566v1)
+  * [A Semantic Knowledge Complementarity based Decoupling Framework for Semi-supervised Class-imbalanced Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.html)
+  * [EffiDec3D: An Optimized Decoder for High-Performance and Efficient 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Rahman_EffiDec3D_An_Optimized_Decoder_for_High-Performance_and_Efficient_3D_Medical_CVPR_2025_paper.html)
+  * [beta-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Hu_beta-FFT_Nonlinear_Interpolation_and_Differentiated_Training_Strategies_for_Semi-Supervised_Medical_CVPR_2025_paper.html)
+  * [Revisiting MAE Pre-training for 3D Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Wald_Revisiting_MAE_Pre-training_for_3D_Medical_Image_Segmentation_CVPR_2025_paper.html)
+  * [nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html)
+  * [Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_Interactive_Medical_Image_Segmentation_A_Benchmark_Dataset_and_Baseline_CVPR_2025_paper.html)
+  * [Annotation Ambiguity Aware Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Kumari_Annotation_Ambiguity_Aware_Semi-Supervised_Medical_Image_Segmentation_CVPR_2025_paper.html)
+  * [Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html)
 * 医学图像分析
   * [Interactive Medical Image Analysis with Concept-based Similarity Reasoning](http://arxiv.org/abs/2503.06873v1)<br>:star:[code](https://github.com/tadeephuy/InteractCSR)
 * 医学图像重识别
