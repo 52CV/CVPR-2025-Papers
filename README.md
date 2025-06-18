@@ -16,7 +16,7 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
-## 6月18日更新 104 篇，共计 1360+104 篇。
+## 6月18日更新 132+56 篇，共计 1397+132+56 篇。
 * [WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_WeakMCN_Multi-task_Collaborative_Network_for_Weakly_Supervised_Referring_Expression_Comprehension_CVPR_2025_paper.html)
 * [DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DViN_Dynamic_Visual_Routing_Network_for_Weakly_Supervised_Referring_Expression_CVPR_2025_paper.html)
 * [Can't Slow Me Down: Learning Robust and Hardware-Adaptive Object Detectors against Latency Attacks for Edge Devices](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Cant_Slow_Me_Down_Learning_Robust_and_Hardware-Adaptive_Object_Detectors_CVPR_2025_paper.html)
@@ -121,10 +121,97 @@
 * [Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Muller_Black-Box_Forgery_Attacks_on_Semantic_Watermarks_for_Diffusion_Models_CVPR_2025_paper.html)
 * [Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Forensics-Bench_A_Comprehensive_Forgery_Detection_Benchmark_Suite_for_Large_Vision_CVPR_2025_paper.html)
 * [Detecting Adversarial Data Using Perturbation Forgery](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Detecting_Adversarial_Data_Using_Perturbation_Forgery_CVPR_2025_paper.html)
+* [IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular VideosC](https://openaccess.thecvf.com/content/CVPR2025/html/Li_IM-Portrait_Learning_3D-aware_Video_Diffusion_for_Photorealistic_Talking_Heads_from_CVPR_2025_paper.html)
+* [Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics](https://openaccess.thecvf.com/content/CVPR2025/html/Chae-Yeon_Perceptually_Accurate_3D_Talking_Head_Generation_New_Definitions_Speech-Mesh_Representation_CVPR_2025_paper.html)
+* [DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations](https://openaccess.thecvf.com/content/CVPR2025/html/Peng_DualTalk_Dual-Speaker_Interaction_for_3D_Talking_Head_Conversations_CVPR_2025_paper.html)
+* [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Synergizing_Motion_and_Appearance_Multi-Scale_Compensatory_Codebooks_for_Talking_Head_CVPR_2025_paper.html)
+* [EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_EmotiveTalk_Expressive_Talking_Head_Generation_through_Audio_Information_Decoupling_and_CVPR_2025_paper.html)
+* [Keyframe-Guided Creative Video Inpainting](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Keyframe-Guided_Creative_Video_Inpainting_CVPR_2025_paper.html)
+* [Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans?](https://openaccess.thecvf.com/content/CVPR2025/html/Tao_Dual-view_X-ray_Detection_Can_AI_Detect_Prohibited_Items_from_Dual-view_CVPR_2025_paper.html)
+* [STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)
+* [CheXwhatsApp: A Dataset for Exploring Challenges in the Diagnosis of Chest X-rays through Mobile Devices](https://openaccess.thecvf.com/content/CVPR2025/html/Antony_CheXwhatsApp_A_Dataset_for_Exploring_Challenges_in_the_Diagnosis_of_CVPR_2025_paper.html)
+* [FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models](https://openaccess.thecvf.com/content/CVPR2025/html/Heiman_FactCheXcker_Mitigating_Measurement_Hallucinations_in_Chest_X-ray_Report_Generation_Models_CVPR_2025_paper.html)
+* [SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_SALOVA_Segment-Augmented_Long_Video_Assistant_for_Targeted_Retrieval_and_Routing_CVPR_2025_paper.html)
+* [Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Building_a_Mind_Palace_Structuring_Environment-Grounded_Semantic_Graphs_for_Effective_CVPR_2025_paper.html)
+* [VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation](https://openaccess.thecvf.com/content/CVPR2025/html/Luo_VideoAutoArena_An_Automated_Arena_for_Evaluating_Large_Multimodal_Models_in_CVPR_2025_paper.html)
+* [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Video-MME_The_First-Ever_Comprehensive_Evaluation_Benchmark_of_Multi-modal_LLMs_in_CVPR_2025_paper.html)
+* [EquiPose: Exploiting Permutation Equivariance for Relative Camera Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_EquiPose_Exploiting_Permutation_Equivariance_for_Relative_Camera_Pose_Estimation_CVPR_2025_paper.html)
+* [HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset](https://openaccess.thecvf.com/content/CVPR2025/html/Ferens_HyperPose_Hypernetwork-Infused_Camera_Pose_Localization_and_an_Extended_Cambridge_Landmarks_CVPR_2025_paper.html)
+* [Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Miao_Noise_Diffusion_for_Enhancing_Semantic_Faithfulness_in_Text-to-Image_Synthesis_CVPR_2025_paper.html)
+* [Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_Generative_Photography_Scene-Consistent_Camera_Control_for_Realistic_Text-to-Image_Synthesis_CVPR_2025_paper.html)
+* [Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects](https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_Self-Cross_Diffusion_Guidance_for_Text-to-Image_Synthesis_of_Similar_Subjects_CVPR_2025_paper.html)
+* [Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Exploring_the_Deep_Fusion_of_Large_Language_Models_and_Diffusion_CVPR_2025_paper.html)
+* [PreciseCam: Precise Camera Control for Text-to-Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Bernal-Berdun_PreciseCam_Precise_Camera_Control_for_Text-to-Image_Generation_CVPR_2025_paper.html)
+* [CoSER: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_CoSER_Towards_Consistent_Dense_Multiview_Text-to-Image_Generator_for_3D_Creation_CVPR_2025_paper.html)
+* [Science-T2I: Addressing Scientific Illusions in Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Science-T2I_Addressing_Scientific_Illusions_in_Image_Synthesis_CVPR_2025_paper.html)
+* [Consistency Posterior Sampling for Diverse Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Purohit_Consistency_Posterior_Sampling_for_Diverse_Image_Synthesis_CVPR_2025_paper.html)
+* [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Han_Infinity_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis_CVPR_2025_paper.html)
+* [Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.html)
+* [Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Exploring_Sparse_MoE_in_GANs_for_Text-conditioned_Image_Synthesis_CVPR_2025_paper.html)
+* [Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Anatomical_Consistency_and_Adaptive_Prior-informed_Transformation_for_Multi-contrast_MR_Image_CVPR_2025_paper.html)
+----------------------------------------------------------------------------------------------------------------
+* [Seeing Speech and Sound: Distinguishing and Locating Audio Sources in Visual Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Ryu_Seeing_Speech_and_Sound_Distinguishing_and_Locating_Audio_Sources_in_CVPR_2025_paper.html)
+* [Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Dou_Hearing_Hands_Generating_Sounds_from_Physical_Interactions_in_3D_Scenes_CVPR_2025_paper.html)
+* [Animate and Sound an Image](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Animate_and_Sound_an_Image_CVPR_2025_paper.html)
+* [Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Sound_Bridge_Associating_Egocentric_and_Exocentric_Videos_via_Audio_Cues_CVPR_2025_paper.html)
+* [Video-Guided Foley Sound Generation with Multimodal Controls](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Video-Guided_Foley_Sound_Generation_with_Multimodal_Controls_CVPR_2025_paper.html)
+* [RAD: Region-Aware Diffusion Models for Image Inpainting](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_RAD_Region-Aware_Diffusion_Models_for_Image_Inpainting_CVPR_2025_paper.html)
+* [Towards Enhanced Image Inpainting: Mitigating Unwanted Object Insertion and Preserving Color Consistency](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Enhanced_Image_Inpainting_Mitigating_Unwanted_Object_Insertion_and_Preserving_CVPR_2025_paper.html)
+* [TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_TurboFill_Adapting_Few-step_Text-to-image_Model_for_Fast_Image_Inpainting_CVPR_2025_paper.html)
+* [FlashSloth : Lightning Multimodal Large Language Models via Embedded Visual Compression](https://openaccess.thecvf.com/content/CVPR2025/html/Tong_FlashSloth__Lightning_Multimodal_Large_Language_Models_via_Embedded_Visual_CVPR_2025_paper.html)
+* [Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Large Language Models through Egocentric Instruction Tuning](https://openaccess.thecvf.com/content/CVPR2025/html/Jung_Is_Right_Right_Enhancing_Object_Orientation_Understanding_in_Multimodal_Large_CVPR_2025_paper.html)
+* [EventGPT: Event Stream Understanding with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_EventGPT_Event_Stream_Understanding_with_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_BlueLM-V-3B_Algorithm_and_System_Co-Design_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Thinking_in_Space_How_Multimodal_Large_Language_Models_See_Remember_CVPR_2025_paper.html)
+* [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Accelerating_Multimodal_Large_Language_Models_by_Searching_Optimal_Vision_Token_CVPR_2025_paper.html)
+* [The Photographer's Eye: Teaching Multimodal Large Language Models to See, and Critique Like Photographers](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_The_Photographers_Eye_Teaching_Multimodal_Large_Language_Models_to_See_CVPR_2025_paper.html)
+* [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training](https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Mono-InternVL_Pushing_the_Boundaries_of_Monolithic_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Towards_Zero-Shot_Anomaly_Detection_and_Reasoning_with_Multimodal_Large_Language_CVPR_2025_paper.html)
+* [ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Yin_ClearSight_Visual_Signal_Enhancement_for_Object_Hallucination_Mitigation_in_Multimodal_CVPR_2025_paper.html)
+* [Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [Cross-modal Information Flow in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Cross-modal_Information_Flow_in_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_S4-Driver_Scalable_Self-Supervised_Driving_Multimodal_Large_Language_Model_with_Spatio-Temporal_CVPR_2025_paper.html)
+* [SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SeqAfford_Sequential_3D_Affordance_Reasoning_via_Multimodal_Large_Language_Model_CVPR_2025_paper.html)
+* [RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Hao_RAP_Retrieval-Augmented_Personalization_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [Bridging Modalities: Improving Universal Multimodal Retrieval by Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Bridging_Modalities_Improving_Universal_Multimodal_Retrieval_by_Multimodal_Large_Language_CVPR_2025_paper.html)
+* [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.html)
+* [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Insight-V_Exploring_Long-Chain_Visual_Reasoning_with_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+* [Supervising Sound Localization by In-the-wild Egomotion](https://openaccess.thecvf.com/content/CVPR2025/html/Min_Supervising_Sound_Localization_by_In-the-wild_Egomotion_CVPR_2025_paper.html)
+* [WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression](https://openaccess.thecvf.com/content/CVPR2025/html/Mao_WISE_A_Framework_for_Gigapixel_Whole-Slide-Image_Lossless_Compression_CVPR_2025_paper.html)
+* [Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions](https://openaccess.thecvf.com/content/CVPR2025/html/Ruan_Prof._Robot_Differentiable_Robot_Rendering_Without_Static_and_Self-Collisions_CVPR_2025_paper.html)
+* [RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training](https://openaccess.thecvf.com/content/CVPR2025/html/Goswami_RoboPEPP_Vision-Based_Robot_Pose_and_Joint_Angle_Estimation_through_Embedding_CVPR_2025_paper.html)
+* [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://openaccess.thecvf.com/content/CVPR2025/html/Mu_RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_CVPR_2025_paper.html)
+* [Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Pixel-aligned_RGB-NIR_Stereo_Imaging_and_Dataset_for_Robot_Vision_CVPR_2025_paper.html)
+* [MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MobileH2R_Learning_Generalizable_Human_to_Mobile_Robot_Handover_Exclusively_from_CVPR_2025_paper.html)
+* [RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments](https://openaccess.thecvf.com/content/CVPR2025/html/Su_RoboSense_Large-scale_Dataset_and_Benchmark_for_Egocentric_Robot_Perception_and_CVPR_2025_paper.html)
+* [CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Long_CheckManual_A_New_Challenge_and_Benchmark_for_Manual-based_Appliance_Manipulation_CVPR_2025_paper.html)
+* [Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Is_Your_World_Simulator_a_Good_Story_Presenter_A_Consecutive_CVPR_2025_paper.html)
+* [Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Q-Bench-Video_Benchmark_the_Video_Quality_Understanding_of_LMMs_CVPR_2025_paper.html)
+* [FSBench: A Figure Skating Benchmark for Advancing Artistic Sports Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_FSBench_A_Figure_Skating_Benchmark_for_Advancing_Artistic_Sports_Understanding_CVPR_2025_paper.html)
+* [Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Mutimodal Models](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Spatial457_A_Diagnostic_Benchmark_for_6D_Spatial_Reasoning_of_Large_CVPR_2025_paper.html)
+* [Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map](https://openaccess.thecvf.com/content/CVPR2025/html/Chang_Driving_by_the_Rules_A_Benchmark_for_Integrating_Traffic_Sign_CVPR_2025_paper.html)
+* [Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method](https://openaccess.thecvf.com/content/CVPR2025/html/Song_Towards_Long-Horizon_Vision-Language_Navigation_Platform_Benchmark_and_Method_CVPR_2025_paper.html)
+* [SMTPD: A New Benchmark for Temporal Prediction of Social Media Popularity](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_SMTPD_A_New_Benchmark_for_Temporal_Prediction_of_Social_Media_CVPR_2025_paper.html)
+* [PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction](https://openaccess.thecvf.com/content/CVPR2025/html/Poesina_PQPP_A_Joint_Benchmark_for_Text-to-Image_Prompt_and_Query_Performance_CVPR_2025_paper.html)
+* [NSD-Imagery: A Benchmark Dataset for Extending fMRI Vision Decoding Methods to Mental Imagery](https://openaccess.thecvf.com/content/CVPR2025/html/Kneeland_NSD-Imagery_A_Benchmark_Dataset_for_Extending_fMRI_Vision_Decoding_Methods_CVPR_2025_paper.html)
+* [From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_From_Words_to_Structured_Visuals_A_Benchmark_and_Framework_for_CVPR_2025_paper.html)
+* [Mosaic of Modalities: A Comprehensive Benchmark for Multimodal Graph Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Mosaic_of_Modalities_A_Comprehensive_Benchmark_for_Multimodal_Graph_Learning_CVPR_2025_paper.html)
+* [RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://openaccess.thecvf.com/content/CVPR2025/html/Loiseau_RUBIK_A_Structured_Benchmark_for_Image_Matching_across_Geometric_Challenges_CVPR_2025_paper.html)
+* [HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation Comparison](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_HuPerFlow_A_Comprehensive_Benchmark_for_Human_vs._Machine_Motion_Estimation_CVPR_2025_paper.html)
+* [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation_CVPR_2025_paper.html)
+* [Can Machines Understand Composition? Dataset and Benchmark for Photographic Image Composition Embedding and Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Can_Machines_Understand_Composition_Dataset_and_Benchmark_for_Photographic_Image_CVPR_2025_paper.html)
+* [LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.html)
+* [SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SeriesBench_A_Benchmark_for_Narrative-Driven_Drama_Series_Understanding_CVPR_2025_paper.html)
+* [Quad-Pixel Image Defocus Deblurring: A New Benchmark and Model](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Quad-Pixel_Image_Defocus_Deblurring_A_New_Benchmark_and_Model_CVPR_2025_paper.html)
+* [MultiVENT 2.0: A Massive Multilingual Benchmark for Event-Centric Video Retrieval](https://openaccess.thecvf.com/content/CVPR2025/html/Kriz_MultiVENT_2.0_A_Massive_Multilingual_Benchmark_for_Event-Centric_Video_Retrieval_CVPR_2025_paper.html)
+* [VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VL-RewardBench_A_Challenging_Benchmark_for_Vision-Language_Generative_Reward_Models_CVPR_2025_paper.html)
 
 ## 计算成像
 * [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](http://arxiv.org/abs/2503.23282v1)<br>:star:[code](https://fwmb.github.io/anycam)
 * [Dynamic Camera Poses and Where to Find Them](http://arxiv.org/abs/2504.17788v1)<br>:house:[project](https://research.nvidia.com/labs/dir/dynpose-100k)
+* [EquiPose: Exploiting Permutation Equivariance for Relative Camera Pose Estimation](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_EquiPose_Exploiting_Permutation_Equivariance_for_Relative_Camera_Pose_Estimation_CVPR_2025_paper.html)
+* [HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset](https://openaccess.thecvf.com/content/CVPR2025/html/Ferens_HyperPose_Hypernetwork-Infused_Camera_Pose_Localization_and_an_Extended_Cambridge_Landmarks_CVPR_2025_paper.html)
 * 相机重定位
   * [From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting](http://arxiv.org/abs/2503.19358v1)
 
@@ -336,6 +423,7 @@
 * [Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer](http://arxiv.org/abs/2503.00226v1)
 * [Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement](http://arxiv.org/abs/2503.15404v1)<br>:star:[code](https://github.com/RYC-98/FPR)
 
+
 ## Dataset/Benchmark(数据集/基准)
 * 基准
   * [MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research](http://arxiv.org/abs/2503.13399v1)
@@ -344,6 +432,27 @@
   * [Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks](http://arxiv.org/abs/2503.18637v1)<br>:star:[code](https://utd-project.github.io/)
   * [VinaBench: Benchmark for Faithful and Consistent Visual Narratives](http://arxiv.org/abs/2503.20871v1)
   * [OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts](http://arxiv.org/abs/2503.22952v1)
+  * [CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Long_CheckManual_A_New_Challenge_and_Benchmark_for_Manual-based_Appliance_Manipulation_CVPR_2025_paper.html)
+  * [Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Is_Your_World_Simulator_a_Good_Story_Presenter_A_Consecutive_CVPR_2025_paper.html)
+  * [Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Q-Bench-Video_Benchmark_the_Video_Quality_Understanding_of_LMMs_CVPR_2025_paper.html)
+  * [FSBench: A Figure Skating Benchmark for Advancing Artistic Sports Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_FSBench_A_Figure_Skating_Benchmark_for_Advancing_Artistic_Sports_Understanding_CVPR_2025_paper.html)
+  * [Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Mutimodal Models](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Spatial457_A_Diagnostic_Benchmark_for_6D_Spatial_Reasoning_of_Large_CVPR_2025_paper.html)
+  * [Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map](https://openaccess.thecvf.com/content/CVPR2025/html/Chang_Driving_by_the_Rules_A_Benchmark_for_Integrating_Traffic_Sign_CVPR_2025_paper.html)
+  * [Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method](https://openaccess.thecvf.com/content/CVPR2025/html/Song_Towards_Long-Horizon_Vision-Language_Navigation_Platform_Benchmark_and_Method_CVPR_2025_paper.html)
+  * [SMTPD: A New Benchmark for Temporal Prediction of Social Media Popularity](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_SMTPD_A_New_Benchmark_for_Temporal_Prediction_of_Social_Media_CVPR_2025_paper.html)
+  * [PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction](https://openaccess.thecvf.com/content/CVPR2025/html/Poesina_PQPP_A_Joint_Benchmark_for_Text-to-Image_Prompt_and_Query_Performance_CVPR_2025_paper.html)
+  * [NSD-Imagery: A Benchmark Dataset for Extending fMRI Vision Decoding Methods to Mental Imagery](https://openaccess.thecvf.com/content/CVPR2025/html/Kneeland_NSD-Imagery_A_Benchmark_Dataset_for_Extending_fMRI_Vision_Decoding_Methods_CVPR_2025_paper.html)
+  * [From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_From_Words_to_Structured_Visuals_A_Benchmark_and_Framework_for_CVPR_2025_paper.html)
+  * [Mosaic of Modalities: A Comprehensive Benchmark for Multimodal Graph Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Mosaic_of_Modalities_A_Comprehensive_Benchmark_for_Multimodal_Graph_Learning_CVPR_2025_paper.html)
+  * [RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://openaccess.thecvf.com/content/CVPR2025/html/Loiseau_RUBIK_A_Structured_Benchmark_for_Image_Matching_across_Geometric_Challenges_CVPR_2025_paper.html)
+  * [HuPerFlow: A Comprehensive Benchmark for Human vs. Machine Motion Estimation Comparison](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_HuPerFlow_A_Comprehensive_Benchmark_for_Human_vs._Machine_Motion_Estimation_CVPR_2025_paper.html)
+  * [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation_CVPR_2025_paper.html)
+  * [Can Machines Understand Composition? Dataset and Benchmark for Photographic Image Composition Embedding and Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Can_Machines_Understand_Composition_Dataset_and_Benchmark_for_Photographic_Image_CVPR_2025_paper.html)
+  * [LongVALE: Vision-Audio-Language-Event Benchmark Towards Time-Aware Omni-Modal Perception of Long Videos](https://openaccess.thecvf.com/content/CVPR2025/html/Geng_LongVALE_Vision-Audio-Language-Event_Benchmark_Towards_Time-Aware_Omni-Modal_Perception_of_Long_Videos_CVPR_2025_paper.html)
+  * [SeriesBench: A Benchmark for Narrative-Driven Drama Series Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_SeriesBench_A_Benchmark_for_Narrative-Driven_Drama_Series_Understanding_CVPR_2025_paper.html)
+  * [Quad-Pixel Image Defocus Deblurring: A New Benchmark and Model](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Quad-Pixel_Image_Defocus_Deblurring_A_New_Benchmark_and_Model_CVPR_2025_paper.html)
+  * [MultiVENT 2.0: A Massive Multilingual Benchmark for Event-Centric Video Retrieval](https://openaccess.thecvf.com/content/CVPR2025/html/Kriz_MultiVENT_2.0_A_Massive_Multilingual_Benchmark_for_Event-Centric_Video_Retrieval_CVPR_2025_paper.html)
+  * [VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VL-RewardBench_A_Challenging_Benchmark_for_Vision-Language_Generative_Reward_Models_CVPR_2025_paper.html)
 * 数据集
   * [LiSu: A Dataset and Method for LiDAR Surface Normal Estimation](http://arxiv.org/abs/2503.08601v1)
   * [HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization](http://arxiv.org/abs/2503.01725v1)<br>:star:[code](https://harmonyset.github.io/)
@@ -384,6 +493,7 @@
 * [LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale](http://arxiv.org/abs/2504.16030v1)<br>:star:[code](https://showlab.github.io/livecc)
 * [Circumventing Shortcuts in Audio-visual Deepfake Detection Datasets with Unsupervised Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Smeu_Circumventing_Shortcuts_in_Audio-visual_Deepfake_Detection_Datasets_with_Unsupervised_Learning_CVPR_2025_paper.html)
 * [UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing](https://openaccess.thecvf.com/content/CVPR2025/html/Lai_UWAV_Uncertainty-weighted_Weakly-supervised_Audio-Visual_Video_Parsing_CVPR_2025_paper.html)
+* [Supervising Sound Localization by In-the-wild Egomotion](https://openaccess.thecvf.com/content/CVPR2025/html/Min_Supervising_Sound_Localization_by_In-the-wild_Egomotion_CVPR_2025_paper.html)
 * [EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)
 * [Crab: A Unified Audio-Visual Scene Understanding Model with Explicit Cooperation](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Crab_A_Unified_Audio-Visual_Scene_Understanding_Model_with_Explicit_Cooperation_CVPR_2025_paper.html)
 * [Language-Guided Audio-Visual Learning for Long-Term Sports Assessment](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Language-Guided_Audio-Visual_Learning_for_Long-Term_Sports_Assessment_CVPR_2025_paper.html)
@@ -391,6 +501,11 @@
 * [Foley-Flow: Coordinated Video-to-Audio Generation with Masked Audio-Visual Alignment and Dynamic Conditional Flows](https://openaccess.thecvf.com/content/CVPR2025/html/Mo_Foley-Flow_Coordinated_Video-to-Audio_Generation_with_Masked_Audio-Visual_Alignment_and_Dynamic_CVPR_2025_paper.html)
 * [TSAM: Temporal SAM Augmented with Multimodal Prompts for Referring Audio-Visual Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Radman_TSAM_Temporal_SAM_Augmented_with_Multimodal_Prompts_for_Referring_Audio-Visual_CVPR_2025_paper.html)
 * [Adapting to the Unknown: Training-Free Audio-Visual Event Perception with Dynamic Thresholds](https://openaccess.thecvf.com/content/CVPR2025/html/Shaar_Adapting_to_the_Unknown_Training-Free_Audio-Visual_Event_Perception_with_Dynamic_CVPR_2025_paper.html)
+* [Animate and Sound an Image](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Animate_and_Sound_an_Image_CVPR_2025_paper.html)
+* [Sound Bridge: Associating Egocentric and Exocentric Videos via Audio Cues](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Sound_Bridge_Associating_Egocentric_and_Exocentric_Videos_via_Audio_Cues_CVPR_2025_paper.html)
+* [Video-Guided Foley Sound Generation with Multimodal Controls](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Video-Guided_Foley_Sound_Generation_with_Multimodal_Controls_CVPR_2025_paper.html)
+* [Seeing Speech and Sound: Distinguishing and Locating Audio Sources in Visual Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Ryu_Seeing_Speech_and_Sound_Distinguishing_and_Locating_Audio_Sources_in_CVPR_2025_paper.html)
+* [Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Dou_Hearing_Hands_Generating_Sounds_from_Physical_Interactions_in_3D_Scenes_CVPR_2025_paper.html)
 * 视听分割
   * [SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_SAM2-LOVE_Segment_Anything_Model_2_in_Language-aided_Audio-Visual_Scenes_CVPR_2025_paper.html)
   * [Revisiting Audio-Visual Segmentation with Vision-Centric Transformer](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Revisiting_Audio-Visual_Segmentation_with_Vision-Centric_Transformer_CVPR_2025_paper.html)
@@ -442,9 +557,29 @@
   * [Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization](http://arxiv.org/abs/2503.17928v1)
   * [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](http://arxiv.org/abs/2503.23733v1)
   * [Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Task_Preference_Optimization_Improving_Multimodal_Large_Language_Models_with_Vision_CVPR_2025_paper.html)
+  * [ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Yin_ClearSight_Visual_Signal_Enhancement_for_Object_Hallucination_Mitigation_in_Multimodal_CVPR_2025_paper.html)
+  * [Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [Cross-modal Information Flow in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Cross-modal_Information_Flow_in_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_S4-Driver_Scalable_Self-Supervised_Driving_Multimodal_Large_Language_Model_with_Spatio-Temporal_CVPR_2025_paper.html)
+  * [SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SeqAfford_Sequential_3D_Affordance_Reasoning_via_Multimodal_Large_Language_Model_CVPR_2025_paper.html)
+  * [RAP: Retrieval-Augmented Personalization for Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Hao_RAP_Retrieval-Augmented_Personalization_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [Bridging Modalities: Improving Universal Multimodal Retrieval by Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Bridging_Modalities_Improving_Universal_Multimodal_Retrieval_by_Multimodal_Large_Language_CVPR_2025_paper.html)
+  * [LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Li_LLaVA-ST_A_Multimodal_Large_Language_Model_for_Fine-Grained_Spatial-Temporal_Understanding_CVPR_2025_paper.html)
+  * [Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Dong_Insight-V_Exploring_Long-Chain_Visual_Reasoning_with_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [FlashSloth : Lightning Multimodal Large Language Models via Embedded Visual Compression](https://openaccess.thecvf.com/content/CVPR2025/html/Tong_FlashSloth__Lightning_Multimodal_Large_Language_Models_via_Embedded_Visual_CVPR_2025_paper.html)
+  * [Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Large Language Models through Egocentric Instruction Tuning](https://openaccess.thecvf.com/content/CVPR2025/html/Jung_Is_Right_Right_Enhancing_Object_Orientation_Understanding_in_Multimodal_Large_CVPR_2025_paper.html)
+  * [EventGPT: Event Stream Understanding with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_EventGPT_Event_Stream_Understanding_with_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices](https://openaccess.thecvf.com/content/CVPR2025/html/Lu_BlueLM-V-3B_Algorithm_and_System_Co-Design_for_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Thinking_in_Space_How_Multimodal_Large_Language_Models_See_Remember_CVPR_2025_paper.html)
+  * [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Accelerating_Multimodal_Large_Language_Models_by_Searching_Optimal_Vision_Token_CVPR_2025_paper.html)
+  * [The Photographer's Eye: Teaching Multimodal Large Language Models to See, and Critique Like Photographers](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_The_Photographers_Eye_Teaching_Multimodal_Large_Language_Models_to_See_CVPR_2025_paper.html)
+  * [Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training](https://openaccess.thecvf.com/content/CVPR2025/html/Luo_Mono-InternVL_Pushing_the_Boundaries_of_Monolithic_Multimodal_Large_Language_Models_CVPR_2025_paper.html)
+  * [Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Towards_Zero-Shot_Anomaly_Detection_and_Reasoning_with_Multimodal_Large_Language_CVPR_2025_paper.html)
 * Referring Expression Comprehension(目标指代理解)
   * [WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_WeakMCN_Multi-task_Collaborative_Network_for_Weakly_Supervised_Referring_Expression_Comprehension_CVPR_2025_paper.html)
   * [DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_DViN_Dynamic_Visual_Routing_Network_for_Weakly_Supervised_Referring_Expression_CVPR_2025_paper.html)
+
 
 
 ## Self-Supervised(监督)
@@ -571,6 +706,7 @@
 
 
 
+
 ## 机器人导航/SLAM
 * VR
   * [ImViD: Immersive Volumetric Videos for Enhanced VR Engagement](http://arxiv.org/abs/2503.14359v1)
@@ -586,10 +722,17 @@
 * 机器人
   * [VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation](http://arxiv.org/abs/2503.07135v1)
   * [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](http://arxiv.org/abs/2504.14588v1)<br>:star:[code](https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework)
+  * [A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning](http://arxiv.org/abs/2503.06960v1)<br>:star:[code](https://github.com/CVMI-Lab/SlotMIM)
   * [Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation](http://arxiv.org/abs/2504.06961v1)
   * [Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation](http://arxiv.org/abs/2504.00420v1)
   * [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](http://arxiv.org/abs/2503.08257v1)
   * [DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.html)
+  * [Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions](https://openaccess.thecvf.com/content/CVPR2025/html/Ruan_Prof._Robot_Differentiable_Robot_Rendering_Without_Static_and_Self-Collisions_CVPR_2025_paper.html)
+  * [RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training](https://openaccess.thecvf.com/content/CVPR2025/html/Goswami_RoboPEPP_Vision-Based_Robot_Pose_and_Joint_Angle_Estimation_through_Embedding_CVPR_2025_paper.html)
+  * [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://openaccess.thecvf.com/content/CVPR2025/html/Mu_RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_CVPR_2025_paper.html)
+  * [MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_MobileH2R_Learning_Generalizable_Human_to_Mobile_Robot_Handover_Exclusively_from_CVPR_2025_paper.html)
+  * [RoboSense: Large-scale Dataset and Benchmark for Egocentric Robot Perception and Navigation in Crowded and Unstructured Environments](https://openaccess.thecvf.com/content/CVPR2025/html/Su_RoboSense_Large-scale_Dataset_and_Benchmark_for_Egocentric_Robot_Perception_and_CVPR_2025_paper.html)
+  * [Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Pixel-aligned_RGB-NIR_Stereo_Imaging_and_Dataset_for_Robot_Vision_CVPR_2025_paper.html)
   * [Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Lift3D_Policy_Lifting_2D_Foundation_Models_for_Robust_3D_Robotic_CVPR_2025_paper.html)
   * [RoboGround: Robotic Manipulation with Grounded Vision-Language Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html)
   * [PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_PhysVLM_Enabling_Visual_Language_Models_to_Understand_Robotic_Physical_Reachability_CVPR_2025_paper.html)
@@ -672,6 +815,8 @@
 
 
 
+
+
 ## GAN/Image Synthesis(图像生成)
 * [Z-Magic: Zero-shot Multiple Attributes Guided Image Creator](http://arxiv.org/abs/2503.12124v1)
 * [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](http://arxiv.org/abs/2503.11629v1)<br>:star:[code](https://github.com/sail-sg/TreeMeshGPT)
@@ -708,6 +853,12 @@
 * 图像合成
   * [Multi-focal Conditioned Latent Diffusion for Person Image Synthesis](http://arxiv.org/abs/2503.15686v1)<br>:star:[code](https://github.com/jqliu09/mcld)
   * [Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models](http://arxiv.org/abs/2503.18352v1)
+  * [Science-T2I: Addressing Scientific Illusions in Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Science-T2I_Addressing_Scientific_Illusions_in_Image_Synthesis_CVPR_2025_paper.html)
+  * [Consistency Posterior Sampling for Diverse Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Purohit_Consistency_Posterior_Sampling_for_Diverse_Image_Synthesis_CVPR_2025_paper.html)
+  * [Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Han_Infinity_Scaling_Bitwise_AutoRegressive_Modeling_for_High-Resolution_Image_Synthesis_CVPR_2025_paper.html)
+  * [Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Training-free_Dense-Aligned_Diffusion_Guidance_for_Modular_Conditional_Image_Synthesis_CVPR_2025_paper.html)
+  * [Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_Exploring_Sparse_MoE_in_GANs_for_Text-conditioned_Image_Synthesis_CVPR_2025_paper.html)
+  * [Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Anatomical_Consistency_and_Adaptive_Prior-informed_Transformation_for_Multi-contrast_MR_Image_CVPR_2025_paper.html)
 * 三维生成
   * [DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation](http://arxiv.org/abs/2503.06900v1)
   * [MAR-3D: Progressive Masked Auto-regressor for High-Resolution 3D Generation](http://arxiv.org/abs/2503.20519v1)
@@ -727,6 +878,36 @@
 * 图像生成  
   * [DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models](http://arxiv.org/abs/2503.01645v1)
   * [Zero-Shot Styled Text Image Generation, but Make It Autoregressive](http://arxiv.org/abs/2503.17074v1)
+  * [FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_FAM_Diffusion_Frequency_and_Attention_Modulation_for_High-Resolution_Image_Generation_CVPR_2025_paper.html)
+  * [DreamOmni: Unified Image Generation and Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Xia_DreamOmni_Unified_Image_Generation_and_Editing_CVPR_2025_paper.html)
+  * [UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_UniReal_Universal_Image_Generation_and_Editing_via_Learning_Real-world_Dynamics_CVPR_2025_paper.html)
+  * [Controllable Human Image Generation with Personalized Multi-Garments](https://openaccess.thecvf.com/content/CVPR2025/html/Choi_Controllable_Human_Image_Generation_with_Personalized_Multi-Garments_CVPR_2025_paper.html)
+  * [IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Song_IDProtector_An_Adversarial_Noise_Encoder_to_Protect_Against_ID-Preserving_Image_CVPR_2025_paper.html)
+  * [ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Pu_ART_Anonymous_Region_Transformer_for_Variable_Multi-Layer_Transparent_Image_Generation_CVPR_2025_paper.html)
+  * [GPS as a Control Signal for Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_GPS_as_a_Control_Signal_for_Image_Generation_CVPR_2025_paper.html)
+  * [Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Jin_Dual-Interrelated_Diffusion_Model_for_Few-Shot_Anomaly_Image_Generation_CVPR_2025_paper.html)
+  * [DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_DesignDiffusion_High-Quality_Text-to-Design_Image_Generation_with_Diffusion_Models_CVPR_2025_paper.html)
+  * [Devil is in the Detail: Towards Injecting Fine Details of Image Prompt in Image Generation via Conflict-free Guidance and Stratified Attention](https://openaccess.thecvf.com/content/CVPR2025/html/Jo_Devil_is_in_the_Detail_Towards_Injecting_Fine_Details_of_CVPR_2025_paper.html)
+  * [TFCustom: Customized Image Generation with Time-Aware Frequency Feature Guidance](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_TFCustom_Customized_Image_Generation_with_Time-Aware_Frequency_Feature_Guidance_CVPR_2025_paper.html)
+  * [HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Kumbong_HMAR_Efficient_Hierarchical_Masked_Auto-Regressive_Image_Generation_CVPR_2025_paper.html)
+  * [Image Generation Diversity Issues and How to Tame Them](https://openaccess.thecvf.com/content/CVPR2025/html/Dombrowski_Image_Generation_Diversity_Issues_and_How_to_Tame_Them_CVPR_2025_paper.html)
+  * [T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_T2ISafety_Benchmark_for_Assessing_Fairness_Toxicity_and_Privacy_in_Image_CVPR_2025_paper.html)
+  * [DreamCache: Finetuning-Free Lightweight Personalized Image Generation via Feature Caching](https://openaccess.thecvf.com/content/CVPR2025/html/Aiello_DreamCache_Finetuning-Free_Lightweight_Personalized_Image_Generation_via_Feature_Caching_CVPR_2025_paper.html)
+  * [Dual Diffusion for Unified Image Generation and Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Dual_Diffusion_for_Unified_Image_Generation_and_Understanding_CVPR_2025_paper.html)
+  * [Learning Flow Fields in Attention for Controllable Person Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_Learning_Flow_Fields_in_Attention_for_Controllable_Person_Image_Generation_CVPR_2025_paper.html)
+  * [Improving Editability in Image Generation with Layer-wise Memory](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Improving_Editability_in_Image_Generation_with_Layer-wise_Memory_CVPR_2025_paper.html)
+  * [ZoomLDM: Latent Diffusion Model for Multi-scale Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Yellapragada_ZoomLDM_Latent_Diffusion_Model_for_Multi-scale_Image_Generation_CVPR_2025_paper.html)
+  * [D^2iT: Dynamic Diffusion Transformer for Accurate Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_D2iT_Dynamic_Diffusion_Transformer_for_Accurate_Image_Generation_CVPR_2025_paper.html)
+  * [Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_Schedule_On_the_Fly_Diffusion_Time_Prediction_for_Faster_and_CVPR_2025_paper.html)
+  * [SerialGen: Personalized Image Generation by First Standardization Then Personalization](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_SerialGen_Personalized_Image_Generation_by_First_Standardization_Then_Personalization_CVPR_2025_paper.html)
+  * [Boost Your Human Image Generation Model via Direct Preference Optimization](https://openaccess.thecvf.com/content/CVPR2025/html/Na_Boost_Your_Human_Image_Generation_Model_via_Direct_Preference_Optimization_CVPR_2025_paper.html)
+  * [FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_FoundHand_Large-Scale_Domain-Specific_Learning_for_Controllable_Hand_Image_Generation_CVPR_2025_paper.html)
+  * [Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Cohen_Conditional_Balance_Improving_Multi-Conditioning_Trade-Offs_in_Image_Generation_CVPR_2025_paper.html)
+  * [UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Duan_UNIC-Adapter_Unified_Image-instruction_Adapter_with_Multi-modal_Transformer_for_Image_Generation_CVPR_2025_paper.html)
+  * [Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_Not_Just_Text_Uncovering_Vision_Modality_Typographic_Threats_in_Image_CVPR_2025_paper.html)
+  * [OmniGen: Unified Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_OmniGen_Unified_Image_Generation_CVPR_2025_paper.html)
+  * [Spherical Manifold Guided Diffusion Model for Panoramic Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_Spherical_Manifold_Guided_Diffusion_Model_for_Panoramic_Image_Generation_CVPR_2025_paper.html)
+  * [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Large-Scale_Text-to-Image_Model_with_Inpainting_is_a_Zero-Shot_Subject-Driven_Image_CVPR_2025_paper.html)
 * 图像-视频
   * [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](http://arxiv.org/abs/2503.00948v1)
   * [I2VGuard: Safeguarding Images against Misuse in Diffusion-based Image-to-Video Models](https://openaccess.thecvf.com/content/CVPR2025/html/Gui_I2VGuard_Safeguarding_Images_against_Misuse_in_Diffusion-based_Image-to-Video_Models_CVPR_2025_paper.html)
@@ -746,6 +927,12 @@
   * [Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis](http://arxiv.org/abs/2503.22168v1)
   * [Implicit Bias Injection Attacks against Text-to-Image Diffusion Models](http://arxiv.org/abs/2504.01819v1)<br>:star:[code](https://github.com/Hannah1102/IBI-attacks)
   * [VODiff: Controlling Object Visibility Order in Text-to-Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Liang_VODiff_Controlling_Object_Visibility_Order_in_Text-to-Image_Generation_CVPR_2025_paper.html)
+  * [PreciseCam: Precise Camera Control for Text-to-Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Bernal-Berdun_PreciseCam_Precise_Camera_Control_for_Text-to-Image_Generation_CVPR_2025_paper.html)
+  * [CoSER: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_CoSER_Towards_Consistent_Dense_Multiview_Text-to-Image_Generator_for_3D_Creation_CVPR_2025_paper.html)
+  * [Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Miao_Noise_Diffusion_for_Enhancing_Semantic_Faithfulness_in_Text-to-Image_Synthesis_CVPR_2025_paper.html)
+  * [Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Yuan_Generative_Photography_Scene-Consistent_Camera_Control_for_Realistic_Text-to-Image_Synthesis_CVPR_2025_paper.html)
+  * [Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects](https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_Self-Cross_Diffusion_Guidance_for_Text-to-Image_Synthesis_of_Similar_Subjects_CVPR_2025_paper.html)
+  * [Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Exploring_the_Deep_Fusion_of_Large_Language_Models_and_Diffusion_CVPR_2025_paper.html)
   * [ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_ChatGen_Automatic_Text-to-Image_Generation_From_FreeStyle_Chatting_CVPR_2025_paper.html)
   * [MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Li_MCCD_Multi-Agent_Collaboration-based_Compositional_Diffusion_for_Complex_Text-to-Image_Generation_CVPR_2025_paper.html)
   * [Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Yun_Learning_to_Sample_Effective_and_Diverse_Prompts_for_Text-to-Image_Generation_CVPR_2025_paper.html)
@@ -860,7 +1047,11 @@
   * [VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_VERA_Explainable_Video_Anomaly_Detection_via_Verbalized_Learning_of_Vision-Language_CVPR_2025_paper.html)
   * [Just Dance with pi! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Majhi_Just_Dance_with_pi_A_Poly-modal_Inductor_for_Weakly-supervised_Video_CVPR_2025_paper.html)
   * [Noise-Resistant Video Anomaly Detection via RGB Error-Guided Multiscale Predictive Coding and Dynamic Memory](https://openaccess.thecvf.com/content/CVPR2025/html/Hu_Noise-Resistant_Video_Anomaly_Detection_via_RGB_Error-Guided_Multiscale_Predictive_Coding_CVPR_2025_paper.html)
-
+* 视频分析
+  * [SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_SALOVA_Segment-Augmented_Long_Video_Assistant_for_Targeted_Retrieval_and_Routing_CVPR_2025_paper.html)
+  * [Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs for Effective Long Video Analysis with LLMs](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Building_a_Mind_Palace_Structuring_Environment-Grounded_Semantic_Graphs_for_Effective_CVPR_2025_paper.html)
+  * [VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation](https://openaccess.thecvf.com/content/CVPR2025/html/Luo_VideoAutoArena_An_Automated_Arena_for_Evaluating_Large_Multimodal_Models_in_CVPR_2025_paper.html)
+  * [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Video-MME_The_First-Ever_Comprehensive_Evaluation_Benchmark_of_Multi-modal_LLMs_in_CVPR_2025_paper.html)
 
 
 
@@ -1281,6 +1472,7 @@
 * [MIMO: A Medical Vision Language Model with Visual Referring Multimodal Input and Pixel Grounding Multimodal Output](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_MIMO_A_Medical_Vision_Language_Model_with_Visual_Referring_Multimodal_CVPR_2025_paper.html)
 * [Multi-modal Medical Diagnosis via Large-small Model Collaboration](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Multi-modal_Medical_Diagnosis_via_Large-small_Model_Collaboration_CVPR_2025_paper.html)
 * [VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge](https://openaccess.thecvf.com/content/CVPR2025/html/Nath_VILA-M3_Enhancing_Vision-Language_Models_with_Medical_Expert_Knowledge_CVPR_2025_paper.html)
+* [WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression](https://openaccess.thecvf.com/content/CVPR2025/html/Mao_WISE_A_Framework_for_Gigapixel_Whole-Slide-Image_Lossless_Compression_CVPR_2025_paper.html)
 * CT 去噪
   * [Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)
 * 肿瘤分割
@@ -1291,9 +1483,12 @@
   * [CSC-PA: Cross-image Semantic Correlation via Prototype Attentions for Single-network Semi-supervised Breast Tumor Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Ding_CSC-PA_Cross-image_Semantic_Correlation_via_Prototype_Attentions_for_Single-network_Semi-supervised_CVPR_2025_paper.html)
   * [Incomplete Multi-modal Brain Tumor Segmentation via Learnable Sorting State Space Model](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Incomplete_Multi-modal_Brain_Tumor_Segmentation_via_Learnable_Sorting_State_Space_CVPR_2025_paper.html)
   * [SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SuperLightNet_Lightweight_Parameter_Aggregation_Network_for_Multimodal_Brain_Tumor_Segmentation_CVPR_2025_paper.html)
-* 报告生成
+* X射线
   * [Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation](http://arxiv.org/abs/2502.20056v1)
   * [CXPMRG-Bench: Pre-training and Benchmarking for X-ray Medical Report Generation on CheXpert Plus Dataset](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_CXPMRG-Bench_Pre-training_and_Benchmarking_for_X-ray_Medical_Report_Generation_on_CVPR_2025_paper.html)
+  * [Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans?](https://openaccess.thecvf.com/content/CVPR2025/html/Tao_Dual-view_X-ray_Detection_Can_AI_Detect_Prohibited_Items_from_Dual-view_CVPR_2025_paper.html)
+  * [CheXwhatsApp: A Dataset for Exploring Challenges in the Diagnosis of Chest X-rays through Mobile Devices](https://openaccess.thecvf.com/content/CVPR2025/html/Antony_CheXwhatsApp_A_Dataset_for_Exploring_Challenges_in_the_Diagnosis_of_CVPR_2025_paper.html)
+  * [FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models](https://openaccess.thecvf.com/content/CVPR2025/html/Heiman_FactCheXcker_Mitigating_Measurement_Hallucinations_in_Chest_X-ray_Report_Generation_Models_CVPR_2025_paper.html)
 * 全切片分类
   * [MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification](http://arxiv.org/abs/2503.12401v1)
   * [HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving](https://openaccess.thecvf.com/content/CVPR2025/html/Raswa_HistoFS_Non-IID_Histopathologic_Whole_Slide_Image_Classification_via_Federated_Style_CVPR_2025_paper.html)
@@ -1341,10 +1536,6 @@
   * [DeNVeR: Deformable Neural Vessel Representations for Unsupervised Video Vessel Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DeNVeR_Deformable_Neural_Vessel_Representations_for_Unsupervised_Video_Vessel_Segmentation_CVPR_2025_paper.html)
 * 放射学报告生成
   * [DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Park_DART_Disease-aware_Image-Text_Alignment_and_Self-correcting_Re-alignment_for_Trustworthy_Radiology_CVPR_2025_paper.html)
-
-
-
-
 
 
 
@@ -1489,6 +1680,10 @@
   * [Incremental Object Keypoint Learning](http://arxiv.org/abs/2503.20248v1)
   * [GLane3D : Detecting Lanes with Graph of 3D Keypoints](http://arxiv.org/abs/2503.23882v1)
   * [Generalizable Object Keypoint Localization from Generative Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Generalizable_Object_Keypoint_Localization_from_Generative_Priors_CVPR_2025_paper.html)
+* X射线行李安检
+  * [STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection](https://openaccess.thecvf.com/content/CVPR2025/html/Velayudhan_STING-BEE_Towards_Vision-Language_Model_for_Real-World_X-ray_Baggage_Security_Inspection_CVPR_2025_paper.html)
+
+
 
 
 
@@ -1624,7 +1819,6 @@
   * [VideoGigaGAN: Towards Detail-rich Video Super-Resolution](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_VideoGigaGAN_Towards_Detail-rich_Video_Super-Resolution_CVPR_2025_paper.html)
 
 
-
 ## Image Progress(图像/视频处理)
 * [Segment Any-Quality Images with Generative Latent Space Enhancement](http://arxiv.org/abs/2503.12507v1)
 * [A$^\text{T}$A: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting](http://arxiv.org/abs/2504.01603v1)
@@ -1633,6 +1827,10 @@
 * 图像增强
   * [HVI: A New Color Space for Low-light Image Enhancement](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_HVI_A_New_Color_Space_for_Low-light_Image_Enhancement_CVPR_2025_paper.html)
   * [Noise Calibration and Spatial-Frequency Interactive Network for STEM Image Enhancement](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Noise_Calibration_and_Spatial-Frequency_Interactive_Network_for_STEM_Image_Enhancement_CVPR_2025_paper.html)
+* 图像修复
+  * [RAD: Region-Aware Diffusion Models for Image Inpainting](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_RAD_Region-Aware_Diffusion_Models_for_Image_Inpainting_CVPR_2025_paper.html)
+  * [Towards Enhanced Image Inpainting: Mitigating Unwanted Object Insertion and Preserving Color Consistency](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Enhanced_Image_Inpainting_Mitigating_Unwanted_Object_Insertion_and_Preserving_CVPR_2025_paper.html)
+  * [TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_TurboFill_Adapting_Few-step_Text-to-image_Model_for_Fast_Image_Inpainting_CVPR_2025_paper.html)
 * 图像恢复
   * [From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective](http://arxiv.org/abs/2503.13165v1)<br>:star:[code](https://github.com/NJU-PCALab/ERR)
   * [Erase Diffusion: Empowering Object Removal Through Calibrating Diffusion Pathways](http://arxiv.org/abs/2503.07026v1)
@@ -1701,6 +1899,7 @@
   * [Classic Video Denoising in a Machine Learning World: Robust, Fast, and Controllable](https://openaccess.thecvf.com/content/CVPR2025/html/Jin_Classic_Video_Denoising_in_a_Machine_Learning_World_Robust_Fast_CVPR_2025_paper.html)
 * 视频修复
   * [HomoGen: Enhanced Video Inpainting via Homography Propagation and Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Ding_HomoGen_Enhanced_Video_Inpainting_via_Homography_Propagation_and_Diffusion_CVPR_2025_paper.html)
+  * [Keyframe-Guided Creative Video Inpainting](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Keyframe-Guided_Creative_Video_Inpainting_CVPR_2025_paper.html)
 * 视频质量评估
   * [FineVQ: Fine-Grained User Generated Content Video Quality Assessment](https://openaccess.thecvf.com/content/CVPR2025/html/Duan_FineVQ_Fine-Grained_User_Generated_Content_Video_Quality_Assessment_CVPR_2025_paper.html)
   * [KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_KVQ_Boosting_Video_Quality_Assessment_via_Saliency-guided_Local_Perception_CVPR_2025_paper.html)
@@ -1823,7 +2022,6 @@
 
 ## Face
 * [Zero-Shot Head Swapping in Real-World Scenarios](http://arxiv.org/abs/2503.00861v1)
-* [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](http://arxiv.org/abs/2412.04000v1)<br>:house:[project](https://bit.ly/ifmdm_supplementary)
 * [S^3-Face: SSS-Compliant Facial Reflectance Estimation via Diffusion Priors](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_S3-Face_SSS-Compliant_Facial_Reflectance_Estimation_via_Diffusion_Priors_CVPR_2025_paper.html)
 * [Adv-CPG: A Customized Portrait Generation Framework with Facial Adversarial Attacks](http://arxiv.org/abs/2503.08269v1)
 * [FreeUV: Ground-Truth-Free Realistic Facial UV Texture Recovery via Cross-Assembly Inference Strategy](http://arxiv.org/abs/2503.17197v1)<br>:star:[code](https://yangxingchao.github.io/FreeUV-page/)
@@ -1875,6 +2073,12 @@
 * 说话头
   * [InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](http://arxiv.org/abs/2502.20387v1)<br>:star:[code](https://fictionarry.github.io/InsTaG/)
   * [Monocular and Generalizable Gaussian Talking Head Animation](http://arxiv.org/abs/2504.00665v1)
+  * [IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation](http://arxiv.org/abs/2412.04000v1)<br>:house:[project](https://bit.ly/ifmdm_supplementary)
+  * [IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular VideosC](https://openaccess.thecvf.com/content/CVPR2025/html/Li_IM-Portrait_Learning_3D-aware_Video_Diffusion_for_Photorealistic_Talking_Heads_from_CVPR_2025_paper.html)
+  * [Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics](https://openaccess.thecvf.com/content/CVPR2025/html/Chae-Yeon_Perceptually_Accurate_3D_Talking_Head_Generation_New_Definitions_Speech-Mesh_Representation_CVPR_2025_paper.html)
+  * [DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations](https://openaccess.thecvf.com/content/CVPR2025/html/Peng_DualTalk_Dual-Speaker_Interaction_for_3D_Talking_Head_Conversations_CVPR_2025_paper.html)
+  * [Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Synergizing_Motion_and_Appearance_Multi-Scale_Compensatory_Codebooks_for_Talking_Head_CVPR_2025_paper.html)
+  * [EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_EmotiveTalk_Expressive_Talking_Head_Generation_through_Audio_Information_Decoupling_and_CVPR_2025_paper.html)
 * 情感识别
   * [CocoER: Aligning Multi-Level Feature by  Competition and Coordination for Emotion Recognition](https://openaccess.thecvf.com/content/CVPR2025/html/Shen_CocoER_Aligning_Multi-Level_Feature_by__Competition_and_Coordination_for_CVPR_2025_paper.html)
   * [Knowledge-Aligned Counterfactual-Enhancement Diffusion Perception for Unsupervised Cross-Domain Visual Emotion Recognition](https://openaccess.thecvf.com/content/CVPR2025/html/Yin_Knowledge-Aligned_Counterfactual-Enhancement_Diffusion_Perception_for_Unsupervised_Cross-Domain_Visual_Emotion_Recognition_CVPR_2025_paper.html)
@@ -1884,13 +2088,15 @@
 * 微表情识别
   * [Dynamic Stereotype Theory Induced Micro-expression Recognition with Oriented Deformation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Dynamic_Stereotype_Theory_Induced_Micro-expression_Recognition_with_Oriented_Deformation_CVPR_2025_paper.html)
 
+
+
+
 ## Othere(其它)
 * [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
 * [PRaDA: Projective Radial Distortion Averaging](http://arxiv.org/abs/2504.16499v1)
 * [One-Step Event-Driven High-Speed Autofocus](http://arxiv.org/abs/2503.01214v1)
 * [Color Alignment in Diffusion](http://arxiv.org/abs/2503.06746v1)
 * [LatexBlend: Scaling Multi-concept Customized Generation with Latent Textual Blending](http://arxiv.org/abs/2503.06956v1)
-* [A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning](http://arxiv.org/abs/2503.06960v1)<br>:star:[code](https://github.com/CVMI-Lab/SlotMIM)
 * [MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World](http://arxiv.org/abs/2504.15397v1)<br>:star:[code](https://mirror-verse.github.io/)
 * [Effortless Active Labeling for Long-Term Test-Time Adaptation](http://arxiv.org/abs/2503.14564v1)<br>:star:[code](https://github.com/flash1803/EATTA)
 * [AvatarArtist: Open-Domain 4D Avatarization](http://arxiv.org/abs/2503.19906v1)
