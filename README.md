@@ -33,11 +33,11 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-|[1.Othere(其它)(#1)]|[2.Face(人脸)](#2)|[3.Image Segmentation(图像分割)](#3)|[4.Image Progress(图像/视频处理)](#4)|
+|[1.Othere(其它)](#1)|[2.Face(人脸)](#2)|[3.Image Segmentation(图像分割)](#3)|[4.Image Progress(图像/视频处理)](#4)|
 |[5.Image SR(超分辨率)](#5)|[6.Image Classification(图像分类)](#6)|[7.Image/video Compression(图像/视频压缩)](#7)|[8.Image/Video Captions(图像字幕)](#8)|
 |[9.Image/Video Retrieval(图像检索)](#9)|[10.ODetection(目标检测)](#10)|[11.OTracking(目标跟踪)](#11)|[12.Autonomous Driving(自动驾驶)](#12)|
 |[13.Medical Image Progress(医学影响处理)](#13)|[14.HPE(姿态估计)](#14)|[15.ActDetection(动作检测)](#15)|[16.Human Motion Generation(人体运动生成)](#16)|
-|[17.HOI(人机交互)](#17)|[18.Person Re-id(人员重识别)](#18)|[19.UAV/RS/Satellite Image(无人机/遥感/卫星图像)](#19)|【20.VQA(视觉问答)(#20)|
+|[17.HOI(人机交互)](#17)|[18.Person Re-id(人员重识别)](#18)|[19.UAV/RS/Satellite Image(无人机/遥感/卫星图像)](#19)|[20.VQA(视觉问答)](#20)|
 |[21.Point Cloud(点云)](#21)|[22.3D(三维重建\三维视觉)](#22)|[23.OCR](#23)|[24.Video ](#24)|
 |[25.GAN/Image Synthesis(图像生成)](#25)|[26.Style Transfer(风格迁移)](#26)|[27.SGG(场景图生成)](#27)|[28.Optical Flow Estimation(光流估计)](#28)|
 |[29.Scene Flow Estimation(场景流估计)](#29)|[30.Gaze Estimation(视线估计)](#30)|[31.机器人导航/SLAM](#31)|[32Machine learning(机器学习)](#32)|
@@ -2715,9 +2715,7 @@
   * [Coherent 3D Portrait Video Reconstruction via Triplane Fusion](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Coherent_3D_Portrait_Video_Reconstruction_via_Triplane_Fusion_CVPR_2025_paper.html)
   * [DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis](https://openaccess.thecvf.com/content/CVPR2025/html/Gu_DiffPortrait360_Consistent_Portrait_Diffusion_for_360_View_Synthesis_CVPR_2025_paper.html)
 
-
 <a name="1"/>
-
 
 ## 1.Othere(其它)
 * [Hyperbolic Category Discovery](http://arxiv.org/abs/2504.06120v1)
