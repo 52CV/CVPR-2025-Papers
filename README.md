@@ -1,6 +1,6 @@
 # CVPR-2025-Papers
-## 会议时间：
-## 会议网址：
+## 会议时间：2025年6月11日至15日
+## 会议网址：https://cvpr.thecvf.com/
 ## ❣❣❣ CVPR 2025 论文分类整理ing
 
 ## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
