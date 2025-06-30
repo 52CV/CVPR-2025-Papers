@@ -8,7 +8,7 @@
 ## 2025 年论文分类汇总戳这里
 ↘️[WACV-2025-Papers](https://github.com/52CV/WACV-2025-Papers)
 ↘️[CVPR-2025-Papers](https://github.com/52CV/CVPR-2025-Papers)
-
+↘️[ICCV-2025-Papers](https://github.com/52CV/ICCV-2025-Papers)
 
 ## [2024 年论文分类汇总戳这里](#00000)
 ## [2023 年论文分类汇总戳这里](#0000)
