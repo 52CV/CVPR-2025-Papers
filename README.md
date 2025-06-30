@@ -3,7 +3,7 @@
 ## 会议网址：https://cvpr.thecvf.com/
 ## ❣❣❣ CVPR 2025 论文分类整理ing
 
-## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
+## 查看2025年综述文献点这里↘️[2025-CV-Surveys](https://github.com/52CV/CV-Surveys)
 
 ## 2025 年论文分类汇总戳这里
 ↘️[WACV-2025-Papers](https://github.com/52CV/WACV-2025-Papers)
